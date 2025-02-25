@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新02月23日
+#EXTINF:-1 group-title="公告",更新02月25日
 https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -225,6 +225,68 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 
 
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://cssbyd.imwork.net:8082/hls/17/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南电影高清
+http://cssbyd.imwork.net:8082/hls/18/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://cssbyd.imwork.net:8082/hls/21/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南娱乐高清
+http://cssbyd.imwork.net:8082/hls/20/index.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://cssbyd.imwork.net:8082/hls/22/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://cssbyd.imwork.net:8082/hls/23/index.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://cssbyd.imwork.net:8082/hls/25/index.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://cssbyd.imwork.net:8082/hls/24/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://cssbyd.imwork.net:8082/hls/27/index.m3u8
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://cssbyd.imwork.net:8082/hls/26/index.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://cssbyd.imwork.net:8082/hls/29/index.m3u8
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://cssbyd.imwork.net:8082/hls/28/index.m3u8
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://cssbyd.imwork.net:8082/hls/31/index.m3u8
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://cssbyd.imwork.net:8082/hls/30/index.m3u8
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://cssbyd.imwork.net:8082/hls/33/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://cssbyd.imwork.net:8082/hls/32/index.m3u8
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://cssbyd.imwork.net:8082/hls/35/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://cssbyd.imwork.net:8082/hls/34/index.m3u8
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://cssbyd.imwork.net:8082/hls/37/index.m3u8
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://cssbyd.imwork.net:8082/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://cssbyd.imwork.net:8082/hls/39/index.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://cssbyd.imwork.net:8082/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://cssbyd.imwork.net:8082/hls/41/index.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://cssbyd.imwork.net:8082/hls/40/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://cssbyd.imwork.net:8082/hls/43/index.m3u8
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://cssbyd.imwork.net:8082/hls/42/index.m3u8
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://cssbyd.imwork.net:8082/hls/45/index.m3u8
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://cssbyd.imwork.net:8082/hls/44/index.m3u8
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://cssbyd.imwork.net:8082/hls/47/index.m3u8
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://cssbyd.imwork.net:8082/hls/48/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://1.195.30.9:19901/tsfile/live/0124_1.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
