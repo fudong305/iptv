@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新03月05日
+#EXTINF:-1 group-title="公告",更新03月10日
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -377,164 +377,82 @@ https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f39
 
 
 #EXTM3U
+#EXTINF:-1 group-title="电影轮播",读心神探
+https://lunbo.freetv.top/yy/1382736875
+#EXTINF:-1 group-title="电影轮播",封神榜
+https://lunbo.freetv.top/yy/1353426319
+#EXTINF:-1 group-title="电影轮播",狂飙
+https://lunbo.freetv.top/yy/1355142167
+#EXTINF:-1 group-title="电影轮播",鹿鼎记
+https://lunbo.freetv.top/yy/28265277
+#EXTINF:-1 group-title="电影轮播",金玉满堂：精彩港剧
+http://lunbo.freetv.top/yy/1382736881
+#EXTINF:-1 group-title="电影轮播",封神榜
+http://lunbo.freetv.top/yy/1353426319
+#EXTINF:-1 group-title="电影轮播",宫心计-港剧-古装
+http://lunbo.freetv.top/yy/1354933540
+#EXTINF:-1 group-title="电影轮播",古装武打港剧
+http://lunbo.freetv.top/yy/1354936116
+#EXTINF:-1 group-title="电影轮播",心理追凶-烧脑港剧
+http://lunbo.freetv.top/yy/1354936207
+#EXTINF:-1 group-title="电影轮播",新白娘子传奇
+https://lunbo.freetv.top/yy/1354930969
+#EXTINF:-1 group-title="电影轮播",宰相刘罗锅
+https://lunbo.freetv.top/yy/1382745191
+#EXTINF:-1 group-title="电影轮播",笑傲江湖
+https://lunbo.freetv.top/yy/1354930909
+#EXTINF:-1 group-title="电影轮播",寻秦记
+https://lunbo.freetv.top/yy/1382851591
+#EXTINF:-1 group-title="电影轮播",破案 悬疑 港剧
+http://lunbo.freetv.top/yy/31219
+#EXTINF:-1 group-title="电影轮播",经典港剧-潮拜武当
+http://lunbo.freetv.top/yy/1354930967
+#EXTINF:-1 group-title="电影轮播",缺宅男女-精彩港剧
+http://lunbo.freetv.top/yy/1382745088
+#EXTINF:-1 group-title="电影轮播",鹿鼎记-周星驰版
+http://lunbo.freetv.top/yy/1354658049
+#EXTINF:-1 group-title="电影轮播",港片-神探
+http://lunbo.freetv.top/yy/1382736872
+#EXTINF:-1 group-title="电影轮播",当旺爸爸-港剧
+http://lunbo.freetv.top/yy/1354936208
+#EXTINF:-1 group-title="电影轮播",电影_梁家辉
+https://live.iill.top/huya/11342429
+#EXTINF:-1 group-title="电影轮播",电影_梁家辉
+http://cdn.jdshipin.com:8880/huya.php?id=11342429
+#EXTINF:-1 group-title="电影轮播",电影_强森
+https://live.iill.top/huya/21059581
+#EXTINF:-1 group-title="电影轮播",电影_强森
+http://cdn.jdshipin.com:8880/huya.php?id=21059581
+#EXTINF:-1 group-title="电影轮播",电影_洪金宝
+http://cdn.jdshipin.com:8880/huya.php?id=11279251
+#EXTINF:-1 group-title="电影轮播",甄子丹
+https://live.iill.top/huya/11352935
+#EXTINF:-1 group-title="电影轮播",电影_黄渤
+https://live.metshop.top/huya/11352876
+#EXTINF:-1 group-title="电影轮播",林正英
+http://zzy789.xyz/douyu1.php?id=7356023
+#EXTINF:-1 group-title="电影轮播",王晶
+http://1.94.31.214:35455/huya/11602058
+#EXTINF:-1 group-title="电影轮播",黄渤
+http://1.94.31.214:35455/huya/11352876
+#EXTINF:-1 group-title="电影轮播",星爷
+http://1.94.31.214:35455/huya/11342412
+#EXTINF:-1 group-title="电影轮播",刘德华
+https://live.iill.top/huya/11342424
+#EXTINF:-1 group-title="电影轮播",李连杰
+https://live.iill.top/huya/11342390
+#EXTINF:-1 group-title="电影轮播",周星驰
+http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+#EXTINF:-1 group-title="电影轮播",周星驰
+https://live.iill.top/huya/11342412
+#EXTINF:-1 group-title="电影轮播",周星驰
+https://live.metshop.top/huya/11342412
 #EXTINF:-1 group-title="电影轮播",流金岁月
 http://zby.xjqxz.top/hkdy1/live.m3u8
-#EXTINF:-1 group-title="电影轮播",院线大片
-http://zby.xjqxz.top/zh06/live.m3u8
 #EXTINF:-1 group-title="电影轮播",重温经典频道
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="电影轮播",电影_警匪
-http://120.77.28.4:8648/huya.php?id=11352886
-#EXTINF:-1 group-title="电影轮播",父母爱情
-http://120.77.28.4:8648/huya.php?id=11602071
-#EXTINF:-1 group-title="电影轮播",鸡毛飞上天
-http://120.77.28.4:8648/yy.php?id=1461033197
-#EXTINF:-1 group-title="电影轮播",我的体育老师
-http://120.77.28.4:8648/yy.php?id=1382745169
-#EXTINF:-1 group-title="电影轮播",少年歌行
-http://120.77.28.4:8648/yy.php?id=1354806550
-#EXTINF:-1 group-title="电影轮播",伪装者
-http://120.77.28.4:8648/yy.php?id=1354936244
-#EXTINF:-1 group-title="电影轮播",勇敢的心
-http://120.77.28.4:8648/yy.php?id=1354744544
-#EXTINF:-1 group-title="电影轮播",雍正王朝
-http://120.77.28.4:8648/yy.php?id=26650882
-#EXTINF:-1 group-title="电影轮播",宰相刘罗锅
-http://120.77.28.4:8648/yy.php?id=1382745191
-#EXTINF:-1 group-title="电影轮播",武林外传
-http://120.77.28.4:8648/yy.php?id=1355652820
-#EXTINF:-1 group-title="电影轮播",包青天（金超群版）
-http://120.77.28.4:8648/yy.php?id=1356158015
-#EXTINF:-1 group-title="电影轮播",少年包青天
-http://120.77.28.4:8648/yy.php?id=38498680
-#EXTINF:-1 group-title="电影轮播",红楼梦
-http://120.77.28.4:8648/yy.php?id=1382745084
-#EXTINF:-1 group-title="电影轮播",我爱我家
-http://120.77.28.4:8648/yy.php?id=1382735557
-#EXTINF:-1 group-title="电影轮播",神医喜来乐
-http://120.77.28.4:8648/yy.php?id=1382714119
-#EXTINF:-1 group-title="电影轮播",且试天下
-http://120.77.28.4:8648/yy.php?id=29067083
-#EXTINF:-1 group-title="电影轮播",雪中悍刀行
-http://120.77.28.4:8648/yy.php?id=1382660835
-#EXTINF:-1 group-title="电影轮播",情满四合院
-http://120.77.28.4:8648/yy.php?id=1382735541
-#EXTINF:-1 group-title="电影轮播",短剧轮播
-http://120.77.28.4:8648/yy.php?id=1382881708
-#EXTINF:-1 group-title="电影轮播",狂飙高清
-http://120.77.28.4:8648/yy.php?id=1355142167
-#EXTINF:-1 group-title="电影轮播",赵本山小品
-http://120.77.28.4:8648/yy.php?id=1354936217
-#EXTINF:-1 group-title="电影轮播",火凤凰
-http://120.77.28.4:8648/yy.php?id=1463088777
-#EXTINF:-1 group-title="电影轮播",鹿鼎记
-http://120.77.28.4:8648/yy.php?id=28265277
-#EXTINF:-1 group-title="电影轮播",老三国
-http://120.77.28.4:8648/yy.php?id=1354930932
-#EXTINF:-1 group-title="电影轮播",老三国
-http://120.77.28.4:8648/yy.php?id=1354936241
-#EXTINF:-1 group-title="电影轮播",西游记张卫健
-http://120.77.28.4:8648/yy.php?id=1354936155
-#EXTINF:-1 group-title="电影轮播",剧集_新三国
-http://120.77.28.4:8648/yy.php?id=23512910
-#EXTINF:-1 group-title="电影轮播",巩汉林小品
-http://120.77.28.4:8648/yy.php?id=1354889035
-#EXTINF:-1 group-title="电影轮播",蔡明小品
-http://120.77.28.4:8648/yy.php?id=1354936177
-#EXTINF:-1 group-title="电影轮播",今夜欢乐颂
-http://120.77.28.4:8648/yy.php?id=1382735572
-#EXTINF:-1 group-title="电影轮播",笑声传奇
-http://120.77.28.4:8648/yy.php?id=1382736880
-#EXTINF:-1 group-title="电影轮播",笑傲江湖第一季
-http://120.77.28.4:8648/yy.php?id=1382749896
-#EXTINF:-1 group-title="电影轮播",邵氏影院
-http://120.77.28.4:8648/douyu.php?id=4246519
-#EXTINF:-1 group-title="电影轮播",粤语综艺
-http://120.77.28.4:8648/douyu.php?id=7919720
-#EXTINF:-1 group-title="电影轮播",华语经典
-http://120.77.28.4:8648/douyu.php?id=434971
-#EXTINF:-1 group-title="电影轮播",吃米滴虫
-http://120.77.28.4:8648/douyu.php?id=315457
-#EXTINF:-1 group-title="电影轮播",神乐影片
-http://120.77.28.4:8648/douyu.php?id=85894
-#EXTINF:-1 group-title="电影轮播",贝爷MAX厅
-http://120.77.28.4:8648/douyu.php?id=4332
-#EXTINF:-1 group-title="电影轮播",漫威影片
-http://120.77.28.4:8648/douyu.php?id=6140589
-#EXTINF:-1 group-title="电影轮播",豆瓣高分
-http://120.77.28.4:8648/douyu.php?id=8770422
-#EXTINF:-1 group-title="电影轮播",林正英电影1
-http://120.77.28.4:8648/douyu.php?id=218859
-#EXTINF:-1 group-title="电影轮播",林正英电影2
-http://120.77.28.4:8648/douyu.php?id=7356023
-#EXTINF:-1 group-title="电影轮播",贝爷影厅1
-http://120.77.28.4:8648/douyu.php?id=252802
-#EXTINF:-1 group-title="电影轮播",贝爷影厅2
-http://120.77.28.4:8648/douyu.php?id=36337
-#EXTINF:-1 group-title="电影轮播",霍格影片
-http://120.77.28.4:8648/douyu.php?id=8814650
-#EXTINF:-1 group-title="电影轮播",可乐电影
-http://120.77.28.4:8648/douyu.php?id=20415
-#EXTINF:-1 group-title="电影轮播",奶虫恐怖电影
-http://120.77.28.4:8648/douyu.php?id=263824
-#EXTINF:-1 group-title="电影轮播",恐怖经典
-http://120.77.28.4:8648/douyu.php?id=1165374
-#EXTINF:-1 group-title="电影轮播",变种人电影
-http://120.77.28.4:8648/douyu.php?id=9651304
-#EXTINF:-1 group-title="电影轮播",华语电影
-http://120.77.28.4:8648/douyu.php?id=3928
-#EXTINF:-1 group-title="电影轮播",连续剧1
-http://120.77.28.4:8648/douyu.php?id=4549169
-#EXTINF:-1 group-title="电影轮播",连续剧2
-http://120.77.28.4:8648/douyu.php?id=7623292
-#EXTINF:-1 group-title="电影轮播",斗鱼动画
-http://120.77.28.4:8648/douyu.php?id=7528160
-#EXTINF:-1 group-title="电影轮播",斗鱼电影1
-http://120.77.28.4:8648/douyu.php?id=2935323
-#EXTINF:-1 group-title="电影轮播",斗鱼电影2
-http://120.77.28.4:8648/douyu.php?id=7459925
-#EXTINF:-1 group-title="电影轮播",斗鱼电影3
-http://120.77.28.4:8648/douyu.php?id=431460
-#EXTINF:-1 group-title="电影轮播",斗鱼电影7
-http://120.77.28.4:8648/douyu.php?id=7655471
-#EXTINF:-1 group-title="电影轮播",斗鱼电影9
-http://120.77.28.4:8648/douyu.php?id=6566671
-#EXTINF:-1 group-title="电影轮播",斗鱼电影10
-http://120.77.28.4:8648/douyu.php?id=8475821
-#EXTINF:-1 group-title="电影轮播",斗鱼电影11
-http://120.77.28.4:8648/douyu.php?id=338759
-#EXTINF:-1 group-title="电影轮播",斗鱼电影12
-http://120.77.28.4:8648/douyu.php?id=2793084
-#EXTINF:-1 group-title="电影轮播",斗鱼电影13
-http://120.77.28.4:8648/douyu.php?id=5067952
-#EXTINF:-1 group-title="电影轮播",斗鱼电影15
-http://120.77.28.4:8648/douyu.php?id=5033502
-#EXTINF:-1 group-title="电影轮播",斗鱼电影16
-http://120.77.28.4:8648/douyu.php?id=426517
-#EXTINF:-1 group-title="电影轮播",斗鱼电影20
-http://120.77.28.4:8648/douyu.php?id=323876
-#EXTINF:-1 group-title="电影轮播",冰冰经典
-http://120.77.28.4:8648/douyu.php?id=74374
-#EXTINF:-1 group-title="电影轮播",星爷影院
-http://120.77.28.4:8648/douyu.php?id=508118
-#EXTINF:-1 group-title="电影轮播",凌儿影院
-http://120.77.28.4:8648/douyu.php?id=1377142
-#EXTINF:-1 group-title="电影轮播",恐怖惊悚
-http://120.77.28.4:8648/douyu.php?id=96577
 #EXTINF:-1 group-title="电影轮播",CHC华诚影视
 http://120.76.248.139/live/bfgd/4200000289.m3u8
-#EXTINF:-1 group-title="电影轮播",thrill恐怖电影
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="电影轮播",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="电影轮播",美亚电影(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="电影轮播",NOW星影台
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 group-title="电影轮播",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="电影轮播",超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 group-title="电影轮播",龙华电影
 http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 group-title="电影轮播",星光视界频道
@@ -581,130 +499,8 @@ http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d85475690
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 #EXTINF:-1 group-title="电影轮播",美丽中国说
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-#EXTINF:-1 group-title="电影轮播",开心麻花小品
-http://120.77.28.4:8648/douyu.php?id=10153463
-#EXTINF:-1 group-title="电影轮播",贾玲小品
-http://120.77.28.4:8648/douyu.php?id=10419541
-#EXTINF:-1 group-title="电影轮播",经典相声小品
-http://120.77.28.4:8648/douyu.php?id=9273031
-#EXTINF:-1 group-title="电影轮播",辽宁台相声小品
-http://120.77.28.4:8648/douyu.php?id=9403712
-#EXTINF:-1 group-title="电影轮播",琅琊榜
-http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 group-title="电影轮播",重温经典频道
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="电影轮播",北京IPTV淘电影
-http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="电影轮播",北京IPTV淘电影
-http://pve.grayidea.com:4022//rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="电影轮播",NewTv黑莓电影
-http://39.134.134.51/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002606%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371210150%2CEND&GuardEncType=2
-#EXTINF:-1 group-title="电影轮播",NewTv超级电影
-http://39.134.134.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002658%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371700698%2CEND&GuardEncType=2
-#EXTINF:-1 group-title="电影轮播",NewTv动作电影
-http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002640%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371670919%2CEND&GuardEncType=2
-#EXTINF:-1 group-title="电影轮播",北京IPTV淘电影
-http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="电影轮播",邵氏影院
-http://120.77.28.4:8648/douyu.php?id=4246519
-#EXTINF:-1 group-title="电影轮播",凌儿影院
-http://120.77.28.4:8648/douyu.php?id=1377142
-#EXTINF:-1 group-title="电影轮播",漫威影院
-http://120.77.28.4:8648/douyu.php?id=6140589
-#EXTINF:-1 group-title="电影轮播",童年影院
-http://120.77.28.4:8648/douyu.php?id=2935323
-#EXTINF:-1 group-title="电影轮播",粤语影院
-http://120.77.28.4:8648/douyu.php?id=6566671
-#EXTINF:-1 group-title="电影轮播",蚂蚱影院
-http://120.77.28.4:8648/douyu.php?id=6079455
-#EXTINF:-1 group-title="电影轮播",圆子影院
-http://120.77.28.4:8648/douyu.php?id=6566658
-#EXTINF:-1 group-title="电影轮播",动作影院
-http://120.77.28.4:8648/douyu.php?id=122402
-#EXTINF:-1 group-title="电影轮播",恐怖影院
-http://120.77.28.4:8648/douyu.php?id=218859
-#EXTINF:-1 group-title="电影轮播",刀刀影院
-http://120.77.28.4:8648/douyu.php?id=747764
-#EXTINF:-1 group-title="电影轮播",怡寶影视
-http://120.77.28.4:8648/douyu.php?id=434971
-#EXTINF:-1 group-title="电影轮播",贝贝影视
-http://120.77.28.4:8648/douyu.php?id=431460
-#EXTINF:-1 group-title="电影轮播",芊珏影视
-http://120.77.28.4:8648/douyu.php?id=8814650
-#EXTINF:-1 group-title="电影轮播",华强影视
-http://120.77.28.4:8648/douyu.php?id=9650792
-#EXTINF:-1 group-title="电影轮播",华语影视
-http://120.77.28.4:8648/douyu.php?id=3928
-#EXTINF:-1 group-title="电影轮播",可乐影视
-http://120.77.28.4:8648/douyu.php?id=20415
-#EXTINF:-1 group-title="电影轮播",花卷影视
-http://120.77.28.4:8648/douyu.php?id=52787
-#EXTINF:-1 group-title="电影轮播",惊悚影视
-http://120.77.28.4:8648/douyu.php?id=96577
-#EXTINF:-1 group-title="电影轮播",冰冰影视
-http://120.77.28.4:8648/douyu.php?id=74374
-#EXTINF:-1 group-title="电影轮播",小寶影视
-http://120.77.28.4:8648/douyu.php?id=434971
-#EXTINF:-1 group-title="电影轮播",贝爷壹厅
-http://120.77.28.4:8648/douyu.php?id=252802
-#EXTINF:-1 group-title="电影轮播",贝爷贰厅
-http://120.77.28.4:8648/douyu.php?id=4332
-#EXTINF:-1 group-title="电影轮播",下饭神剧
-http://120.77.28.4:8648/douyu.php?id=276200
-#EXTINF:-1 group-title="电影轮播",武侠神剧
-http://120.77.28.4:8648/douyu.php?id=338759
-#EXTINF:-1 group-title="电影轮播",橙記港剧
-http://120.77.28.4:8648/douyu.php?id=4549169
-#EXTINF:-1 group-title="电影轮播",神乐影剧
-http://120.77.28.4:8648/douyu.php?id=122402
-#EXTINF:-1 group-title="电影轮播",经典剧场
-http://120.77.28.4:8648/douyu.php?id=6863367
-#EXTINF:-1 group-title="电影轮播",三国剧场
-http://120.77.28.4:8648/douyu.php?id=2838296
-#EXTINF:-1 group-title="电影轮播",本山专场
-http://120.77.28.4:8648/douyu.php?id=9817716
-#EXTINF:-1 group-title="电影轮播",恐怖鬼怪
-http://120.77.28.4:8648/douyu.php?id=1165374
-#EXTINF:-1 group-title="电影轮播",欢乐综艺
-http://120.77.28.4:8648/douyu.php?id=131977
-#EXTINF:-1 group-title="电影轮播",万合出品
-http://120.77.28.4:8648/douyu.php?id=9220456
-#EXTINF:-1 group-title="电影轮播",吃米滴虫
-http://120.77.28.4:8648/douyu.php?id=315457
-#EXTINF:-1 group-title="电影轮播",新版三国
-http://120.77.28.4:8648/douyu.php?id=5908256
-#EXTINF:-1 group-title="电影轮播",西游记续
-http://120.77.28.4:8648/douyu.php?id=3113309
-#EXTINF:-1 group-title="电影轮播",欧美影院
-http://120.77.28.4:8648/douyu.php?id=508118
-#EXTINF:-1 group-title="电影轮播",瑶瑶恐怖
-http://120.77.28.4:8648/douyu.php?id=2935323
-#EXTINF:-1 group-title="电影轮播",萌小鬼片
-http://120.77.28.4:8648/douyu.php?id=3928
-#EXTINF:-1 group-title="电影轮播",恐怖惊悚
-http://120.77.28.4:8648/douyu.php?id=96577
-#EXTINF:-1 group-title="电影轮播",豆瓣高分
-http://120.77.28.4:8648/douyu.php?id=8770422
-#EXTINF:-1 group-title="电影轮播",花卷陪看
-http://120.77.28.4:8648/douyu.php?id=52787
-#EXTINF:-1 group-title="电影轮播",霍格沃茨
-http://120.77.28.4:8648/douyu.php?id=8814650
-#EXTINF:-1 group-title="电影轮播",鱼宝恐怖
-http://120.77.28.4:8648/douyu.php?id=1165374
-#EXTINF:-1 group-title="电影轮播",鬼片恐怖
-http://120.77.28.4:8648/douyu.php?id=2935323
-#EXTINF:-1 group-title="电影轮播",小优鬼片
-http://120.77.28.4:8648/douyu.php?id=96577
-#EXTINF:-1 group-title="电影轮播",变种人片
-http://120.77.28.4:8648/douyu.php?id=9651304
-#EXTINF:-1 group-title="电影轮播",女神电影
-http://120.77.28.4:8648/douyu.php?id=747764
-#EXTINF:-1 group-title="电影轮播",欧美大片
-http://120.77.28.4:8648/douyu.php?id=2793084
-#EXTINF:-1 group-title="电影轮播",古装喜剧
-http://120.77.28.4:8648/douyu.php?id=431460
-#EXTINF:-1 group-title="电影轮播",华语经典
-http://120.77.28.4:8648/douyu.php?id=434971
 
 
 
@@ -735,46 +531,10 @@ http://cdn.jdshipin.com:8880/huya.php?id=11342384
 http://jiaojirentv.top/2020/yy.php?id=1352475619
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视轮播",雪豹
 http://cdn.jdshipin.com:8880/huya.php?id=29580970
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" group-title="电视轮播",庆余年（备用）
-http://www.52sw.top:678/play/huya.php?id=11352960
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" group-title="电视轮播",庆余年（备用2）
 http://cdn.jdshipin.com:8880/huya.php?id=11352960
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视轮播",新三国
-http://www.52sw.top:678/play/huya.php?id=11352944
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视轮播",新水浒传
-http://www.52sw.top:678/play/huya.php?id=11342384
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视轮播",神探狄仁杰第一部
-http://www.52sw.top:678/play/huya.php?id=11352958
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视轮播",神探狄仁杰第三部
-http://www.52sw.top:678/play/huya.php?id=11342425
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视轮播",爱情公寓
-http://www.52sw.top:678/play/huya.php?id=11336726
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视轮播",倚天屠龙记
-http://huanqiuzhibo.cn/manifest/huya.php?id=11342403
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视轮播",铁齿铜牙纪晓岚
-http://huanqiuzhibo.cn/manifest/huya.php?id=11342396
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视轮播",鬼吹灯之怒晴湘西
-http://huanqiuzhibo.cn/manifest/huya.php?id=11602075
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视轮播",笑傲江湖
-http://huanqiuzhibo.cn/manifest/huya.php?id=26355790
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视轮播",狂飙
-http://jiaojirentv.top/2020/yy.php?id=1355142167
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视轮播",雪豹
-http://huanqiuzhibo.cn/manifest/huya.php?id=29580970
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视轮播",神雕侠侣
-http://huanqiuzhibo.cn/manifest/huya.php?id=11352964
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" group-title="电视轮播",庆余年
-http://huanqiuzhibo.cn/manifest/huya.php?id=11352960
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视轮播",延禧攻略
-http://huanqiuzhibo.cn/manifest/huya.php?id=26355864
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视轮播",新水浒传
-http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视轮播",神探狄仁杰第三部
 http://live.metshop.top/huya/11342425
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/亮剑.png" group-title="电视轮播",亮剑
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png" group-title="电视轮播",士兵突击
-http://cdn.jdshipin.com:8880/huya.php?id=11342430
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视轮播",笑傲江湖
 http://cdn.jdshipin.com:8880/huya.php?id=26355790
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视轮播",神雕侠侣
@@ -793,44 +553,10 @@ http://cdn.jdshipin.com:8880/huya.php?id=11352871
 http://cdn.jdshipin.com:8880/huya.php?id=11602075
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视轮播",鬼吹灯之龙岭迷窟
 http://cdn.jdshipin.com:8880/huya.php?id=29465863
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/新白娘子传奇.png" group-title="电视轮播",新白娘子传奇
-http://jiaojirentv.top/2020/yy.php?id=1354490667
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/欢乐颂.png" group-title="电视轮播",欢乐颂
-http://zzy789.xyz/douyu1.php?id=3756989
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视轮播",雪豹
-http://www.52sw.top:678/play/huya.php?id=29580970
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png" group-title="电视轮播",士兵突击
-http://www.52sw.top:678/play/huya.php?id=11342430
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视轮播",笑傲江湖
-http://www.52sw.top:678/play/huya.php?id=26355790
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视轮播",神雕侠侣
-http://www.52sw.top:678/play/huya.php?id=11352964
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视轮播",倚天屠龙记
-http://www.52sw.top:678/play/huya.php?id=11342403
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视轮播",铁齿铜牙纪晓岚
-http://www.52sw.top:678/play/huya.php?id=11342396
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/康熙王朝.png" group-title="电视轮播",康熙王朝
-http://www.52sw.top:678/play/huya.php?id=11352940
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电视轮播",陈情令
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150218-1239543150218-11134998938774405120-2479086423892-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="电视轮播",鬼吹灯之云南虫谷
-http://www.52sw.top:678/play/huya.php?id=11352898
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png" group-title="电视轮播",鬼吹灯之精绝古城
-http://www.52sw.top:678/play/huya.php?id=11352871
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视轮播",鬼吹灯之龙岭迷窟
-http://www.52sw.top:678/play/huya.php?id=29465863
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视轮播",鬼吹灯之怒晴湘西
-http://www.52sw.top:678/play/huya.php?id=11602075
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="电视轮播",西游记续集
 http://zzy789.xyz/douyu1.php?id=3113309
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/三国演义.png" group-title="电视轮播",三国演义
 http://jiaojirentv.top/2020/yy.php?id=1354930932
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视轮播.png" group-title="电视轮播",家有儿女
-http://www.52sw.top:678/play/huya.php?id=30335591
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视轮播",少年包青天第一部
-http://jiaojirentv.top/2020/yy.php?id=38498680
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视轮播",雪豹
-http://live.iill.top/huya.php?id=29580970
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视轮播",笑傲江湖
 http://live.iill.top/huya.php?id=26355790
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png" group-title="电视轮播",士兵突击
@@ -861,14 +587,8 @@ http://1.94.31.214:35455/huya/11342403
 http://1.94.31.214:35455/huya/11352940
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" group-title="电视轮播",庆余年
 http://1.94.31.214:35455/huya/11352960
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png" group-title="电视轮播",鬼吹灯之精绝古城
-http://1.94.31.214:35455/huya/11352871
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视轮播",鬼吹灯之怒晴湘西
 http://1.94.31.214:35455/huya/11602075
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视轮播",鬼吹灯之龙岭迷窟
-http://1.94.31.214:35455/huya/29465863
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视轮播.png" group-title="电视轮播",乌龙闯情关
-http://1.94.31.214:35455/huya/26355767
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视轮播.png" group-title="电视轮播",家有儿女
 http://1.94.31.214:35455/huya/30335591
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="电视轮播",鬼吹灯之云南虫谷
@@ -885,101 +605,8 @@ http://1.94.31.214:35455/huya/26355765
 http://1.94.31.214:35455/huya/23903130
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视轮播.png" group-title="电视轮播",唐诡之西行
 http://1.94.31.214:35455/huya/26355763
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视轮播.png" group-title="电视轮播",西游记
-http://1.94.31.214:35455/huya/26355861
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/三国演义.png" group-title="电视轮播",三国演义
 http://1.94.31.214:35455/huya/11602081
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视轮播",雪豹
-http://1.94.31.214:35455/huya/29731435
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视轮播",延禧攻略
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视轮播",新三国
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视轮播",新水浒传
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰1.png" group-title="电视轮播",神探狄仁杰第一部
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视轮播",神探狄仁杰第三部
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视轮播",爱情公寓
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="电视轮播",天龙八部
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/特种兵之火凤凰.png" group-title="电视轮播",特种兵之火凤凰
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11135001069078183936-2479086424884-10057-A-0-1.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 group-title="影视频道",读心神探
-https://lunbo.freetv.top/yy/1382736875
-#EXTINF:-1 group-title="影视频道",封神榜
-https://lunbo.freetv.top/yy/1353426319
-#EXTINF:-1 group-title="影视频道",狂飙
-https://lunbo.freetv.top/yy/1355142167
-#EXTINF:-1 group-title="影视频道",鹿鼎记
-https://lunbo.freetv.top/yy/28265277
-#EXTINF:-1 group-title="影视频道",金玉满堂：精彩港剧
-http://lunbo.freetv.top/yy/1382736881
-#EXTINF:-1 group-title="影视频道",封神榜
-http://lunbo.freetv.top/yy/1353426319
-#EXTINF:-1 group-title="影视频道",宫心计-港剧-古装
-http://lunbo.freetv.top/yy/1354933540
-#EXTINF:-1 group-title="影视频道",古装武打港剧
-http://lunbo.freetv.top/yy/1354936116
-#EXTINF:-1 group-title="影视频道",心理追凶-烧脑港剧
-http://lunbo.freetv.top/yy/1354936207
-#EXTINF:-1 group-title="影视频道",新白娘子传奇
-https://lunbo.freetv.top/yy/1354930969
-#EXTINF:-1 group-title="影视频道",宰相刘罗锅
-https://lunbo.freetv.top/yy/1382745191
-#EXTINF:-1 group-title="影视频道",笑傲江湖
-https://lunbo.freetv.top/yy/1354930909
-#EXTINF:-1 group-title="影视频道",寻秦记
-https://lunbo.freetv.top/yy/1382851591
-#EXTINF:-1 group-title="影视频道",破案 悬疑 港剧
-http://lunbo.freetv.top/yy/31219
-#EXTINF:-1 group-title="影视频道",经典港剧-潮拜武当
-http://lunbo.freetv.top/yy/1354930967
-#EXTINF:-1 group-title="影视频道",缺宅男女-精彩港剧
-http://lunbo.freetv.top/yy/1382745088
-#EXTINF:-1 group-title="影视频道",鹿鼎记-周星驰版
-http://lunbo.freetv.top/yy/1354658049
-#EXTINF:-1 group-title="影视频道",港片-神探
-http://lunbo.freetv.top/yy/1382736872
-#EXTINF:-1 group-title="影视频道",当旺爸爸-港剧
-http://lunbo.freetv.top/yy/1354936208
-#EXTINF:-1 group-title="影视频道",电影_梁家辉
-https://live.iill.top/huya/11342429
-#EXTINF:-1 group-title="影视频道",电影_梁家辉
-http://cdn.jdshipin.com:8880/huya.php?id=11342429
-#EXTINF:-1 group-title="影视频道",电影_强森
-https://live.iill.top/huya/21059581
-#EXTINF:-1 group-title="影视频道",电影_强森
-http://cdn.jdshipin.com:8880/huya.php?id=21059581
-#EXTINF:-1 group-title="影视频道",电影_洪金宝
-http://cdn.jdshipin.com:8880/huya.php?id=11279251
-#EXTINF:-1 group-title="影视频道",甄子丹
-https://live.iill.top/huya/11352935
-#EXTINF:-1 group-title="影视频道",电影_黄渤
-https://live.metshop.top/huya/11352876
-#EXTINF:-1 group-title="影视频道",林正英
-http://zzy789.xyz/douyu1.php?id=7356023
-#EXTINF:-1 group-title="影视频道",王晶
-http://1.94.31.214:35455/huya/11602058
-#EXTINF:-1 group-title="影视频道",黄渤
-http://1.94.31.214:35455/huya/11352876
-#EXTINF:-1 group-title="影视频道",星爷
-http://1.94.31.214:35455/huya/11342412
-#EXTINF:-1 group-title="影视频道",刘德华
-https://live.iill.top/huya/11342424
-#EXTINF:-1 group-title="影视频道",李连杰
-https://live.iill.top/huya/11342390
-#EXTINF:-1 group-title="影视频道",周星驰
-http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-#EXTINF:-1 group-title="影视频道",周星驰
-https://live.iill.top/huya/11342412
-#EXTINF:-1 group-title="影视频道",周星驰
-https://live.metshop.top/huya/11342412
 
 
 
@@ -988,8 +615,6 @@ https://live.metshop.top/huya/11342412
 http://dns.yiandrive.com:15907/huya/11602058
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342403&huya&logo" group-title="虎牙电视",不发威当我Kitty
 http://dns.yiandrive.com:15907/huya/11342403
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/138531&huya&logo" group-title="虎牙电视",依依妹妹在等你
-http://dns.yiandrive.com:15907/huya/138531
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23865080&huya&logo" group-title="虎牙电视",香港喜剧大全
 http://dns.yiandrive.com:15907/huya/23865080
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602068&huya&logo" group-title="虎牙电视",我爱黑科技
@@ -998,16 +623,10 @@ http://dns.yiandrive.com:15907/huya/11602068
 http://dns.yiandrive.com:15907/huya/11342421
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342386&huya&logo" group-title="虎牙电视",偷心大盗ヽ龍宝
 http://dns.yiandrive.com:15907/huya/11342386
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/25129377&huya&logo" group-title="虎牙电视",梦梦影视
-http://dns.yiandrive.com:15907/huya/25129377
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23864973&huya&logo" group-title="虎牙电视",我是周粤驰
 http://dns.yiandrive.com:15907/huya/23864973
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342412&huya&logo" group-title="虎牙电视",周星星
 http://dns.yiandrive.com:15907/huya/11342412
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/25742076&huya&logo" group-title="虎牙电视",梦溪影视
-http://dns.yiandrive.com:15907/huya/25742076
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26298751&huya&logo" group-title="虎牙电视",婧丶
-http://dns.yiandrive.com:15907/huya/26298751
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26355802&huya&logo" group-title="虎牙电视",之而成冠毛
 http://dns.yiandrive.com:15907/huya/26355802
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11336571&huya&logo" group-title="虎牙电视",槽老师
@@ -1036,8 +655,6 @@ http://dns.yiandrive.com:15907/huya/11352965
 http://dns.yiandrive.com:15907/huya/11342435
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602082&huya&logo" group-title="虎牙电视",漓江塔景区售票阿姨
 http://dns.yiandrive.com:15907/huya/11602082
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23796393&huya&logo" group-title="虎牙电视",赢城-江爽
-http://dns.yiandrive.com:15907/huya/23796393
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352944&huya&logo" group-title="虎牙电视",鯎爺
 http://dns.yiandrive.com:15907/huya/11352944
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059594&huya&logo" group-title="虎牙电视",里昂保护的马蒂达
@@ -1094,18 +711,12 @@ http://dns.yiandrive.com:15907/huya/11342425
 http://dns.yiandrive.com:15907/huya/11601958
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11274154&huya&logo" group-title="虎牙电视",陈翔六点半
 http://dns.yiandrive.com:15907/huya/11274154
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29863394&huya&logo" group-title="虎牙电视",斗破-萧炎
-http://dns.yiandrive.com:15907/huya/29863394
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/11352970&huya&logo" group-title="虎牙电视",野原的一家
 http://dns.yiandrive.com:15907/huya/11352970
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342387&huya&logo" group-title="虎牙电视",电影_发哥
 http://dns.yiandrive.com:15907/huya/11342387
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059563&huya&logo" group-title="虎牙电视",宝莲灯
-http://dns.yiandrive.com:15907/huya/21059563
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342429&huya&logo" group-title="虎牙电视",梁家辉
 http://dns.yiandrive.com:15907/huya/11342429
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342424&huya&logo" group-title="虎牙电视",刘德华
-http://dns.yiandrive.com:15907/huya/11342424
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352962&huya&logo" group-title="虎牙电视",电影_罪犯
 http://dns.yiandrive.com:15907/huya/11352962
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352877&huya&logo" group-title="虎牙电视",王宝强
@@ -1134,8 +745,6 @@ http://dns.yiandrive.com:15907/huya/21059579
 http://dns.yiandrive.com:15907/huya/21059595
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30080255&huya&logo" group-title="虎牙电视",乡村爱情
 http://dns.yiandrive.com:15907/huya/30080255
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352876&huya&logo" group-title="虎牙电视",电影_黄渤
-http://dns.yiandrive.com:15907/huya/11352876
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602071&huya&logo" group-title="虎牙电视",父母爱情
 http://dns.yiandrive.com:15907/huya/11602071
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙电视",扁豆看电影
@@ -1150,8 +759,6 @@ http://dns.yiandrive.com:15907/huya/29580970
 http://dns.yiandrive.com:15907/huya/11342400
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1394565204&huya&logo" group-title="虎牙电视",木子先生，铁齿铜牙纪晓岚
 http://dns.yiandrive.com:15907/huya/11342396
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/415355&huya&logo" group-title="虎牙电视",深情默指导
-http://dns.yiandrive.com:15907/huya/415355
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352897&huya&logo" group-title="虎牙电视",电影
 http://dns.yiandrive.com:15907/huya/11352897
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29982639&huya&logo" group-title="虎牙电视",庆余年
@@ -1160,8 +767,6 @@ http://dns.yiandrive.com:15907/huya/29982639
 http://dns.yiandrive.com:15907/huya/11602085
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602081&huya&logo" group-title="虎牙电视",三国演义
 http://dns.yiandrive.com:15907/huya/11602081
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30080236&huya&logo" group-title="虎牙电视",名侦探柯南|傍晚猴
-http://dns.yiandrive.com:15907/huya/30080236
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352882&huya&logo" group-title="虎牙电视",网球王子|我们都爱笑
 http://dns.yiandrive.com:15907/huya/11352882
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342426&huya&logo" group-title="虎牙电视",情满四合院
@@ -1196,14 +801,8 @@ http://dns.yiandrive.com:15907/huya/11352922
 http://dns.yiandrive.com:15907/huya/23865142
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26355793&huya&logo" group-title="虎牙电视",錦丹广明
 http://dns.yiandrive.com:15907/huya/26355793
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23903183&huya&logo" group-title="虎牙电视",鉴证实录
-http://dns.yiandrive.com:15907/huya/23903183
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/13303478&huya&logo" group-title="虎牙电视",阿斗归来了
 http://dns.yiandrive.com:15907/huya/13303478
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/25646817&huya&logo" group-title="虎牙电视",周星星|SJ-安安小兔子
-http://dns.yiandrive.com:15907/huya/25646817
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/145378&huya&logo" group-title="虎牙电视",客户
-http://dns.yiandrive.com:15907/huya/145378
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342393&huya&logo" group-title="虎牙电视",漫长的季节
 http://dns.yiandrive.com:15907/huya/11342393
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23865058&huya&logo" group-title="虎牙电视",笑看风云
@@ -1216,8 +815,6 @@ http://dns.yiandrive.com:15907/huya/23740156
 http://dns.yiandrive.com:15907/huya/11352871
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602075&huya&logo" group-title="虎牙电视",鬼吹灯之怒晴湘西
 http://dns.yiandrive.com:15907/huya/11602075
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352913&huya&logo" group-title="虎牙电视",古墓系列-去冒险吧!
-http://dns.yiandrive.com:15907/huya/11352913
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602069&huya&logo" group-title="虎牙电视",向阳花-神奇宝贝
 http://dns.yiandrive.com:15907/huya/11602069
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352898&huya&logo" group-title="虎牙电视",鬼吹灯之云南虫谷
@@ -1248,8 +845,6 @@ http://dns.yiandrive.com:15907/huya/11601957
 http://dns.yiandrive.com:15907/huya/14734068
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352883&huya&logo" group-title="虎牙电视",鬼吹灯
 http://dns.yiandrive.com:15907/huya/11352883
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352946&huya&logo" group-title="虎牙电视",成龙历险记|老司机
-http://dns.yiandrive.com:15907/huya/11352946
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21277391&huya&logo" group-title="虎牙电视",大象放映室
 http://dns.yiandrive.com:15907/huya/21277391
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/16144175&huya&logo" group-title="虎牙电视",亮哥讲电影
