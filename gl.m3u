@@ -64,6 +64,48 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV+
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="央视频道",CCTV-01高码
+http://115.159.35.169:35455/gaoma/cctv1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-02高码
+http://115.159.35.169:35455/gaoma/cctv2.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-03高码
+http://115.159.35.169:35455/gaoma/cctv3.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-04高码
+http://115.159.35.169:35455/gaoma/cctv4.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-05高码
+http://115.159.35.169:35455/gaoma/cctv5.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+高码
+http://115.159.35.169:35455/gaoma/cctv5p.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-06高码
+http://115.159.35.169:35455/gaoma/cctv6.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-07高码
+http://115.159.35.169:35455/gaoma/cctv7.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-08高码
+http://115.159.35.169:35455/gaoma/cctv8.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-09高码
+http://115.159.35.169:35455/gaoma/cctv9.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10高码
+http://115.159.35.169:35455/gaoma/cctv10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11高码
+http://115.159.35.169:35455/gaoma/cctv11.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12高码
+http://115.159.35.169:35455/gaoma/cctv12.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13高码
+http://115.159.35.169:35455/gaoma/cctv13.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14高码
+http://115.159.35.169:35455/gaoma/cctv14.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15高码
+http://115.159.35.169:35455/gaoma/cctv15.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16高码
+http://115.159.35.169:35455/gaoma/cctv16.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17高码
+http://115.159.35.169:35455/gaoma/cctv17.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4k高码
+http://115.159.35.169:35455/gaoma/cctv4k.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8k高码
+http://115.159.35.169:35455/gaoma/cctv8k_36m.m3u8
+
+
 
 #EXTINF:-1 group-title="央卫IPV6",CCTV1
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -221,49 +263,6 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 #EXTINF:-1 group-title="央卫IPV6",中国教育4台[785*576]
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
-
-
-#EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV-01高码
-http://115.159.35.169:35455/gaoma/cctv1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-02高码
-http://115.159.35.169:35455/gaoma/cctv2.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-03高码
-http://115.159.35.169:35455/gaoma/cctv3.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-04高码
-http://115.159.35.169:35455/gaoma/cctv4.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-05高码
-http://115.159.35.169:35455/gaoma/cctv5.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+高码
-http://115.159.35.169:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-06高码
-http://115.159.35.169:35455/gaoma/cctv6.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-07高码
-http://115.159.35.169:35455/gaoma/cctv7.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-08高码
-http://115.159.35.169:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-09高码
-http://115.159.35.169:35455/gaoma/cctv9.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10高码
-http://115.159.35.169:35455/gaoma/cctv10.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11高码
-http://115.159.35.169:35455/gaoma/cctv11.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12高码
-http://115.159.35.169:35455/gaoma/cctv12.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13高码
-http://115.159.35.169:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14高码
-http://115.159.35.169:35455/gaoma/cctv14.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15高码
-http://115.159.35.169:35455/gaoma/cctv15.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16高码
-http://115.159.35.169:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17高码
-http://115.159.35.169:35455/gaoma/cctv17.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4k高码
-http://115.159.35.169:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8k高码
-http://115.159.35.169:35455/gaoma/cctv8k_36m.m3u8
 
 
 
