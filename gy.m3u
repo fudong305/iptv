@@ -47,20 +47,6 @@ http://58.17.48.228:808/hls/30/index.m3u8
 
 
 
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://58.17.48.228:808/hls/17/index.m3u8
-#EXTINF:-1 group-title="卫视频道",经济生活
-http://58.17.48.228:808/hls/19/index.m3u8
-#EXTINF:-1 group-title="卫视频道",影视旅游
-http://58.17.48.228:808/hls/20/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江西都市
-http://58.17.48.228:808/hls/18/index.m3u8
-#EXTINF:-1 group-title="卫视频道",公共农业
-http://58.17.48.228:808/hls/21/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江西新闻
-http://58.17.48.228:808/hls/23/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江西教育
-http://58.17.48.228:808/hls/24/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://58.17.48.228:808/hls/31/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -131,6 +117,20 @@ http://58.17.48.228:808/hls/79/index.m3u8
 http://58.17.48.228:808/hls/64/index.m3u8
 #EXTINF:-1 group-title="卫视频道",哈哈炫动
 http://58.17.48.228:808/hls/65/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://58.17.48.228:808/hls/17/index.m3u8
+#EXTINF:-1 group-title="卫视频道",经济生活
+http://58.17.48.228:808/hls/19/index.m3u8
+#EXTINF:-1 group-title="卫视频道",影视旅游
+http://58.17.48.228:808/hls/20/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江西都市
+http://58.17.48.228:808/hls/18/index.m3u8
+#EXTINF:-1 group-title="卫视频道",公共农业
+http://58.17.48.228:808/hls/21/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江西新闻
+http://58.17.48.228:808/hls/23/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江西教育
+http://58.17.48.228:808/hls/24/index.m3u8
 
 
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
