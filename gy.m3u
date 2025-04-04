@@ -5,7 +5,7 @@ https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
 #EXTINF:-1 group-title="公告",zby071388
 https://vd2.bdstatic.com/mda-nadm5jqnuteatw2u/sc/cae_h264_delogo/1642172623674683427/mda-nadm5jqnuteatw2u.mp4
 
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTM3U
 #EXTINF:-1 group-title="央卫光迅",CCTV1
 http://59.32.97.180:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="央卫光迅",CCTV2
