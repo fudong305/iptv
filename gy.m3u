@@ -1,248 +1,172 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央卫光迅",CCTV1
-http://36.44.159.38:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央卫光迅",CCTV2
-http://36.44.159.38:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央卫光迅",CCTV3
-http://36.44.159.38:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央卫光迅",CCTV4
-http://36.44.159.38:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央卫光迅",CCTV5
-http://36.44.159.38:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央卫光迅",CCTV5+
-http://36.44.159.38:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央卫光迅",CCTV6
-http://36.44.159.38:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央卫光迅",CCTV7
-http://36.44.159.38:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央卫光迅",CCTV8
-http://36.44.159.38:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央卫光迅",CCTV9
-http://36.44.159.38:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央卫光迅",CCTV10
-http://36.44.159.38:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央卫光迅",CCTV11
-http://36.44.159.38:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央卫光迅",CCTV12
-http://36.44.159.38:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央卫光迅",CCTV13
-http://36.44.159.38:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央卫光迅",CCTV14
-http://36.44.159.38:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央卫光迅",CCTV15
-http://36.44.159.38:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央卫光迅",CGTN
-http://36.44.159.38:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="央卫光迅",CETV-1
-http://36.44.159.38:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央卫光迅",CGTN
-http://36.44.159.38:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="央卫光迅",陕西卫视
-http://36.44.159.38:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1,tvg-id="陕西logo" tvg-name="陕西logo" tvg-logo="https://epg.v1.mk/logo/陕西logo.png" group-title="央卫光迅",陕西1套
-http://36.44.159.38:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1,tvg-id="陕西logo" tvg-name="陕西logo" tvg-logo="https://epg.v1.mk/logo/陕西logo.png" group-title="央卫光迅",陕西2套
-http://36.44.159.38:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1,tvg-id="陕西logo" tvg-name="陕西logo" tvg-logo="https://epg.v1.mk/logo/陕西logo.png" group-title="央卫光迅",陕西3套
-http://36.44.159.38:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1,tvg-id="陕西logo" tvg-name="陕西logo" tvg-logo="https://epg.v1.mk/logo/陕西logo.png" group-title="央卫光迅",陕西5套
-http://36.44.159.38:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1,tvg-id="陕西logo" tvg-name="陕西logo" tvg-logo="https://epg.v1.mk/logo/陕西logo.png" group-title="央卫光迅",陕西7套
-http://36.44.159.38:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1,tvg-id="陕西logo" tvg-name="陕西logo" tvg-logo="https://epg.v1.mk/logo/陕西logo.png" group-title="央卫光迅",陕西8套
-http://36.44.159.38:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1,tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="央卫光迅",农林卫视
-http://36.44.159.38:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="央卫光迅",凤凰中文
-http://36.44.159.38:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="央卫光迅",凤凰资讯
-http://36.44.159.38:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1,tvg-id="西安1" tvg-name="西安1" tvg-logo="https://epg.v1.mk/logo/西安1.png" group-title="央卫光迅",西安1套
-http://36.44.159.38:9901/tsfile/live/1014_1.m3u8
-#EXTINF:-1,tvg-id="西安-1" tvg-name="西安-1" tvg-logo="https://epg.v1.mk/logo/西安-1.png" group-title="央卫光迅",西安2套
-http://36.44.159.38:9901/tsfile/live/1015_1.m3u8
-#EXTINF:-1,tvg-id="西安-1" tvg-name="西安-1" tvg-logo="https://epg.v1.mk/logo/西安-1.png" group-title="央卫光迅",西安3套
-http://36.44.159.38:9901/tsfile/live/1016_1.m3u8
-#EXTINF:-1,tvg-id="西安-1" tvg-name="西安-1" tvg-logo="https://epg.v1.mk/logo/西安-1.png" group-title="央卫光迅",西安4套
-http://36.44.159.38:9901/tsfile/live/1017_1.m3u8
-#EXTINF:-1,tvg-id="西安-1" tvg-name="西安-1" tvg-logo="https://epg.v1.mk/logo/西安-1.png" group-title="央卫光迅",西安5套
-http://36.44.159.38:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1,tvg-id="西安教育" tvg-name="西安教育" tvg-logo="https://epg.v1.mk/logo/西安教育.png" group-title="央卫光迅",西安教育
-http://36.44.159.38:9901/tsfile/live/1019_1.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="央卫光迅",北京卫视
-http://36.44.159.38:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="央卫光迅",东方卫视
-http://36.44.159.38:9901/tsfile/live/1021_1.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="央卫光迅",江苏卫视
-http://36.44.159.38:9901/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="央卫光迅",安徽卫视
-http://36.44.159.38:9901/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="央卫光迅",海南卫视
-http://36.44.159.38:9901/tsfile/live/1022_1.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="央卫光迅",深圳卫视
-http://36.44.159.38:9901/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="央卫光迅",浙江卫视
-http://36.44.159.38:9901/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="央卫光迅",贵州卫视
-http://36.44.159.38:9901/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="央卫光迅",辽宁卫视
-http://36.44.159.38:9901/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="央卫光迅",天津卫视
-http://36.44.159.38:9901/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="央卫光迅",广东卫视
-http://36.44.159.38:9901/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="央卫光迅",黑龙江卫视
-http://36.44.159.38:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="央卫光迅",吉林卫视
-http://36.44.159.38:9901/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="央卫光迅",湖南卫视
-http://36.44.159.38:9901/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="央卫光迅",河南卫视
-http://36.44.159.38:9901/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="央卫光迅",江西卫视
-http://36.44.159.38:9901/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="央卫光迅",云南卫视
-http://36.44.159.38:9901/tsfile/live/0119_1.m3u8
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="央卫光迅",四川卫视
-http://36.44.159.38:9901/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="央卫光迅",湖北卫视
-http://36.44.159.38:9901/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="央卫光迅",重庆卫视
-http://36.44.159.38:9901/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="央卫光迅",河北卫视
-http://36.44.159.38:9901/tsfile/live/0117_1.m3u8
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="央卫光迅",广西卫视
-http://36.44.159.38:9901/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="央卫光迅",山西卫视
-http://36.44.159.38:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="央卫光迅",内蒙古卫视
-http://36.44.159.38:9901/tsfile/live/0109_1.m3u8
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="央卫光迅",兵团卫视
-http://36.44.159.38:9901/tsfile/live/0115_1.m3u8
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="央卫光迅",宁夏卫视
-http://36.44.159.38:9901/tsfile/live/0112_1.m3u8
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="央卫光迅",青海卫视
-http://36.44.159.38:9901/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="央卫光迅",西藏卫视
-http://36.44.159.38:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="央卫光迅",新疆卫视
-http://36.44.159.38:9901/tsfile/live/0110_1.m3u8
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="央卫光迅",甘肃卫视
-http://36.44.159.38:9901/tsfile/live/0141_1.m3u8
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="央卫光迅",山东卫视
-http://36.44.159.38:9901/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="央卫光迅",金鹰卡通
-http://36.44.159.38:9901/tsfile/live/1023_1.m3u8
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="央卫光迅",卡酷少儿
-http://36.44.159.38:9901/tsfile/live/1024_1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央卫光迅",CCTV1
-http://183.66.15.146:60901/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央卫光迅",CCTV2
-http://183.66.15.146:60901/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央卫光迅",CCTV3
-http://183.66.15.146:60901/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央卫光迅",CCTV4
-http://183.66.15.146:60901/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央卫光迅",CCTV5
-http://183.66.15.146:60901/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央卫光迅",CCTV6
-http://183.66.15.146:60901/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央卫光迅",CCTV7
-http://183.66.15.146:60901/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央卫光迅",CCTV8
-http://183.66.15.146:60901/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央卫光迅",CCTV9
-http://183.66.15.146:60901/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央卫光迅",CCTV10
-http://183.66.15.146:60901/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央卫光迅",CCTV11
-http://183.66.15.146:60901/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央卫光迅",CCTV12
-http://183.66.15.146:60901/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央卫光迅",CCTV13
-http://183.66.15.146:60901/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央卫光迅",CCTV14
-http://183.66.15.146:60901/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央卫光迅",CCTV15
-http://183.66.15.146:60901/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://epg.v1.mk/logo/重庆科教.png" group-title="央卫光迅",重庆科教
-http://183.66.15.146:60901/tsfile/live/0016_1.m3u8
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="央卫光迅",重庆卫视
-http://183.66.15.146:60901/tsfile/live/0018_1.m3u8
-#EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://epg.v1.mk/logo/重庆新闻.png" group-title="央卫光迅",重庆新闻
-http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
-#EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://epg.v1.mk/logo/重庆少儿.png" group-title="央卫光迅",重庆少儿
-http://183.66.15.146:60901/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="重庆万州" tvg-name="重庆万州" tvg-logo="https://epg.v1.mk/logo/重庆万州.png" group-title="央卫光迅",重庆都市
-http://183.66.15.146:60901/tsfile/live/1001_1.m3u8
-#EXTINF:-1,tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://epg.v1.mk/logo/重庆时尚生活.png" group-title="央卫光迅",重庆时尚
-http://183.66.15.146:60901/tsfile/live/1002_1.m3u8
-#EXTINF:-1,tvg-id="重庆娱乐频道" tvg-name="重庆娱乐频道" tvg-logo="https://epg.v1.mk/logo/重庆娱乐频道.png" group-title="央卫光迅",重庆娱乐
-http://183.66.15.146:60901/tsfile/live/1003_1.m3u8
-#EXTINF:-1,tvg-id="重庆万州" tvg-name="重庆万州" tvg-logo="https://epg.v1.mk/logo/重庆万州.png" group-title="央卫光迅",重庆公共
-http://183.66.15.146:60901/tsfile/live/1005_1.m3u8
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="央卫光迅",湖南卫视
-http://183.66.15.146:60901/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="央卫光迅",浙江卫视
-http://183.66.15.146:60901/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="央卫光迅",江苏卫视
-http://183.66.15.146:60901/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="央卫光迅",安徽卫视
-http://183.66.15.146:60901/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="央卫光迅",北京卫视
-http://183.66.15.146:60901/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="央卫光迅",天津卫视
-http://183.66.15.146:60901/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="央卫光迅",辽宁卫视
-http://183.66.15.146:60901/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="央卫光迅",山东卫视
-http://183.66.15.146:60901/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="央卫光迅",黑龙江卫视
-http://183.66.15.146:60901/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="央卫光迅",深圳卫视
-http://183.66.15.146:60901/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="央卫光迅",湖北卫视
-http://183.66.15.146:60901/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="上海ICS" tvg-name="上海ICS" tvg-logo="https://epg.v1.mk/logo/上海ICS.png" group-title="央卫光迅",上海卫视
-http://183.66.15.146:60901/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="央卫光迅",河北卫视
-http://183.66.15.146:60901/tsfile/live/0117_1.m3u8
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="央卫光迅",贵州卫视
-http://183.66.15.146:60901/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="央卫光迅",东南卫视
-http://183.66.15.146:60901/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="央卫光迅",广东卫视
-http://183.66.15.146:60901/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="央卫光迅",青海卫视
-http://183.66.15.146:60901/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="央卫光迅",西藏卫视
-http://183.66.15.146:60901/tsfile/live/0111_1.m3u8
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="央卫光迅",内蒙古卫视
-http://183.66.15.146:60901/tsfile/live/0109_1.m3u8
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="央卫光迅",新疆卫视
-http://183.66.15.146:60901/tsfile/live/0110_1.m3u8
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="央卫光迅",兵团卫视
-http://183.66.15.146:60901/tsfile/live/0115_1.m3u8
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="央卫光迅",甘肃卫视
-http://183.66.15.146:60901/tsfile/live/0141_1.m3u8
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="央卫光迅",宁夏卫视
-http://183.66.15.146:60901/tsfile/live/0112_1.m3u8
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="央卫光迅",都市剧场
-http://183.66.15.146:60901/tsfile/live/1023_1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="央卫光迅",金鹰卡通
-http://183.66.15.146:60901/tsfile/live/0117_2.m3u8
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="央卫光迅",嘉佳卡通
-http://183.66.15.146:60901/tsfile/live/0119_1.m3u8
-#EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.v1.mk/logo/卡酷动画.png" group-title="央卫光迅",卡酷动画
-http://183.66.15.146:60901/tsfile/live/0126_2.m3u8
-#EXTINF:-1,tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="https://epg.v1.mk/logo/少儿动画.png" group-title="央卫光迅",少儿动画
-http://183.66.15.146:60901/tsfile/live/0140_2.m3u8
-#EXTINF:-1,tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://epg.v1.mk/logo/经典电影.png" group-title="央卫光迅",经典电影
-http://183.66.15.146:60901/tsfile/live/0111_2.m3u8
-#EXTINF:-1,tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="https://epg.v1.mk/logo/喜剧影院.png" group-title="央卫光迅",喜剧影院
-http://183.66.15.146:60901/tsfile/live/0109_2.m3u8
-#EXTINF:-1,tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://epg.v1.mk/logo/动作影院.png" group-title="央卫光迅",动作影院
-http://183.66.15.146:60901/tsfile/live/0110_2.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV1
+http://59.32.97.180:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV2
+http://59.32.97.180:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV3
+http://59.32.97.180:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV4
+http://59.32.97.180:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV5
+http://59.32.97.180:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV6
+http://59.32.97.180:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV7
+http://59.32.97.180:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV8
+http://59.32.97.180:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV9
+http://59.32.97.180:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV10
+http://59.32.97.180:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV11
+http://59.32.97.180:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV12
+http://59.32.97.180:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV13
+http://59.32.97.180:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV14
+http://59.32.97.180:9901/tsfile/live/0014_2.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV15
+http://59.32.97.180:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV17
+http://59.32.97.180:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",山东卫视
+http://121.232.178.64:60001/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",广东卫视
+http://59.32.97.180:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",湖南卫视
+http://59.32.97.180:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",浙江卫视
+http://59.32.97.180:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",江苏卫视
+http://59.32.97.180:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",东方卫视
+http://59.32.97.180:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",安徽卫视
+http://59.32.97.180:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",河南卫视
+http://59.32.97.180:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",江西卫视
+http://59.32.97.180:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",深圳卫视
+http://59.32.97.180:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",云南卫视
+http://59.32.97.180:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",陕西卫视
+http://59.32.97.180:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",山西卫视
+http://59.32.97.180:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",青海卫视
+http://59.32.97.180:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",海南卫视
+http://59.32.97.180:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",宁夏卫视
+http://59.32.97.180:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",西藏卫视
+http://59.32.97.180:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",新疆卫视
+http://59.32.97.180:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",甘肃卫视
+http://59.32.97.180:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",兵团卫视
+http://59.32.97.180:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",厦门卫视
+http://59.32.97.180:9901/tsfile/live/0129_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",三沙卫视
+http://59.32.97.180:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",吉林延边卫视
+http://59.32.97.180:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",北京卫视
+http://59.32.97.180:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",辽宁卫视
+http://59.32.97.180:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",广东体育
+http://59.32.97.180:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",广东影视
+http://59.32.97.180:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",广东少儿
+http://59.32.97.180:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",广东移动
+http://59.32.97.180:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",现代教育
+http://59.32.97.180:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",卡酷少儿
+http://59.32.97.180:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",哈哈炫动
+http://59.32.97.180:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CETV2
+http://59.32.97.180:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CETV4
+http://59.32.97.180:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CGTN今日世界
+http://59.32.97.180:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CETV早期教育
+http://59.32.97.180:9901/tsfile/live/1038_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV风云音乐
+http://59.32.97.180:9901/tsfile/live/1039_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV第一剧场
+http://59.32.97.180:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV央视文化精品
+http://59.32.97.180:9901/tsfile/live/1041_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV风云剧场
+http://59.32.97.180:9901/tsfile/live/1042_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",广东珠江台
+http://59.32.97.180:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",客家生活
+http://59.32.97.180:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",黑龙江卫视
+http://59.32.97.180:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",怀旧剧场
+http://59.32.97.180:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",世界地理
+http://59.32.97.180:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",高尔夫.网球
+http://59.32.97.180:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CGTN英语
+http://59.32.97.180:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CGTN西班牙语
+http://59.32.97.180:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",影迷电影
+http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",老故事
+http://59.32.97.180:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",茶频道
+http://59.32.97.180:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",翡翠台
+http://59.32.97.180:9901/tsfile/live/faacts/1035_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",明珠台
+http://59.32.97.180:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",凤凰中文
+http://59.32.97.180:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",新动漫
+http://59.32.97.180:9901/tsfile/live/1052_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV1
+http://121.232.178.64:60001/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV2
+http://121.232.178.64:60001/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV3
+http://121.232.178.64:60001/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV6
+http://121.232.178.64:60001/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV7
+http://121.232.178.64:60001/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV8
+http://121.232.178.64:60001/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV9
+http://121.232.178.64:60001/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV10
+http://121.232.178.64:60001/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV11
+http://121.232.178.64:60001/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV12
+http://121.232.178.64:60001/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV13
+http://121.232.178.64:60001/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV14
+http://121.232.178.64:60001/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="央卫光迅",CCTV15
+http://121.232.178.64:60001/tsfile/live/0015_1.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央卫光迅",CCTV1
 http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央卫光迅",CCTV2
@@ -921,6 +845,132 @@ http://218.13.14.6:60050/tsfile/live/1054_1.m3u8
 http://218.13.14.6:60050/tsfile/live/1055_1.m3u8
 #EXTINF:-1 group-title="广东电信",炫动卡通
 http://218.13.14.6:60050/tsfile/live/1056_1.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="广东梅州",CCTV-1
+http://218.15.183.23:9901/tsfile/live/23018_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-2
+http://218.15.183.23:9901/tsfile/live/23019_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-3
+http://218.15.183.23:9901/tsfile/live/23020_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-4
+http://218.15.183.23:9901/tsfile/live/23021_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-5
+http://218.15.183.23:9901/tsfile/live/23022_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV5+
+http://218.15.183.23:9901/tsfile/live/23023_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-6
+http://218.15.183.23:9901/tsfile/live/23024_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-7
+http://218.15.183.23:9901/tsfile/live/23025_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-8
+http://218.15.183.23:9901/tsfile/live/23026_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-9
+http://218.15.183.23:9901/tsfile/live/23027_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-10
+http://218.15.183.23:9901/tsfile/live/23028_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-11
+http://218.15.183.23:9901/tsfile/live/23029_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-12
+http://218.15.183.23:9901/tsfile/live/23030_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-13
+http://218.15.183.23:9901/tsfile/live/23031_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-14
+http://218.15.183.23:9901/tsfile/live/23032_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-15
+http://218.15.183.23:9901/tsfile/live/23033_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-16
+http://218.15.183.23:9901/tsfile/live/23125_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CCTV-17
+http://218.15.183.23:9901/tsfile/live/23034_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CGTN
+http://218.15.183.23:9901/tsfile/live/23035_1.m3u8
+#EXTINF:-1 group-title="广东梅州",凤凰卫视
+http://218.15.183.23:9901/tsfile/live/23037_1.m3u8
+#EXTINF:-1 group-title="广东梅州",家庭影院
+http://218.15.183.23:9901/tsfile/live/23038_1.m3u8
+#EXTINF:-1 group-title="广东梅州",动作电影
+http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
+#EXTINF:-1 group-title="广东梅州",影迷电影
+http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+#EXTINF:-1 group-title="广东梅州",梅州综合
+http://218.15.183.23:9901/tsfile/live/23002_1.m3u8
+#EXTINF:-1 group-title="广东梅州",五华台
+http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
+#EXTINF:-1 group-title="广东梅州",客家生活
+http://218.15.183.23:9901/tsfile/live/23003_1.m3u8
+#EXTINF:-1 group-title="广东梅州",梅州导视
+http://218.15.183.23:9901/tsfile/live/23004_1.m3u8
+#EXTINF:-1 group-title="广东梅州",戏曲台
+http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
+#EXTINF:-1 group-title="广东梅州",星河频道
+http://218.15.183.23:9901/tsfile/live/23006_1.m3u8
+#EXTINF:-1 group-title="广东梅州",广东新闻
+http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
+#EXTINF:-1 group-title="广东梅州",广东珠江
+http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
+#EXTINF:-1 group-title="广东梅州",广东民生
+http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
+#EXTINF:-1 group-title="广东梅州",广东卫视
+http://218.15.183.23:9901/tsfile/live/23008_1.m3u8
+#EXTINF:-1 group-title="广东梅州",广东体育
+http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
+#EXTINF:-1 group-title="广东梅州",大湾区卫视
+http://218.15.183.23:9901/tsfile/live/23015_1.m3u8
+#EXTINF:-1 group-title="广东梅州",经济科教
+http://218.15.183.23:9901/tsfile/live/23014_1.m3u8
+#EXTINF:-1 group-title="广东梅州",广东影视
+http://218.15.183.23:9901/tsfile/live/23016_1.m3u8
+#EXTINF:-1 group-title="广东梅州",广东少儿
+http://218.15.183.23:9901/tsfile/live/23017_1.m3u8
+#EXTINF:-1 group-title="广东梅州",卡酷少儿
+http://218.15.183.23:9901/tsfile/live/23040_1.m3u8
+#EXTINF:-1 group-title="广东梅州",金鹰卡通
+http://218.15.183.23:9901/tsfile/live/23041_1.m3u8
+#EXTINF:-1 group-title="广东梅州",哈哈炫动
+http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
+#EXTINF:-1 group-title="广东梅州",嘉佳卡通
+http://218.15.183.23:9901/tsfile/live/23043_1.m3u8
+#EXTINF:-1 group-title="广东梅州",动漫秀场
+http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+#EXTINF:-1 group-title="广东梅州",澳视澳门
+http://218.15.183.23:9901/tsfile/live/23046_1.m3u8
+#EXTINF:-1 group-title="广东梅州",湖南卫视
+http://218.15.183.23:9901/tsfile/live/23048_1.m3u8
+#EXTINF:-1 group-title="广东梅州",浙江卫视
+http://218.15.183.23:9901/tsfile/live/23049_1.m3u8
+#EXTINF:-1 group-title="广东梅州",江苏卫视
+http://218.15.183.23:9901/tsfile/live/23050_1.m3u8
+#EXTINF:-1 group-title="广东梅州",东方卫视
+http://218.15.183.23:9901/tsfile/live/23051_1.m3u8
+#EXTINF:-1 group-title="广东梅州",黑龙江卫视
+http://218.15.183.23:9901/tsfile/live/23055_1.m3u8
+#EXTINF:-1 group-title="广东梅州",江西卫视
+http://218.15.183.23:9901/tsfile/live/23059_1.m3u8
+#EXTINF:-1 group-title="广东梅州",天津卫视
+http://218.15.183.23:9901/tsfile/live/23057_1.m3u8
+#EXTINF:-1 group-title="广东梅州",北京卫视
+http://218.15.183.23:9901/tsfile/live/23056_1.m3u8
+#EXTINF:-1 group-title="广东梅州",深圳卫视
+http://218.15.183.23:9901/tsfile/live/23060_1.m3u8
+#EXTINF:-1 group-title="广东梅州",湖北卫视
+http://218.15.183.23:9901/tsfile/live/23061_1.m3u8
+#EXTINF:-1 group-title="广东梅州",四川卫视
+http://218.15.183.23:9901/tsfile/live/23064_1.m3u8
+#EXTINF:-1 group-title="广东梅州",辽宁卫视
+http://218.15.183.23:9901/tsfile/live/23062_1.m3u8
+#EXTINF:-1 group-title="广东梅州",贵州卫视
+http://218.15.183.23:9901/tsfile/live/23063_1.m3u8
+#EXTINF:-1 group-title="广东梅州",CETV-1
+http://218.15.183.23:9901/tsfile/live/23067_1.m3u8
+#EXTINF:-1 group-title="广东梅州",安徽卫视
+http://218.15.183.23:9901/tsfile/live/23066_1.m3u8
+#EXTINF:-1 group-title="广东梅州",重庆卫视
+http://218.15.183.23:9901/tsfile/live/23069_1.m3u8
+#EXTINF:-1 group-title="广东梅州",纪实科教
+http://218.15.183.23:9901/tsfile/live/23074_1.m3u8
 
 
 
