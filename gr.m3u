@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-
 #EXTINF:-1 group-title="央卫综合",CCTV-1
 http://ms.fxim.net:808/hls/1/index.m3u8
 #EXTINF:-1 group-title="央卫综合",CCTV-2
@@ -376,789 +375,894 @@ http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11
 
 
 #EXTM3U
-#EXTINF:-1 group-title="电影轮播",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影轮播",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="影视轮播",CHC家庭影院
+http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$LR
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="影视轮播",CHC家庭影院
 http://148.135.93.213:81/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="电影轮播",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="影视轮播",CHC动作电影
 http://148.135.93.213:81/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
-#EXTINF:-1 group-title="电影轮播",神乐剧场
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-#EXTINF:-1 group-title="电影轮播",神乐剧院
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-#EXTINF:-1 group-title="电影轮播",绍兴影院
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="电影轮播",南宁影院
-http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-#EXTINF:-1 group-title="电影轮播",乌克兰影
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 group-title="电影轮播",绍兴电影轮播
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="电影轮播",烟台电影轮播
-http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
-#EXTINF:-1 group-title="电影轮播",菏泽电影轮播
-http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-#EXTINF:-1 group-title="电影轮播",北京电影轮播
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电影轮播",新昌休闲电影轮播
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="电影轮播",石河子电影轮播文体
-http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-#EXTINF:-1 group-title="电影轮播",烟台电影轮播
-http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-#EXTINF:-1 group-title="电影轮播",电影轮播频道
-http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 group-title="电影轮播",美丽中国说
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-#EXTINF:-1 group-title="电影轮播",重温经典频道
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="电影轮播",CHC华诚影视
-http://120.76.248.139/live/bfgd/4200000289.m3u8
-#EXTINF:-1 group-title="电影轮播",龙华电影
-http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 group-title="电影轮播",星光视界频道
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 group-title="电影轮播",重温经典卫星
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="电影轮播",斗鱼电影02
-http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="电影轮播",斗鱼电影19
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="电影轮播",斗鱼电影19
-http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="电影轮播",斗鱼直播-开心麻花经典小品
-http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影轮播",神乐剧场
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-#EXTINF:-1 group-title="电影轮播",神乐剧院
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-#EXTINF:-1 group-title="电影轮播",绍兴影院
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="电影轮播",南宁影院
-http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-#EXTINF:-1 group-title="电影轮播",乌克兰影
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 group-title="电影轮播",万州影视
-http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 group-title="电影轮播",绍兴影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="电影轮播",烟台影视
-http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
-#EXTINF:-1 group-title="电影轮播",菏泽影视
-http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-#EXTINF:-1 group-title="电影轮播",北京影视
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="电影轮播",新昌休闲影视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="电影轮播",石河子影视文体
-http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-#EXTINF:-1 group-title="电影轮播",烟台影视
-http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-#EXTINF:-1 group-title="电影轮播",影视频道
-http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 group-title="电影轮播",美丽中国说
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-#EXTINF:-1 group-title="电影轮播",重温经典频道
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
-
-
-
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="虎牙轮播",周星驰
-http://124.248.69.76:26781/huya/11342412
-#EXTINF:-1 group-title="虎牙轮播",李连杰
-http://124.248.69.76:26781/huya/11342390
-#EXTINF:-1 group-title="虎牙轮播",甄子丹
-http://124.248.69.76:26781/huya/11352935
-#EXTINF:-1 group-title="虎牙轮播",刘德华
-http://124.248.69.76:26781/huya/11342424
-#EXTINF:-1 group-title="虎牙轮播",邱淑贞
-http://124.248.69.76:26781/huya/11352949
-#EXTINF:-1 group-title="虎牙轮播",女神系列
-http://124.248.69.76:26781/huya/11336571
-#EXTINF:-1 group-title="虎牙轮播",赌片
-http://124.248.69.76:26781/huya/11342399
-#EXTINF:-1 group-title="虎牙轮播",bang派
-http://124.248.69.76:26781/huya/11336719
-#EXTINF:-1 group-title="虎牙轮播",科幻动作
-http://124.248.69.76:26781/huya/11352964
-#EXTINF:-1 group-title="虎牙轮播",国产喜剧
-http://124.248.69.76:26781/huya/11602044
-#EXTINF:-1 group-title="虎牙轮播",五福星
-http://124.248.69.76:26781/huya/11282233
-#EXTINF:-1 group-title="虎牙轮播",古墓系列
-http://124.248.69.76:26781/huya/11352913
-#EXTINF:-1 group-title="虎牙轮播",灾难电影
-http://124.248.69.76:26781/huya/11352871
-#EXTINF:-1 group-title="虎牙轮播",港片
-http://124.248.69.76:26781/huya/11602043
-#EXTINF:-1 group-title="虎牙轮播",灾难片
-http://124.248.69.76:26781/huya/11602075
-#EXTINF:-1 group-title="虎牙轮播",奇幻片
-http://124.248.69.76:26781/huya/16149609
-#EXTINF:-1 group-title="虎牙轮播",悬疑片
-http://124.248.69.76:26781/huya/16099968
-#EXTINF:-1 group-title="虎牙轮播",香港贺岁
-http://124.248.69.76:26781/huya/11601971
-#EXTINF:-1 group-title="虎牙轮播",贺岁合家欢剧场
-http://124.248.69.76:26781/huya/11602067
-#EXTINF:-1 group-title="虎牙轮播",恐怖片
-http://124.248.69.76:26781/huya/16741179
-#EXTINF:-1 group-title="虎牙轮播",历年贺岁档
-http://124.248.69.76:26781/huya/11601986
-#EXTINF:-1 group-title="虎牙轮播",李世民
-http://124.248.69.76:26781/huya/11336572
-#EXTINF:-1 group-title="虎牙轮播",港产搞笑
-http://124.248.69.76:26781/huya/11342423
-#EXTINF:-1 group-title="虎牙轮播",滇军抗战
-http://124.248.69.76:26781/huya/11342388
-#EXTINF:-1 group-title="虎牙轮播",经典女神
-http://124.248.69.76:26781/huya/11352909
-#EXTINF:-1 group-title="虎牙轮播",爱情公寓
-http://124.248.69.76:26781/huya/11336726
-#EXTINF:-1 group-title="虎牙轮播",士兵突击
-http://124.248.69.76:26781/huya/11342430
-#EXTINF:-1 group-title="虎牙轮播",玄幻剧场
-http://124.248.69.76:26781/huya/11342414
-#EXTINF:-1 group-title="虎牙轮播",联合抗日
-http://124.248.69.76:26781/huya/11352910
-#EXTINF:-1 group-title="虎牙轮播",三国演义
-http://124.248.69.76:26781/huya/11602081
-#EXTINF:-1 group-title="虎牙轮播",三国
-http://124.248.69.76:26781/huya/11352944
-#EXTINF:-1 group-title="虎牙轮播",新水浒传
-http://124.248.69.76:26781/huya/11342384
-#EXTINF:-1 group-title="虎牙轮播",神探狄仁杰2
-http://124.248.69.76:26781/huya/11342425
-#EXTINF:-1 group-title="虎牙轮播",神雕侠侣
-http://124.248.69.76:26781/huya/11352964
-#EXTINF:-1 group-title="虎牙轮播",笑傲江湖
-http://124.248.69.76:26781/huya/23865142
-#EXTINF:-1 group-title="虎牙轮播",埋堆堆布衣神相
-http://124.248.69.76:26781/huya/23865036
-#EXTINF:-1 group-title="虎牙轮播",纪晓岚
-http://124.248.69.76:26781/huya/11342396
-#EXTINF:-1 group-title="虎牙轮播",雍正皇帝
-http://124.248.69.76:26781/huya/11342439
-#EXTINF:-1 group-title="虎牙轮播",许冠英合集
-http://124.248.69.76:26781/huya/11601972
-#EXTINF:-1 group-title="虎牙轮播",经典港剧笑嘻嘻
-http://124.248.69.76:26781/huya/11352965
-#EXTINF:-1 group-title="虎牙轮播",电影_强森
-http://124.248.69.76:26781/huya/21059581
-#EXTINF:-1 group-title="虎牙轮播",电影_怪兽
-http://124.248.69.76:26781/huya/21059577
-#EXTINF:-1 group-title="虎牙轮播",电影_救援
-http://124.248.69.76:26781/huya/21059594
-#EXTINF:-1 group-title="虎牙轮播",电影_盗墓
-http://124.248.69.76:26781/huya/21059552
-#EXTINF:-1 group-title="虎牙轮播",电影_谍战
-http://124.248.69.76:26781/huya/21059585
-#EXTINF:-1 group-title="虎牙轮播",电影_梁家辉
-http://124.248.69.76:26781/huya/11342429
-#EXTINF:-1 group-title="虎牙轮播",电影_斯坦森
-http://124.248.69.76:26781/huya/21059588
-#EXTINF:-1 group-title="虎牙轮播",电影_小鬼头
-http://124.248.69.76:26781/huya/11352963
-#EXTINF:-1 group-title="虎牙轮播",电影_八点档
-http://124.248.69.76:26781/huya/880261
-#EXTINF:-1 group-title="虎牙轮播",电影_丧尸片
-http://124.248.69.76:26781/huya/21059578
-#EXTINF:-1 group-title="虎牙轮播",电影_战争片
-http://124.248.69.76:26781/huya/21059574
-#EXTINF:-1 group-title="虎牙轮播",电影_犯罪片
-http://124.248.69.76:26781/huya/11352974
-#EXTINF:-1 group-title="虎牙轮播",电影_古装片
-http://124.248.69.76:26781/huya/11336590
-#EXTINF:-1 group-title="虎牙轮播",电影_国产悬疑
-http://124.248.69.76:26781/huya/11342395
-#EXTINF:-1 group-title="虎牙轮播",电影_喜乐影院
-http://124.248.69.76:26781/huya/21059580
-#EXTINF:-1 group-title="虎牙轮播",电影_蘑菇影厅
-http://124.248.69.76:26781/huya/11601981
-#EXTINF:-1 group-title="虎牙轮播",电影_死神来了
-http://124.248.69.76:26781/huya/11352903
-#EXTINF:-1 group-title="虎牙轮播",电影_怪兽系列
-http://124.248.69.76:26781/huya/21059554
-#EXTINF:-1 group-title="虎牙轮播",鹿鼎记小春版
-http://124.248.69.76:26781/huya/23865080
-#EXTINF:-1 group-title="虎牙轮播",陀枪师姐
-http://124.248.69.76:26781/huya/23860039
-#EXTINF:-1 group-title="虎牙轮播",倚天屠龙记
-http://124.248.69.76:26781/huya/23734246
-#EXTINF:-1 group-title="虎牙轮播",使徒行者
-http://124.248.69.76:26781/huya/23734256
-#EXTINF:-1 group-title="虎牙轮播",扫黄先锋
-http://124.248.69.76:26781/huya/23903196
-#EXTINF:-1 group-title="虎牙轮播",电影_强森
-http://124.248.69.76:26781/huya/21059581
-#EXTINF:-1 group-title="虎牙轮播",电影_怪兽
-http://124.248.69.76:26781/huya/21059577
-#EXTINF:-1 group-title="虎牙轮播",电影_救援
-http://124.248.69.76:26781/huya/21059594
-#EXTINF:-1 group-title="虎牙轮播",电影_盗墓
-http://124.248.69.76:26781/huya/21059552
-#EXTINF:-1 group-title="虎牙轮播",电影_贺岁
-http://124.248.69.76:26781/huya/11601971
-#EXTINF:-1 group-title="虎牙轮播",电影_玄幻
-http://124.248.69.76:26781/huya/11342414
-#EXTINF:-1 group-title="虎牙轮播",电影_谍战
-http://124.248.69.76:26781/huya/21059585
-#EXTINF:-1 group-title="虎牙轮播",电影_港片
-http://124.248.69.76:26781/huya/11602043
-#EXTINF:-1 group-title="虎牙轮播",电影_李连杰
-http://124.248.69.76:26781/huya/11342390
-#EXTINF:-1 group-title="虎牙轮播",电影_梁家辉
-http://124.248.69.76:26781/huya/11342429
-#EXTINF:-1 group-title="虎牙轮播",电影_刘德华
-http://124.248.69.76:26781/huya/11342424
-#EXTINF:-1 group-title="虎牙轮播",【周星星】星爷经典不间断
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",英叔护体 | 林正英搞笑僵尸系列
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",洪金宝·童年回忆杀
-http://182.40.120.216/test-txdwk.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【王晶】港风导演代表
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",超爽犯罪电影 九龙城寨周处除三害
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531752795-1099531752795-86436298436378624-2199063629046-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",成龙经典武打动作片
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",周润发电影 小马哥归来
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【虎牙影院】沈腾经典片放映
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【许氏三杰】快来 就差你了
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",速肌:两个光头赛车的故事
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",周星星粤语经典版~
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",千面影帝梁家辉
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【五福星】每天都要快乐哦
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",超级英雄电影·永远的神！
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787845-1423787845-6115122230717317120-2847699146-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",李茶的姑妈·姑妈美美美
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",刘德华电影_经典系列
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",历年贺岁档 笑就完事儿了
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【丧尸来啦】搞笑奇葩僵尸
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",简小熙的直播间
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",校园神剧: 一起同过窗
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1239543153963-1239543153963-11135015023426928640-2479086431382-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",搞笑恐怖类 弹幕护体
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",快意江湖：金庸的武侠世界
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",经典之作·金庸群侠篇电影
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",当情人节遇上了春节
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【女神系列】邱淑贞 王祖贤 张曼玉
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",怪兽宇宙电影！哥斯拉大战金刚
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150752-1239543150752-11135001232286941184-2479086424960-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",玄幻剧场·体验另一种生活！
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【喜剧专场】我们一起找乐子
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[诺兰电影] 科幻史诗巨作！
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1239543153989-1239543153989-11135015135096078336-2479086431434-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",Han国高分动作片 刺激过瘾
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[贾玲电影] 人活着，总得拼一次
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543153969-1239543153969-11135015049196732416-2479086431394-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",甄子丹 我要打十个
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【古天乐】古仔帅气开打
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150751-1239543150751-11135001227991973888-2479086424958-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",怪兽打架x异形世界：爽就完事了
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531752770-1099531752770-86436191062196224-2199063628996-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",哈利波特邀请您：霍格沃兹开学啦！
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543150747-1239543150747-11135001210812104704-2479086424950-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",si神来了系列 好怕怕
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",狄仁杰系列电影，悬疑烧脑的探案故事
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1239543153965-1239543153965-11135015032016863232-2479086431386-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",大场面战争片:一枚核弹爆炸
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",动作要快，姿势要帅
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",枪战还是得看他！
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1099531752772-1099531752772-86436199652130816-2199063629000-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",古墓系列·去冒险吧！
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",邱淑贞太好看了吧❤
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1423787843-1423787843-6115122222127382528-2847699142-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",玄幻专场·国产特效大制作
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",喜剧专场 看喜剧笑一笑吧
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",真正的硬汉007，铁打的詹姆斯邦德！
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531752778-1099531752778-86436225421934592-2199063629012-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",搞笑喜剧：最佳拍档 开心鬼系列
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",经典港剧笑嘻嘻
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",隋唐演义: 半路杀出个程咬金~
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1239543153955-1239543153955-11135014989067190272-2479086431366-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[87版红楼梦] 这才是林黛玉！
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1239543153956-1239543153956-11135014993362157568-2479086431368-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",合家欢喜剧，欢乐笑哈哈！
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",只解沙场为国死，何须马革裹尸还
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1524418101-1524418101-6547325889225424896-3048959658-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",动作电影来啦
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",不挤电影院也能笑着过春节！
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",厨子戏子痞子
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",情人节：港片教你追女仔
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",那些年的香港贺岁片 慢慢的童年回忆
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",永远怀念“黄药师”曾江
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[尹正电影] 这道题太难了，太难了
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1239543153964-1239543153964-11135015027721895936-2479086431384-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",国产悬疑精选·智商在线
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",首尔之春 这一晚han国发生了什么
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543153961-1239543153961-11135015014836994048-2479086431378-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",利刃双雄：si侍与金刚狼
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543153958-1239543153958-11135015001952092160-2479086431372-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",校园热血电影，不比古惑仔差
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1423787819-1423787819-6115122119048167424-2847699094-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",看完你也学不会系列~
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",盗墓还得看经典的
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1099531752747-1099531752747-86436092277948416-2199063628950-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",孙红雷·硬汉电影
-http://182.40.120.229/test-txdwk.flv.huya.com/src/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到状元及第粥的直播间
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1099531752774-1099531752774-86436208242065408-2199063629004-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",童年女神周海媚！她一笑我就恋爱了
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",胆小勿入，内含…
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",那些年的香gang贺岁片
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",《角斗士2》“怒火重燃”预告
-http://182.40.120.195/test-txdwk.flv.huya.com/src/-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【封神榜】割肉还母剔骨还父
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到埋堆堆港剧的直播间
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到埋堆堆官方的直播间
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到我是靓宝的直播间
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【鹿鼎记】小春版韦小宝 是你心中最经典的版本吗？
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【法证先锋】侦查片天花板 超经典
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【天龙八部】最佳版本天龙·97版黄日华超神作
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【刑事侦缉档案】最棒的警匪片系列
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【陀枪师姐】永远的陈小生 无法超越的经典
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到港剧慢品汇的直播间
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到堆堆港剧日记的直播间
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【倚天屠龙记】最爱的赵敏永远是黎姿
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到阿呀呀阿sir的直播间
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到我是周粤驰的直播间
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【鉴证实录】天网恢恢，疏而不漏
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到冷门港片大全的直播间
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到音粤无国界的直播间
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到梁非凡吔X啦的直播间
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",金枝欲孽-宫斗剧才一开山既已是巅峰！
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【大唐双龙传】爱你恨你，一生一世
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【妙手仁心】最出色的都市剧之一
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【笑看风云】再无包文龙，再无林贞烈
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【梁朝伟版鹿鼎记】梁朝伟和刘德华还能拒绝吗
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到做人最要紧开心的直播间
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到为所欲为的墨镜哥的直播间
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到昵称违规-pTSEbHriOn的直播间
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",爆笑综艺[五哈]1-4季来了~
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1239543153980-1239543153980-11135015096441372672-2479086431416-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",校园神剧: 一起同过窗
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1239543153963-1239543153963-11135015023426928640-2479086431382-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",美食纪录片 风味人间4
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1099531840843-1099531840843-86814461716856832-2199063805142-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",地球脉动3 史诗级纪录片
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1099531840928-1099531840928-86814826789076992-2199063805312-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",首尔之春 这一晚han国发生了什么
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1239543153961-1239543153961-11135015014836994048-2479086431378-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",特种兵之火凤凰: 女特种兵也很强！
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11135001069078183936-2479086424884-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",03版天龙八部 胡军林志颖刘亦菲
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",现在就出发1: 显眼包大集结！
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1099531752746-1099531752746-86436087982981120-2199063628948-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",鸡毛飞上天: 张译成长为商业大佬
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1239543150743-1239543150743-11135001193632235520-2479086424942-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",还珠格格3 琼瑶经典作品
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1524418074-1524418074-6547325773261307904-3048959604-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",于谦吴京何猷君的幸福生活~
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543150725-1239543150725-11135001116322824192-2479086424906-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",编辑部的故事，欢乐喜剧~
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1099531752782-1099531752782-86436242601803776-2199063629020-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",来学历史！从秦始皇到汉武帝
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1099531752771-1099531752771-86436195357163520-2199063628998-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",琼瑶偶像剧 又见一帘幽梦~
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1239543150227-1239543150227-11134998977429110784-2479086423910-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[天仙配] 树上滴鸟儿成双对~
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1239543150741-1239543150741-11135001185042300928-2479086424938-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",大家好 我曾小咸又回来啦
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[李云龙] 劳资的意太利炮呢！
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【超级交通站】抗ri情景喜剧
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【缅怀最经典张飞】桃园结义三兄弟
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",身世神秘的范闲书写人生传奇
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",江湖风云再起，小小镖局暗藏乾坤！
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[情满四合院] 你准备好感受那份年代情感了吗？
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575549-1394575549-5989656374756245504-2789274554-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",勇敢的xin 千秋家国血未冷
-http://182.40.120.213/test-txdwk.flv.huya.com/src/92327913-92327913-396545366842933248-3048991612-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",特种兵之火凤凰: 女特种兵也很强！
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11135001069078183936-2479086424884-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",许三多军营成长史
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",搞笑的一家人
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[扫黑风暴] 正义与黑暗的终极较量
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2789253886-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",苏大强想喝手磨咖啡
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1099531752784-1099531752784-86436251191738368-2199063629024-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",天不生我李淳罡，剑道万古如长夜
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",商海浮沉，小染坊如何逆袭成传奇？
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",胡八一胖子沙漠古城找鬼洞
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",医馆里上演离奇案件，看逗趣师徒如何以智破局
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",相识、相知、相爱、相守的父母爱情
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",你敢与古代第一神探共赴推理盛宴吗？
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",乡村爱情，安排~
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1239543153987-1239543153987-11135015126506143744-2479086431430-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",动作犯罪电影 坚如磐石周处除三害
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531840930-1099531840930-86814835379011584-2199063805316-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",摸金校尉造访龙岭！
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150219-1239543150219-11134998943069372416-2479086423894-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",一代枭雄为报父仇励精图治
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",军民联合抗日，承受战争苦难
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",夏雪夏雨夏冰雹
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",在哪儿跌倒的还得在哪儿爬起来
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",神貂侠侣·陈晓陈妍希再塑经典
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[民兵葛二蛋] 草根英雄逆袭记，笑中带泪的抗战传奇
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",狄仁杰：元芳 你怎么看？
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",炊事班de故事3·柴米油盐
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",白姓、鹿姓两大家族之间的恩怨纷争
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",《云南虫谷》奔跑吧，胡八一!
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1423782066-1423782066-6115097410101313536-2847687588-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",yang光的快乐生活，轻松一夏的必看喜剧！
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",游击队·抗日战争
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1423787821-1423787821-6115122127638102016-2847699098-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",阔别十年，你是我的荣耀
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1423782098-1423782098-6115097547540267008-2847687652-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",汉武大帝缔造千秋伟业
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531840935-1099531840935-86814856853848064-2199063805326-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[漫长的季节] 你愿意一同揭开这个秘密吗？
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",我就问你这瓜保熟吗
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",校园神剧: 一起同过窗
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1239543153963-1239543153963-11135015023426928640-2479086431382-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[全职高手] 叶修，十年荣耀多少过往！
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782071-1423782071-6115097431576150016-2847687598-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",高分谍战剧[风筝]，送你上路的是你的同志
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543153960-1239543153960-11135015010542026752-2479086431376-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",鬼吹灯虐我千百遍，我待鬼吹灯如初恋
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[与凤行] 本王在此，谁敢放肆
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531840942-1099531840942-86814886918619136-2199063805340-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",画像师檀健次，一笔一画勾勒罪犯真容，一帧一秒揭开罪案迷雾
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",星汉灿烂，幸甚至哉！吴磊赵露思疑商夫妇不要太甜
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1388457186-1388457186-5963378205766189056-2777037828-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",良心医疗剧 主打的就是一个真实
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1423782054-1423782054-6115097358561705984-2847687564-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",王漫妮，揭秘上海富婆圈
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1099531752797-1099531752797-86436307026313216-2199063629050-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",刑事侦缉档案
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150213-1239543150213-11134998917299568640-2479086423882-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",wow惊悚电影 喋血双雄大追捕
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1099531840863-1099531840863-86814547616202752-2199063805182-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",盗墓贼家女儿的岁月传奇
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",星球大战: 宇宙电影的起点
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543153967-1239543153967-11135015040606797824-2479086431390-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",特战荣耀，燕破岳军旅成长
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1239543153984-1239543153984-11135015113621241856-2479086431424-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[洗冤录] 解开每一具尸体的未了之愿
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543150207-1239543150207-11134998891529764864-2479086423870-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",大刘著作 原著党的胜利！我哭了
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",fan花·王小姐和宝总的爱恨情仇
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1099531752773-1099531752773-86436203947098112-2199063629002-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",编辑部的故事，欢乐喜剧~
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531752782-1099531752782-86436242601803776-2199063629020-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",欢迎来到包蛋超人的直播间
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",怒海潜沙 秦岭神树
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1394575537-1394575537-5989656323216637952-2789274530-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",天天有喜2: 穆婷婷超可爱~
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1099531840926-1099531840926-86814818199142400-2199063805308-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",回到开端，进入循环……
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",当爱情遇上原生家庭的碰撞，双面胶般的婚姻如何粘合？
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1423787852-1423787852-6115122260782088192-2847699160-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[怒晴湘西] 探秘湘西千年古墓，揭秘怒晴鸡与六翅蜈蚣的惊世对决
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",测测胆量！惊悚电影，笔仙神探
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1099531840874-1099531840874-86814594860843008-2199063805204-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",民调局异闻录12集
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1099531840897-1099531840897-86814693645090816-2199063805250-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",传闻中的陈芊芊，轻喜穿越~
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1099531752796-1099531752796-86436302731345920-2199063629048-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[扫黄先锋] 暗夜追光，如何揭开欲望背后的丑陋？
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543150211-1239543150211-11134998908709634048-2479086423878-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[创世纪] 梦想与背叛交织，你能否预测下一个商业帝国的崛起？
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543150209-1239543150209-11134998900119699456-2479086423874-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[外科风云] 陆晨曦能否打开庄恕心结？
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543150750-1239543150750-11135001223697006592-2479086424956-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[陀枪师姐] 警花持枪，柔情铁骨，正义与爱情如何交织？
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543150212-1239543150212-11134998913004601344-2479086423880-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",神探夏洛克: 贝克街221B欢迎你
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1099531840871-1099531840871-86814581975941120-2199063805198-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[妙手仁心] 生死边缘的抉择你能否感同身受？
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1239543150210-1239543150210-11134998904414666752-2479086423876-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[亲爱的热爱的] 杨紫&李现，爱情与电竞的完美碰撞！
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1239543150749-1239543150749-11135001219402039296-2479086424954-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",顾晓梦夺妻战
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1099531752794-1099531752794-86436294141411328-2199063629044-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",青岛第一代移民的奋斗史
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575560-1394575560-5989656422000885760-2789274576-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",笑看风云，谁能在变幻莫测的商战与情网中站到最后？
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543150214-1239543150214-11134998921594535936-2479086423884-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[有翡] 江湖来去，一生自由！
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543150746-1239543150746-11135001206517137408-2479086424948-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[王子变青蛙] 当失忆王子遇上平凡女孩，真爱能否跨越身份的鸿沟？
-http://182.40.120.229/test-txdwk.flv.huya.com/src/48131630-48131630-206723776753172480-3048959614-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",红色经典佳片·愿得此身长报国
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",孙先生保卫战
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531840898-1099531840898-86814697940058112-2199063805252-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",魂力觉醒，唐三如何以凡人之躯，挑战斗罗巅峰？
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",王艳的孙蝶真的好美！
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[梦中的那片海]70后的成长故事
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531840846-1099531840846-86814474601758720-2199063805148-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",草莽英雄变抗战英雄
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1524434084-1524434084-6547394535687716864-3048991624-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",网络大电影 鬼马保镖贼美人
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531752726-1099531752726-86436002083635200-2199063628908-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",超异能族，会飞的神秘一家
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1099531752777-1099531752777-86436221126967296-2199063629010-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",史上嘴最碎的熊！服了……
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1394575568-1394575568-5989656456360624128-2789274592-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",打工毒蛇姐妹花儿
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1099531752758-1099531752758-86436139522588672-2199063628972-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",大瓜大瓜：没想到你是这样的猪
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1449575331-1449575331-6225878639733374976-2789274584-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",瑶山之下，谁是真正的劫匪？
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2789253854-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",超级英雄都是人渣？刷新你的世界观
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543150744-1239543150744-11135001197927202816-2479086424944-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",童年经典·无知少年欢乐多
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",柯南剧场版，真相只有一个！
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543153970-1239543153970-11135015053491699712-2479086431396-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【猫和老鼠】汤姆和杰瑞的故事
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",冲啊！四驱兄弟 嘴控大战
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",仙逆:灭藤之战好爽，王林杀疯了！
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1239543153951-1239543153951-11135014971887321088-2479086431358-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[不良人6]李星云死了?看不良人如何反击李嗣源
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1239543153954-1239543153954-11135014984772222976-2479086431364-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",天澜魔法高中的热血青春！
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1099531840852-1099531840852-86814500371562496-2199063805160-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[一念永恒] 白小纯点香啦
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1239543153959-1239543153959-11135015006247059456-2479086431374-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",民调局异闻录12集
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1099531840897-1099531840897-86814693645090816-2199063805250-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",少年歌行: 一起去闯荡江湖！
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1239543150745-1239543150745-11135001202222170112-2479086424946-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",全职猎人: 谁是最强者？
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153986-1239543153986-11135015122211176448-2479086431428-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",5庚纪，究极人神之战
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1099531840938-1099531840938-86814869738749952-2199063805332-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[地灵曲] 动画版鬼吹灯
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543153953-1239543153953-11135014980477255680-2479086431362-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",辛逝纪芙音战士
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1099531752764-1099531752764-86436165292392448-2199063628984-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",魔道祖师: 忘羡一曲远
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543153952-1239543153952-11135014976182288384-2479086431360-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",迪士尼! 超经典动画电影
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543153988-1239543153988-11135015130801111040-2479086431432-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",二次元的世界里有我的梦想和青春
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531752802-1099531752802-86436328501149696-2199063629060-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",武魂世界充满了血腥和危险
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【海绵宝宝】黄方块的爆笑生活~
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",国漫打戏天花板，异人也！
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1423782021-1423782021-6115097216827785216-2847687498-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",成龍历险记·社会我阿福乌鸦坐飞机
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",网球王子·费德勒看了想打人
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1423782044-1423782044-6115097315612033024-2847687544-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",斗宗强者，莫欺少年穷！
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1340763124-1340763124-5758533769262792704-2777026902-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【七龍珠改】超级赛亚人孙捂空
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【Blue胖】你看得到我的腿吗
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",我们还有几个属于蓝雨的夏天
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1099531752753-1099531752753-86436118047752192-2199063628962-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",头文字D·秋名山车神
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",说到做到，这就是我的忍道！
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543150221-1239543150221-11134998951659307008-2479086423898-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",吃我皮神十万伏特！
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1239543150229-1239543150229-11134998986019045376-2479086423914-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",一袋米要扛几楼，让世界感受痛苦！
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1394565189-1394565189-5989611878895058944-2789253834-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",开开心心过大年 合家欢动画片
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1524418067-1524418067-6547325743196536832-3048959590-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",一念斩千魔，一念诛万仙
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531752783-1099531752783-86436246896771072-2199063629022-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",编辑部的故事，欢乐喜剧~
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531752782-1099531752782-86436242601803776-2199063629020-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",魔法少女，收集库洛牌吧
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531752780-1099531752780-86436234011869184-2199063629016-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",【樱桃小丸子】我家很穷
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",斗气化马，竟恐怖如斯
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1239543150220-1239543150220-11134998947364339712-2479086423896-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",探寻不良人的龙泉宝藏
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531752759-1099531752759-86436143817555968-2199063628974-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",一人之上·不想趴着活就堂堂正正的站起来!
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1524439823-1524439823-6547419184505028608-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",芳缘大陆的冒险，盖欧卡古拉顿
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",红娘妖狐神助攻
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1423787874-1423787874-6115122355271368704-2847699204-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",刘关张三活宝，Q版世界大爆笑
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543150226-1239543150226-11134998973134143488-2479086423908-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",谁再说我是不可燃物？！
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1448738217-1448738217-6222283262480351232-2847699222-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",灵界侦探浦饭幽助
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",假面骑士龙骑 变身！！
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1423782093-1423782093-6115097526065430528-2847687642-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",重温春晚爆笑经典小品
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",爆笑综艺[五哈]1-4季来了~
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543153980-1239543153980-11135015096441372672-2479086431416-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",现在就出发1: 显眼包大集结！
-http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531752746-1099531752746-86436087982981120-2199063628948-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",易中天品三国
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",春节吃什么看这里！又好吃又好看
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",RM 刘在石李光洙跑男
-http://182.40.120.191/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",脱口秀来了，就是让你笑
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",于谦吴京何猷君的幸福生活~
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543150725-1239543150725-11135001116322824192-2479086424906-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",奔跑家族驾到，看坤坤打篮球
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1239543150224-1239543150224-11134998964544208896-2479086423904-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",青环2，杨迪又偷题了？
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1239543153979-1239543153979-11135015092146405376-2479086431414-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[脱口秀大会4] doing what呢？
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543153976-1239543153976-11135015079261503488-2479086431408-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",宋小宝施诡计耍赖破坏棋局
-http://182.40.120.229/test-txdwk.flv.huya.com/src/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",来学历史！从秦始皇到汉武帝
-http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531752771-1099531752771-86436195357163520-2199063628998-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",来桃花坞，感受世外桃源
-http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150225-1239543150225-11134998968839176192-2479086423906-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",刘小光·捧腹大笑哈哈哈哈
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙轮播",[offer1] 我将用毕生捍卫法律的尊严！
-http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543153971-1239543153971-11135015057786667008-2479086431398-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视轮播",CHC家庭影院
+http://58.17.48.228:808/hls/29/index.m3u8
+#EXTINF:-1 group-title="影视轮播",CHC动作电影
+http://58.17.48.228:808/hls/30/index.m3u8
+#EXTINF:-1 group-title="影视轮播",周星星
+http://3501776.xyz:35455/huya/11342412
+#EXTINF:-1 group-title="影视轮播",电影最TOP
+http://3501776.xyz:35455/huya/11774959
+#EXTINF:-1 group-title="影视轮播",种瓜得弟弟
+http://3501776.xyz:35455/huya/11352872
+#EXTINF:-1 group-title="影视轮播",julie
+http://3501776.xyz:35455/huya/20969142
+#EXTINF:-1 group-title="影视轮播",虎牙影院
+http://3501776.xyz:35455/huya/11601968
+#EXTINF:-1 group-title="影视轮播",茱麗葉
+http://3501776.xyz:35455/huya/11602072
+#EXTINF:-1 group-title="影视轮播",大道遺所思
+http://3501776.xyz:35455/huya/26355768
+#EXTINF:-1 group-title="影视轮播",薛教授
+http://3501776.xyz:35455/huya/11342385
+#EXTINF:-1 group-title="影视轮播",硬汉影探
+http://3501776.xyz:35455/huya/24614407
+#EXTINF:-1 group-title="影视轮播",荒爷求生007
+http://3501776.xyz:35455/huya/29468771
+#EXTINF:-1 group-title="影视轮播",古枫影视
+http://3501776.xyz:35455/huya/30297201
+#EXTINF:-1 group-title="影视轮播",心动好剧
+http://3501776.xyz:35455/huya/26355781
+#EXTINF:-1 group-title="影视轮播",以仁皇岭
+http://3501776.xyz:35455/huya/29465871
+#EXTINF:-1 group-title="影视轮播",SMG开怀时刻
+http://3501776.xyz:35455/huya/11352908
+#EXTINF:-1 group-title="影视轮播",寞尛北
+http://3501776.xyz:35455/huya/11602076
+#EXTINF:-1 group-title="影视轮播",小军迷
+http://3501776.xyz:35455/huya/11352909
+#EXTINF:-1 group-title="影视轮播",包租婆不停水
+http://3501776.xyz:35455/huya/21059568
+#EXTINF:-1 group-title="影视轮播",陈年三百零六斤
+http://3501776.xyz:35455/huya/17259151
+#EXTINF:-1 group-title="影视轮播",篮球巅峰
+http://3501776.xyz:35455/huya/30080158
+#EXTINF:-1 group-title="影视轮播",橙記Orange丶
+http://3501776.xyz:35455/douyu/4549169
+#EXTINF:-1 group-title="影视轮播",baby丶贝贝
+http://3501776.xyz:35455/douyu/431460
+#EXTINF:-1 group-title="影视轮播",深夜D你上高速
+http://3501776.xyz:35455/douyu/7882691
+#EXTINF:-1 group-title="影视轮播",深夜D你练神功
+http://3501776.xyz:35455/douyu/12421816
+#EXTINF:-1 group-title="影视轮播",深夜D你学当官
+http://3501776.xyz:35455/douyu/12434419
+#EXTINF:-1 group-title="影视轮播",龍組队长天昊
+http://3501776.xyz:35455/douyu/1487654
+#EXTINF:-1 group-title="影视轮播",伊太刀刀
+http://3501776.xyz:35455/douyu/747764
+#EXTINF:-1 group-title="影视轮播",久了旧知
+http://3501776.xyz:35455/douyu/310926
+#EXTINF:-1 group-title="影视轮播",江边五哥
+http://3501776.xyz:35455/douyu/12447123
+#EXTINF:-1 group-title="影视轮播",我们可爱的程程
+http://3501776.xyz:35455/douyu/329667
+#EXTINF:-1 group-title="影视轮播",有一辆立标奔驰
+http://3501776.xyz:35455/douyu/12442176
+#EXTINF:-1 group-title="影视轮播",菠萝屋SpongeBob
+http://3501776.xyz:35455/douyu/12400977
+#EXTINF:-1 group-title="影视轮播",当燕双鹰遇见李元芳
+http://3501776.xyz:35455/douyu/3439096
+#EXTINF:-1 group-title="影视轮播",竹叶的熊猫
+http://3501776.xyz:35455/douyu/3870925
+#EXTINF:-1 group-title="影视轮播",刘少丶7012
+http://3501776.xyz:35455/douyu/131977
+#EXTINF:-1 group-title="影视轮播",牛叔说电影
+http://3501776.xyz:35455/douyu/2758565
+#EXTINF:-1 group-title="影视轮播",懒猫是只喵
+http://3501776.xyz:35455/douyu/260322
+#EXTINF:-1 group-title="影视轮播",Only丶邵氏
+http://3501776.xyz:35455/douyu/4246519
+#EXTINF:-1 group-title="影视轮播",晓晓666666
+http://3501776.xyz:35455/douyu/426517
+#EXTINF:-1 group-title="影视轮播",当幽兰剑遇上链子刀
+http://3501776.xyz:35455/douyu/6027991
+#EXTINF:-1 group-title="影视轮播",贾贵队长真男神
+http://3501776.xyz:35455/douyu/299854
+#EXTINF:-1 group-title="影视轮播",卖女孩滴小姑凉
+http://3501776.xyz:35455/douyu/922564
+#EXTINF:-1 group-title="影视轮播",师落
+http://3501776.xyz:35455/douyu/6911044
+#EXTINF:-1 group-title="影视轮播",疯狂尛瀦瀦
+http://3501776.xyz:35455/douyu/4290711
+#EXTINF:-1 group-title="影视轮播",疯狂小潴潴
+http://3501776.xyz:35455/douyu/5522351
+#EXTINF:-1 group-title="影视轮播",火龙果说电影
+http://3501776.xyz:35455/douyu/9559158
+#EXTINF:-1 group-title="影视轮播",白了个痴
+http://3501776.xyz:35455/douyu/319576
+#EXTINF:-1 group-title="影视轮播",当铁手团遇到光复社
+http://3501776.xyz:35455/douyu/5875025
+#EXTINF:-1 group-title="影视轮播",时光再遇见
+http://3501776.xyz:35455/douyu/4944033
+#EXTINF:-1 group-title="影视轮播",名侦探柯南之银色子弹
+http://3501776.xyz:35455/douyu/6484910
+#EXTINF:-1 group-title="影视轮播",单纯的顺才少爷
+http://3501776.xyz:35455/douyu/10084875
+#EXTINF:-1 group-title="影视轮播",智仗心
+http://3501776.xyz:35455/douyu/5635000
+#EXTINF:-1 group-title="影视轮播",gslaini
+http://3501776.xyz:35455/douyu/6997954
+#EXTINF:-1 group-title="影视轮播",702放映厅
+http://3501776.xyz:35455/douyu/10348728
+#EXTINF:-1 group-title="影视轮播",永远快乐的小美女
+http://3501776.xyz:35455/douyu/6091425
+#EXTINF:-1 group-title="影视轮播",小片片说大片
+http://3501776.xyz:35455/douyu/4258555
+#EXTINF:-1 group-title="影视轮播",喷子OAO
+http://3501776.xyz:35455/douyu/7253343
+#EXTINF:-1 group-title="影视轮播",万合出品
+http://3501776.xyz:35455/douyu/9220456
+#EXTINF:-1 group-title="影视轮播",豆腐芭比
+http://3501776.xyz:35455/douyu/6478650
+#EXTINF:-1 group-title="影视轮播",菠萝屋的海绵宝宝
+http://3501776.xyz:35455/douyu/3949681
+#EXTINF:-1 group-title="影视轮播",牛奶味的梦猪猪
+http://3501776.xyz:35455/douyu/5261342
+#EXTINF:-1 group-title="影视轮播",成龙历险纪
+http://3501776.xyz:35455/douyu/2287949
+#EXTINF:-1 group-title="影视轮播",万事通熊猫
+http://3501776.xyz:35455/douyu/7812810
+#EXTINF:-1 group-title="影视轮播",米尼影院
+http://3501776.xyz:35455/douyu/7642724
+#EXTINF:-1 group-title="影视轮播",十七岁的道姑
+http://3501776.xyz:35455/douyu/3186217
+#EXTINF:-1 group-title="影视轮播",一起看港剧
+http://3501776.xyz:35455/douyu/5061550
+#EXTINF:-1 group-title="影视轮播",7师傅
+http://3501776.xyz:35455/douyu/17732
+#EXTINF:-1 group-title="影视轮播",开心锤锤动漫
+http://3501776.xyz:35455/douyu/9018297
+#EXTINF:-1 group-title="影视轮播",用户1275665728
+http://3501776.xyz:35455/douyu/9067836
+#EXTINF:-1 group-title="影视轮播",科幻Fans布玛
+http://3501776.xyz:35455/douyu/3508304
+#EXTINF:-1 group-title="影视轮播",球球来了呦
+http://3501776.xyz:35455/douyu/12180551
+#EXTINF:-1 group-title="影视轮播",mn静静nm
+http://3501776.xyz:35455/douyu/5668371
+#EXTINF:-1 group-title="影视轮播",刘松毅
+http://3501776.xyz:35455/douyu/12128227
+#EXTINF:-1 group-title="影视轮播",小约翰可汗
+http://3501776.xyz:35455/douyu/9738854
+#EXTINF:-1 group-title="影视轮播",苹果Zei甜
+http://3501776.xyz:35455/douyu/1174353
+#EXTINF:-1 group-title="影视轮播",网神影厅
+http://3501776.xyz:35455/douyu/508118
+#EXTINF:-1 group-title="影视轮播",老高与小茉的死忠粉
+http://3501776.xyz:35455/douyu/236461
+#EXTINF:-1 group-title="影视轮播",一样二职
+http://3501776.xyz:35455/douyu/11827530
+#EXTINF:-1 group-title="影视轮播",徐大sao
+http://3501776.xyz:35455/douyu/7107176
+#EXTINF:-1 group-title="影视轮播",PDD影院阿
+http://3501776.xyz:35455/douyu/1274132
+#EXTINF:-1 group-title="影视轮播",赵本山经典小品
+http://3501776.xyz:35455/douyu/9817716
+#EXTINF:-1 group-title="影视轮播",怀旧经典影视汇
+http://3501776.xyz:35455/douyu/12143022
+#EXTINF:-1 group-title="影视轮播",聚聚聚一个月
+http://3501776.xyz:35455/douyu/4105989
+#EXTINF:-1 group-title="影视轮播",傲娇的超级赛亚人
+http://3501776.xyz:35455/douyu/4373285
+#EXTINF:-1 group-title="影视轮播",JhZj丶天明
+http://3501776.xyz:35455/douyu/1006179
+#EXTINF:-1 group-title="影视轮播",cym009
+http://3501776.xyz:35455/douyu/8231658
+#EXTINF:-1 group-title="影视轮播",自说自话的总裁
+http://3501776.xyz:35455/douyu/9317739
+#EXTINF:-1 group-title="影视轮播",玛莎提
+http://3501776.xyz:35455/douyu/8543072
+#EXTINF:-1 group-title="影视轮播",一把钢刀镇斗虞
+http://3501776.xyz:35455/douyu/7356023
+#EXTINF:-1 group-title="影视轮播",PP看动漫
+http://3501776.xyz:35455/douyu/9837291
+#EXTINF:-1 group-title="影视轮播",牛叔说电影二台
+http://3501776.xyz:35455/douyu/10010651
+#EXTINF:-1 group-title="影视轮播",胡椒粉的胡歌
+http://3501776.xyz:35455/douyu/5448413
+#EXTINF:-1 group-title="影视轮播",甜漫妮666
+http://3501776.xyz:35455/douyu/1569773
+#EXTINF:-1 group-title="影视轮播",电视剧僵尸约会
+http://3501776.xyz:35455/douyu/8371123
+#EXTINF:-1 group-title="影视轮播",鯋鱼辰辰
+http://3501776.xyz:35455/douyu/7623292
+#EXTINF:-1 group-title="影视轮播",很优美
+http://3501776.xyz:35455/douyu/7528160
+#EXTINF:-1 group-title="影视轮播",魔术师丶西索
+http://3501776.xyz:35455/douyu/6610883
+#EXTINF:-1 group-title="影视轮播",爱情公寓vip
+http://3501776.xyz:35455/douyu/6863367
+#EXTINF:-1 group-title="影视轮播",moyu3390
+http://3501776.xyz:35455/douyu/11922242
+#EXTINF:-1 group-title="影视轮播",小姐姐不记得
+http://3501776.xyz:35455/douyu/3700024
+#EXTINF:-1 group-title="影视轮播",柱子Yang
+http://3501776.xyz:35455/douyu/1783144
+#EXTINF:-1 group-title="影视轮播",彼岸零可星球
+http://3501776.xyz:35455/douyu/40471
+#EXTINF:-1 group-title="影视轮播",蕃薯粥粥煮好了
+http://3501776.xyz:35455/douyu/11878141
+#EXTINF:-1 group-title="影视轮播",v刺猬猪v
+http://3501776.xyz:35455/douyu/2436390
+#EXTINF:-1 group-title="影视轮播",往事vs随风1
+http://3501776.xyz:35455/douyu/3113309
+#EXTINF:-1 group-title="影视轮播",奇兮兮悄陌
+http://3501776.xyz:35455/douyu/953193
+#EXTINF:-1 group-title="影视轮播",多发几个思雨
+http://3501776.xyz:35455/douyu/7256376
+#EXTINF:-1 group-title="影视轮播",女团社颜老师
+http://3501776.xyz:35455/douyu/11327316
+#EXTINF:-1 group-title="影视轮播",泼辣滴小弟弟
+http://3501776.xyz:35455/douyu/8912325
+#EXTINF:-1 group-title="影视轮播",篮球人物
+http://3501776.xyz:35455/douyu/8434598
+#EXTINF:-1 group-title="影视轮播",武侠剧场
+http://3501776.xyz:35455/douyu/9285904
+#EXTINF:-1 group-title="影视轮播",刘老师说电影
+http://3501776.xyz:35455/douyu/8317926
+#EXTINF:-1 group-title="影视轮播",游钓中国李大毛
+http://3501776.xyz:35455/douyu/791411
+#EXTINF:-1 group-title="影视轮播",追梦人354
+http://3501776.xyz:35455/douyu/12210085
+#EXTINF:-1 group-title="影视轮播",赵本删不删
+http://3501776.xyz:35455/douyu/9837104
+#EXTINF:-1 group-title="影视轮播",大漠叔叔Dm
+http://3501776.xyz:35455/douyu/1109218
+#EXTINF:-1 group-title="影视轮播",1900影剧室
+http://3501776.xyz:35455/douyu/7796193
+#EXTINF:-1 group-title="影视轮播",sweet夏有甜
+http://3501776.xyz:35455/douyu/4808115
+#EXTINF:-1 group-title="影视轮播",老烟斗鬼故事
+http://3501776.xyz:35455/douyu/2337939
 
 
 
 #EXTM3U
-#EXTINF:-1 group-title="斗鱼电影",邵氏影院
-http://zzy789.xyz/douyu1.php?id=4246519
-#EXTINF:-1 group-title="斗鱼电影",粤语综艺
-http://zzy789.xyz/douyu1.php?id=7919720
-#EXTINF:-1 group-title="斗鱼电影",华语经典
-http://zzy789.xyz/douyu1.php?id=434971
-#EXTINF:-1 group-title="斗鱼电影",吃米滴虫
-http://zzy789.xyz/douyu1.php?id=315457
-#EXTINF:-1 group-title="斗鱼电影",神乐影片
-http://zzy789.xyz/douyu1.php?id=85894
-#EXTINF:-1 group-title="斗鱼电影",特辑影院
-http://zzy789.xyz/douyu1.php?id=3637778
-#EXTINF:-1 group-title="斗鱼电影",林正英电影2
-http://zzy789.xyz/douyu1.php?id=7356023
-#EXTINF:-1 group-title="斗鱼电影",斗鱼电影15
-http://zzy789.xyz/douyu1.php?id=5033502
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1024/bb/b1a3c97c76cb4dc160dd5f2483d747_180_135.jpg" group-title="虎牙轮播",喜剧电影放映厅
+http://feiniu.305362.xyz:35455/huya/11602031
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/d2/adbd71a3faee16b16df28ae7f391cf_180_135.jpg?1739300733" group-title="虎牙轮播",视觉-香菜要发財
+http://feiniu.305362.xyz:35455/huya/631395
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/e1/7baa7aec8cbc9136517f88d9ae0ce3_180_135.jpg?1735883336" group-title="虎牙轮播",西京观影
+http://feiniu.305362.xyz:35455/huya/30439645
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/2d/d2661ebff6e5569998074adef29b57_180_135.jpg?1712954764" group-title="虎牙轮播",婧婧丶
+http://feiniu.305362.xyz:35455/huya/618917
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/42/28f36f4d0767fb6efc42c1c1940e1c_180_135.jpg?1561358214" group-title="虎牙轮播",阿斗归来了
+http://feiniu.305362.xyz:35455/huya/13303478
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/99/5181d8b8625eeb6ac3ed7976c9f8b8_180_135.jpg?1716217370" group-title="虎牙轮播",SJ-安安小兔子
+http://feiniu.305362.xyz:35455/huya/25646817
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/bb/f7ad60d7fb5100278dd6e6ca730e41_180_135.jpg?1742577178" group-title="虎牙轮播",虎粮观影团
+http://feiniu.305362.xyz:35455/huya/30403502
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/f2/b04c60eea7e4575dcf88fc60d38195_180_135.jpg?1740281404" group-title="虎牙轮播",欣儿不爱吃香菜
+http://feiniu.305362.xyz:35455/huya/30621162
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/38/0a044578785fd8bd3cce25019b0cb6_180_135.jpg?1581601065" group-title="虎牙轮播",贫困小张喜欢A锥
+http://feiniu.305362.xyz:35455/huya/30656608
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/19/8cf7b0bdde264c7d73d8798c60bd23_180_135.jpg?1742884936" group-title="虎牙轮播",婉晴ctde
+http://feiniu.305362.xyz:35455/huya/30595139
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/a3/1e2b634e967d6bb1cc2d6c954084c5_180_135.jpg?1743826258" group-title="虎牙轮播",麦麦放映
+http://feiniu.305362.xyz:35455/huya/30682679
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/c9/c85dd0728ee23bd28aa58bcd7a0685_180_135.jpg?1742263736" group-title="虎牙轮播",佩琪不爱吃香菜
+http://feiniu.305362.xyz:35455/huya/30577385
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/5b/ca6d64814e18f2b6d0d9aa00bf9ba8_180_135.jpg?1742271909" group-title="虎牙轮播",winccab
+http://feiniu.305362.xyz:35455/huya/30650192
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/33/e577d9f40e837c3f460b9ee3d0b64d_180_135.jpg?1732756744" group-title="虎牙轮播",晴儿影视
+http://feiniu.305362.xyz:35455/huya/30400559
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/04/8112ee01b0e39d2d42131bd96e3ea6_180_135.jpg?1741159378" group-title="虎牙轮播",樱花布布
+http://feiniu.305362.xyz:35455/huya/30626082
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/81/530eafa19053255430c04180f56c28_180_135.jpg?1742881545" group-title="虎牙轮播",不染ctal
+http://feiniu.305362.xyz:35455/huya/30595074
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/79/e8cdd115d75da3c9c18f5519cfa0f2_180_135.jpg?1744099092" group-title="虎牙轮播",狗狗影视
+http://feiniu.305362.xyz:35455/huya/30585838
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/c3/d6e1d026cfd848d10862cc3dd60cc1_180_135.jpg?1739948301" group-title="虎牙轮播",小猫影视
+http://feiniu.305362.xyz:35455/huya/30569079
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/74/c57907e27f087f0166bf6a1cc827cf_180_135.jpg?1738752304" group-title="虎牙轮播",RR寅子
+http://feiniu.305362.xyz:35455/huya/30241641
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/2c/e4eb8d230bca8b156f1f51b82c902c_180_135.jpg?1736343829" group-title="虎牙轮播",长沙甜心冰美式
+http://feiniu.305362.xyz:35455/huya/30511625
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/d1/30f2c0f31ba1ccd7fcf6864cea6513_180_135.jpg?1743681546" group-title="虎牙轮播",日落花想容
+http://feiniu.305362.xyz:35455/huya/29981376
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/b6/63e4fb33fd84911868152b55f5be03_180_135.jpg?1733307787" group-title="虎牙轮播",微微oi
+http://feiniu.305362.xyz:35455/huya/30308535
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/0c/ecde8a9e4305ff922a7da06beac865_180_135.jpg?1633053767" group-title="虎牙轮播",视觉-秦VV
+http://feiniu.305362.xyz:35455/huya/396738
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/67/ff6c22dd68c1de86affb5a3bbea8c6_180_135.jpg?1741997971" group-title="虎牙轮播",小璐影视
+http://feiniu.305362.xyz:35455/huya/30655127
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/ef/9f6e7c7c7297abaa71a3a1fb2cc986_180_135.jpg?1741183913" group-title="虎牙轮播",江爽【好运来】
+http://feiniu.305362.xyz:35455/huya/23796393
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/8d/63239e03c5bb841cda1329f741a42f_180_135.jpg?1741159468" group-title="虎牙轮播",雪雪姐tu
+http://feiniu.305362.xyz:35455/huya/30585957
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/08/1bd7a8f6e432e752b8a2b4223eae4a_180_135.jpg?1740059520" group-title="虎牙轮播",捡西瓜扔芝麻
+http://feiniu.305362.xyz:35455/huya/30585479
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/ff/7218ea3da8546c89e032959483c25b_180_135.jpg?1625843281" group-title="虎牙轮播",SJ-表妹
+http://feiniu.305362.xyz:35455/huya/25132963
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381" group-title="虎牙轮播",陈翔六点半
+http://feiniu.305362.xyz:35455/huya/11274154
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/23/1b0595ab77ba9a0606b15c085db25a_180_135.jpg?1742577071" group-title="虎牙轮播",和我看电影
+http://feiniu.305362.xyz:35455/huya/21967180
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/7b/8a73637a31a7eae0d3a8d5841243b0_180_135.jpg?1733722587" group-title="虎牙轮播",薇薇影视
+http://feiniu.305362.xyz:35455/huya/30438923
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/a2/f1f7210b9eb61f583f4f87d63ed822_180_135.jpg?1740238878" group-title="虎牙轮播",孤鹰燕影
+http://feiniu.305362.xyz:35455/huya/30204448
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/98/e38d758faa51aaa20af226297bb1a3_180_135.jpg?1729681773" group-title="虎牙轮播",思存oi
+http://feiniu.305362.xyz:35455/huya/30308386
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/a3/326f8cfc4cfee569f6fc5a435bb415_180_135.jpg?1741757579" group-title="虎牙轮播",高贵优雅石榴裙
+http://feiniu.305362.xyz:35455/huya/30653672
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/14/108b2f09afcc12edb51ed1b3366a5a_180_135.jpg?1729650035" group-title="虎牙轮播",影评专员
+http://feiniu.305362.xyz:35455/huya/30311494
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/02/20deabb293417696f33fb3a4a3edc4_180_135.jpg?1743416042" group-title="虎牙轮播",青青观影团
+http://feiniu.305362.xyz:35455/huya/30513600
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/84/502de036e633dd2294c61d4a8ea0c0_180_135.jpg?1741747702" group-title="虎牙轮播",中洲观影
+http://feiniu.305362.xyz:35455/huya/30506250
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/cf/2e50fd85e7320952fc21689d031980_180_135.jpg?1572700607" group-title="虎牙轮播",初一
+http://feiniu.305362.xyz:35455/huya/16567940
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/7d/22a35eda22381d0e33eafc470d82c8_180_135.jpg?1743821455" group-title="虎牙轮播",美美陪你看
+http://feiniu.305362.xyz:35455/huya/30696178
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/a6/9c42907120521ef635361a8443ba9b_180_135.jpg?1741757455" group-title="虎牙轮播",糖果小豆包
+http://feiniu.305362.xyz:35455/huya/30653660
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/30/bbb5b644988f8b6d7da3d1cc20bf3b_180_135.jpg?1741757780" group-title="虎牙轮播",知性美丽小公主
+http://feiniu.305362.xyz:35455/huya/30653684
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/0d/40f4674a7527b59d3e176621eeeb42_180_135.jpg?1726573311" group-title="虎牙轮播",爱笑的优米
+http://feiniu.305362.xyz:35455/huya/29820210
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/61/8164f5a595ea0b53eeb7dc9855f4ad_180_135.jpg?1658742684" group-title="虎牙轮播",SJ-莉莉
+http://feiniu.305362.xyz:35455/huya/25682798
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/05/a89eaba9c03202b8b7fcb9535b63a4_180_135.jpg?1727402771" group-title="虎牙轮播",炎热夏阳柔和
+http://feiniu.305362.xyz:35455/huya/30252446
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/fa/18ece230a4c736999b52ab4512da9b_180_135.jpg" group-title="虎牙轮播",吸门亲
+http://feiniu.305362.xyz:35455/huya/30629768
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/f9/5983c0a76bf0ba75cd8d23535563f2_180_135.jpg?1651206749" group-title="虎牙轮播",梦梦影视
+http://feiniu.305362.xyz:35455/huya/25129377
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/d9/06cad92bd9d543074e06e223ef7598_180_135.jpg?1742895986" group-title="虎牙轮播",帝星-小芳
+http://feiniu.305362.xyz:35455/huya/30682251
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/51/1e5997bcc0cbaa5955931ff2f7df0d_180_135.jpg?1556507192" group-title="虎牙轮播",橘酱真甜
+http://feiniu.305362.xyz:35455/huya/11602055
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/ac/b947389188a815b5aa26c3b86f9403_180_135.jpg?1743647467" group-title="虎牙轮播",天天影社
+http://feiniu.305362.xyz:35455/huya/29808803
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/8d/ac160ee7eed29f71f9b7a97116d5db_180_135.jpg?1650295542" group-title="虎牙轮播",梦溪影视
+http://feiniu.305362.xyz:35455/huya/25742076
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/63/61893d4ab1c814538fece254bdb9bb_180_135.jpg?1657822084" group-title="虎牙轮播",虎牙【蛋蛋侠】
+http://feiniu.305362.xyz:35455/huya/396734
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1015/95/4203778f46f46c7d79ef4129fd8161_180_135.jpg?1728692906" group-title="虎牙轮播",芮橙说剧
+http://feiniu.305362.xyz:35455/huya/30287258
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/b0/84e235f07264c2a98849e38d2a3a8d_180_135.jpg?1720689955" group-title="虎牙轮播",马呜呜
+http://feiniu.305362.xyz:35455/huya/29982631
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/c6/1219552ecdbfa3e8fefec5605de3bf_180_135.jpg?1625682800" group-title="虎牙轮播",SJ-倾甜
+http://feiniu.305362.xyz:35455/huya/396729
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/76/fee9cd789465b9ad505bd494ca4429_180_135.jpg?1697191200" group-title="虎牙轮播",【炊烟大壮】
+http://feiniu.305362.xyz:35455/huya/24782284
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/eb/1513352638f38b58fc4eb15b839a78_180_135.jpg?1729651024" group-title="虎牙轮播",唯倜得同行
+http://feiniu.305362.xyz:35455/huya/30311525
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/bd/232fe11d3f353e4f418d82a914eded_180_135.jpg?1709529051" group-title="虎牙轮播",SJ-小周周
+http://feiniu.305362.xyz:35455/huya/29768105
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/dc/220aa819b2f3237d62bb66a75a0a43_180_135.jpg?1531813967" group-title="虎牙轮播",扁豆看电影
+http://feiniu.305362.xyz:35455/huya/16028551
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/bd/63530b7173e338c69385df9a862afd_180_135.jpg?1707485081" group-title="虎牙轮播",斯尼森
+http://feiniu.305362.xyz:35455/huya/29667703
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4c/58791a804ba17e82f18fa95f2f99e9_180_135.jpg?1702967451" group-title="虎牙轮播",年年营
+http://feiniu.305362.xyz:35455/huya/29580970
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/86/f826780a41885b6adc20640dec5ddf_180_135.jpg?1620958326" group-title="虎牙轮播",余小二哦
+http://feiniu.305362.xyz:35455/huya/10279885
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/70/b0e16dd051b7185ab6d30caed488e4_180_135.jpg?1729480958" group-title="虎牙轮播",阿光影视
+http://feiniu.305362.xyz:35455/huya/30292086
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/55/c527268490930bfbbac96902561621_180_135.jpg?1646813560" group-title="虎牙轮播",迎宾桥米莱迪
+http://feiniu.305362.xyz:35455/huya/26355790
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/89/12972f240426f446e42aa65cc9706b_180_135.jpg?1556684554" group-title="虎牙轮播",闪电麦昆
+http://feiniu.305362.xyz:35455/huya/16129195
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/71/301d8cad8d9b62708d9d690c8769be_180_135.jpg?1646813145" group-title="虎牙轮播",悬疑放映厅
+http://feiniu.305362.xyz:35455/huya/26355797
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/5e/78f08eff3c9c51fbdf695431b9b1d4_180_135.jpg?1569319588" group-title="虎牙轮播",止戈电影
+http://feiniu.305362.xyz:35455/huya/19863777
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/b7/0ed46e1fd1bd12cf384f42401cc128_180_135.jpg?1742975326" group-title="虎牙轮播",新橙記Orange丶
+http://feiniu.305362.xyz:35455/huya/30590779
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/2d/7e47ea7fcfb038610e1a8b559c25d0_180_135.jpg?1736651645" group-title="虎牙轮播",南风影视
+http://feiniu.305362.xyz:35455/huya/30424191
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",而莫善者恶之
+http://feiniu.305362.xyz:35455/huya/26355775
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/5e/78f08eff3c9c51fbdf695431b9b1d4_180_135.jpg?1569319588" group-title="虎牙轮播",止戈电影
+http://feiniu.305362.xyz:35455/huya/19863777
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg?1517472689" group-title="虎牙轮播",电影最TOP
+http://feiniu.305362.xyz:35455/huya/11774959
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/24/4b484ab26497fa9309a7c78715217c_180_135.jpg?1522311669" group-title="虎牙轮播",科幻梦工场
+http://feiniu.305362.xyz:35455/huya/15152155
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",赛文777
+http://feiniu.305362.xyz:35455/huya/21059607
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754" group-title="虎牙轮播",粤语电影放映厅
+http://feiniu.305362.xyz:35455/huya/21059572
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/25/04b947aca136d6636679742a986415_180_135.jpg?1715945645" group-title="虎牙轮播",小迷糊
+http://feiniu.305362.xyz:35455/huya/29580971
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/a5/9e8740dff7ef25665d9e6550088994_180_135.jpg?1722422198" group-title="虎牙轮播",奇思妙想8
+http://feiniu.305362.xyz:35455/huya/30080192
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg?1586044444" group-title="虎牙轮播",狗哥吃火锅
+http://feiniu.305362.xyz:35455/huya/17269326
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/75/2bfcb77c65e69aba549bcf0435d7c1_180_135.jpg?1712732555" group-title="虎牙轮播",毁你男神做你男人
+http://feiniu.305362.xyz:35455/huya/353798
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/5b/f41912bf284afbf19ff741b17fdebe_180_135.jpg?1646814225" group-title="虎牙轮播",斷桥斯氏杯
+http://feiniu.305362.xyz:35455/huya/26355786
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/ca/1eaca36d155e7436c403216897a73f_180_135.jpg?1540887593" group-title="虎牙轮播",南西视频
+http://feiniu.305362.xyz:35455/huya/16913382
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/84/15dd76e9355b56ace1e811cc3754e9_180_135.jpg?1719456204" group-title="虎牙轮播",方显出英仍无骨
+http://feiniu.305362.xyz:35455/huya/26355854
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/66/92eea73419e298b87afa54a59b6dc0_180_135.jpg?1614062840" group-title="虎牙轮播",战争电影放映厅
+http://feiniu.305362.xyz:35455/huya/21059618
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/7d/dadedd6e597a39a42aa194849bad40_180_135.jpg?1585195897" group-title="虎牙轮播",非凡武林
+http://feiniu.305362.xyz:35455/huya/21674665
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/d5/a27f2ceed4e3069075c2125421c2e1_180_135.jpg?1726825202" group-title="虎牙轮播",HagnaChannel
+http://feiniu.305362.xyz:35455/huya/24692390
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/28/eb10b25db1f1a70fcb79da1403ab72_180_135.jpg?1556020041" group-title="虎牙轮播",亮哥讲电影
+http://feiniu.305362.xyz:35455/huya/16144175
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/2e/63af68312cfe252c69328448baaf7f_180_135.jpg?1559260536" group-title="虎牙轮播",斌哥漫说
+http://feiniu.305362.xyz:35455/huya/18632116
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/4d/9997877fae74891282fab8e56be4ee_180_135.jpg?1711938855" group-title="虎牙轮播",舍前棕
+http://feiniu.305362.xyz:35455/huya/26355844
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/a0/ae732951220448bf7c89d6f300b368_180_135.jpg?1694848301" group-title="虎牙轮播",一哥爱解说
+http://feiniu.305362.xyz:35455/huya/28806915
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/d0/fda0a975304c931c5cfe5ad53c71c0_180_135.jpg?1631599717" group-title="虎牙轮播",DD-解说
+http://feiniu.305362.xyz:35455/huya/25650806
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="虎牙轮播",西部影坛
+http://feiniu.305362.xyz:35455/huya/30311497
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/95/3a1d7e6548cc07923f4f91829c9498_180_135.jpg?1559014237" group-title="虎牙轮播",母胎solo200年
+http://feiniu.305362.xyz:35455/huya/30041512
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/0c/b53333444abba604faa2df4d77375b_180_135.jpg?1555566240" group-title="虎牙轮播",李小哇絮叨叨
+http://feiniu.305362.xyz:35455/huya/18441722
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/de/ffa3d717fbbd0e31326cf46be1753a_180_135.jpg?1658034517" group-title="虎牙轮播",微竞-宝魅儿吃不饱
+http://feiniu.305362.xyz:35455/huya/396726
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/e6/c8a8f73cd3e9ce2365b531c5cc4a2d_180_135.jpg?1620009251" group-title="虎牙轮播",缔爵丶小阿杜
+http://feiniu.305362.xyz:35455/huya/16755322
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/58/4018f488b843a50819fc41ca7e9647_180_135.jpg?1607753977" group-title="虎牙轮播",力哥影視
+http://feiniu.305362.xyz:35455/huya/23419131
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/5b/2f3692646fef894e05a2d2cd3a1b27_180_135.jpg?1741532078" group-title="虎牙轮播",东北挠儿哥、
+http://feiniu.305362.xyz:35455/huya/24587878
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/91/3367ea0a80ea301b63d92a7692d51b_180_135.jpg?1670154859" group-title="虎牙轮播",泛爱心说剧
+http://feiniu.305362.xyz:35455/huya/14734068
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/b7/06540532973d5fae0cc8d834972a47_180_135.jpg?1740131261" group-title="虎牙轮播",天雷鼓鼓说剧
+http://feiniu.305362.xyz:35455/huya/30277823
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ed/23555c0b2a39778e285e2e3ad1c452_180_135.jpg?1712737444" group-title="虎牙轮播",难与鸣琴弹
+http://feiniu.305362.xyz:35455/huya/21059612
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/09/6997256f20cf32f3065f9ceba39430_180_135.jpg?1721815800" group-title="虎牙轮播",击剑永不息
+http://feiniu.305362.xyz:35455/huya/30080154
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/36/b1ea957453055943c430ffd9715a7e_180_135.jpg?1727498043" group-title="虎牙轮播",影小渔
+http://feiniu.305362.xyz:35455/huya/30296971
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/ee/1a3987380a4acfa5a840fd8085f72f_180_135.jpg?1559035163" group-title="虎牙轮播",中二的骚年
+http://feiniu.305362.xyz:35455/huya/11602054
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/16/91a65d6cab3648275c02a9044dc96a_180_135.jpg?1583819485" group-title="虎牙轮播",我是郭杰瑞
+http://feiniu.305362.xyz:35455/huya/21478190
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/e3/41904b9204b5d7948559e4c86c20f5_180_135.jpg?1588910267" group-title="虎牙轮播",阿良说美剧
+http://feiniu.305362.xyz:35455/huya/20488841
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/cf/642bd2219d704c644d3afb2db1d553_180_135.jpg?1694689027" group-title="虎牙轮播",荒野求生影探
+http://feiniu.305362.xyz:35455/huya/28556708
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1019/00/573c75890d96e0a162224a20016b88_180_135.jpg?1729482150" group-title="虎牙轮播",五哥观影团
+http://feiniu.305362.xyz:35455/huya/30307366
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/5c/ddd1fc1b67a9a7ef7f757c37493588_180_135.jpg?1633943282" group-title="虎牙轮播",大鱼爱路飞
+http://feiniu.305362.xyz:35455/huya/25818873
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",谁言横玉笛
+http://feiniu.305362.xyz:35455/huya/29982692
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/0b/4a880dbd549aff19603c8689f33a5c_180_135.jpg?1730725406" group-title="虎牙轮播",战士吹沙埃
+http://feiniu.305362.xyz:35455/huya/30344039
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/a3/dd121b7e61bb86a7781c047b02a401_180_135.jpg?1717144048" group-title="虎牙轮播",本是凉薄之人怎暖他人
+http://feiniu.305362.xyz:35455/huya/21059630
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/f9/7df656f34e52818369ae297bd17713_180_135.jpg?1659689962" group-title="虎牙轮播",辟哥影视
+http://feiniu.305362.xyz:35455/huya/27653235
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1015/52/318e759caa9f910bd2d5901867538c_180_135.jpg?1733043666" group-title="虎牙轮播",枯木猫、
+http://feiniu.305362.xyz:35455/huya/29847482
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/28/b72eb8b003d7257e9933511426e7ed_180_135.jpg?1621334615" group-title="虎牙轮播",荒野求生影视
+http://feiniu.305362.xyz:35455/huya/24766781
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",头上在眼前
+http://feiniu.305362.xyz:35455/huya/30307331
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/3a/94ed3402adcd9dfb2074578756c65b_180_135.jpg?1607659085" group-title="虎牙轮播",小丑讲电影
+http://feiniu.305362.xyz:35455/huya/16857432
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/e7/1ed8ce4ed36fd1d8550abbc5badfb2_180_135.jpg?1714037639" group-title="虎牙轮播",老来事業斷橋邊
+http://feiniu.305362.xyz:35455/huya/26355853
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",julie
+http://feiniu.305362.xyz:35455/huya/20969142
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/ed/2054a935c77f4f402d5b0a1afa2522_180_135.jpg?1646813273" group-title="虎牙轮播",惊悚电影放映厅
+http://feiniu.305362.xyz:35455/huya/26355795
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/5e/ece3235c396cafc4cf47e8999e67a7_180_135.jpg?1733278273" group-title="虎牙轮播",阳哥影视
+http://feiniu.305362.xyz:35455/huya/30385095
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/6a/6dda2c3b0bef2346fb706744661210_180_135.jpg?1668057180" group-title="虎牙轮播",君子杉
+http://feiniu.305362.xyz:35455/huya/15321830
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/31/e49b2a9c29c0eecaeb044d422e01da_180_135.jpg?1715745505" group-title="虎牙轮播",此人皆怪怒
+http://feiniu.305362.xyz:35455/huya/26355779
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/e5/298bcd971ed7e33e267708099e76f6_180_135.jpg?1577356757" group-title="虎牙轮播",月光下
+http://feiniu.305362.xyz:35455/huya/20599549
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/77/c21c8d4dce282808d005286375cbd8_180_135.jpg?1742879129" group-title="虎牙轮播",豆腐芭比
+http://feiniu.305362.xyz:35455/huya/30683553
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",情思说剧
+http://feiniu.305362.xyz:35455/huya/29870731
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/f7/bc9b72fbdfbe155c8810ed60ac9344_180_135.jpg?1620733428" group-title="虎牙轮播",S哥影视
+http://feiniu.305362.xyz:35455/huya/24720260
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/7a/f4080eea094fe674044eb72a6214b8_180_135.jpg?1551411851" group-title="虎牙轮播",乔我说游戏频道
+http://feiniu.305362.xyz:35455/huya/17943364
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",诡计腰柳中空
+http://feiniu.305362.xyz:35455/huya/30307341
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/ab/a7c45fb73a980864e316d743463dac_180_135.jpg?1575093914" group-title="虎牙轮播",YeShi小哥
+http://feiniu.305362.xyz:35455/huya/14363949
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",果子山薩科
+http://feiniu.305362.xyz:35455/huya/26355823
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/43/535541af80dc72cc3c312e2c5f9af3_180_135.jpg?1716803461" group-title="虎牙轮播",尽是与君别
+http://feiniu.305362.xyz:35455/huya/26355824
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/a5/6a32717522a4521d758c7b16842840_180_135.jpg?1715915943" group-title="虎牙轮播",庄升秋
+http://feiniu.305362.xyz:35455/huya/29581262
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/ff/59f1ae401bf269971d2f5584f31cf9_180_135.jpg?1713426907" group-title="虎牙轮播",昵称违规-UJvLCU73jW
+http://feiniu.305362.xyz:35455/huya/26355828
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/b9/bea3cf116461d108609cf0fe6fd627_180_135.jpg?1716123791" group-title="虎牙轮播",西西姐姐
+http://feiniu.305362.xyz:35455/huya/29581116
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/55/0b39ba8aee814a7c723f00d36952e6_180_135.jpg?1698113271" group-title="虎牙轮播",君陌观影
+http://feiniu.305362.xyz:35455/huya/29420446
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/144144/92/65/77/0007776592/T1hJDvBQLr1RCvBVdK.png" group-title="虎牙轮播",小阿掌
+http://feiniu.305362.xyz:35455/huya/28182904
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="虎牙轮播",冒险电影放映厅
+http://feiniu.305362.xyz:35455/huya/21059566
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/93/b5fcd70e2bae4222c111a370952296_180_135.jpg?1619149386" group-title="虎牙轮播",硬汉影探
+http://feiniu.305362.xyz:35455/huya/24614407
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/5b/d22e41cc72b13ec1050501ecad815b_180_135.jpg?1712905686" group-title="虎牙轮播",辛苦烧餅
+http://feiniu.305362.xyz:35455/huya/26355848
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/9c/8ae635709642edde287e0a23d506c5_180_135.jpg?1621962989" group-title="虎牙轮播",野行者
+http://feiniu.305362.xyz:35455/huya/20072663
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",武侠电影放映厅
+http://feiniu.305362.xyz:35455/huya/29982611
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1052/83/a0f6069a046b08ea3a1b0e42a7ba8d_180_135.jpg?1719545615" group-title="虎牙轮播",自缘身在苔衣上
+http://feiniu.305362.xyz:35455/huya/26355822
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/82/0058ea0f1eb623bb42c768ca79e54f_180_135.jpg?1625644474" group-title="虎牙轮播",小金很大
+http://feiniu.305362.xyz:35455/huya/30307351
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/5f/21461e7a28f5637f73e0b194947509_180_135.jpg?1625716550" group-title="虎牙轮播",喜仔的世界
+http://feiniu.305362.xyz:35455/huya/17098448
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",重庆火锅青岚黄麻鸡
+http://feiniu.305362.xyz:35455/huya/30342855
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f8/98934e92305cbad481929fe006673f_180_135.jpg?1542705352" group-title="虎牙轮播",音乐小石榴
+http://feiniu.305362.xyz:35455/huya/17091681
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",君知钩看了
+http://feiniu.305362.xyz:35455/huya/30307439
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/10/1cdc057690ef4664429bdc65908f1a_180_135.jpg?1733915448" group-title="虎牙轮播",小丰爱追剧
+http://feiniu.305362.xyz:35455/huya/30439802
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/11/9644b830f7e59751ce00ba40c99502_180_135.jpg?1717144157" group-title="虎牙轮播",野味小生共江湖同醉
+http://feiniu.305362.xyz:35455/huya/21059631
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/50/e2d8c36ce93650aa5590dff53c7726_180_135.jpg?1717726409" group-title="虎牙轮播",陌哨面
+http://feiniu.305362.xyz:35455/huya/26355852
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/77/83e474b7c44fbb7ac8315ded8285c2_180_135.jpg?1646814620" group-title="虎牙轮播",看似斐濟
+http://feiniu.305362.xyz:35455/huya/26355780
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/47/b19163136f58c226e6088bcfe72f9e_180_135.jpg?1551411726" group-title="虎牙轮播",乔我说动漫频道
+http://feiniu.305362.xyz:35455/huya/17941367
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/f4/955b247b91a47c27c5bc3726af26f2_180_135.jpg?1533208010" group-title="虎牙轮播",哀是麦子的球迷
+http://feiniu.305362.xyz:35455/huya/16162176
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/0b/da433697a0d23af259deca325c1e4d_180_135.jpg?1645769159" group-title="虎牙轮播",杰克动漫
+http://feiniu.305362.xyz:35455/huya/19757963
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/d0/50ebf358fb4b19b7507b652f85f905_180_135.jpg?1621071408" group-title="虎牙轮播",吾聊电影
+http://feiniu.305362.xyz:35455/huya/16424416
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/c9/9d4901c202345f02624a0bf197f4c5_180_135.jpg?1646547610" group-title="虎牙轮播",糊了的胡萝卜
+http://feiniu.305362.xyz:35455/huya/25725150
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/0c/c8e5bab292814fbfc6fb3bd2da62a9_180_135.jpg?1533019304" group-title="虎牙轮播",动作大片放映厅
+http://feiniu.305362.xyz:35455/huya/10871113
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/ce/3553ebf20627169b7fcba3414f4460_180_135.jpg?1694848155" group-title="虎牙轮播",蒲公英电影
+http://feiniu.305362.xyz:35455/huya/28806637
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/e5/cc68debd11090522603f438e04d4ce_180_135.jpg?1697438550" group-title="虎牙轮播",楚门聊电影
+http://feiniu.305362.xyz:35455/huya/16507906
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/0c/26e53f84e284e22cf9082c4c28131b_180_135.jpg?1598951846" group-title="虎牙轮播",越哥说电影
+http://feiniu.305362.xyz:35455/huya/15894162
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/b8/4b22de6a8c7cce2994d6813c688cd2_180_135.jpg?1602591081" group-title="虎牙轮播",jk不烦恼
+http://feiniu.305362.xyz:35455/huya/21059553
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/d7/0af865942405d27d378dec6e15ea09_180_135.jpg?1612508727" group-title="虎牙轮播",多面体想娶冰柠檬
+http://feiniu.305362.xyz:35455/huya/21059575
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/fb/492ee09d84c4fe858a6005307f37ce_180_135.jpg?1531496285" group-title="虎牙轮播",熊妹撩电影
+http://feiniu.305362.xyz:35455/huya/15966357
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/fb/aa88f30374e3e4d7c824037bfee8b5_180_135.jpg?1611147722" group-title="虎牙轮播",荒爷求生007
+http://feiniu.305362.xyz:35455/huya/29468771
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/0e/45aa4a6fcfa334618f84fb3f349ab2_180_135.jpg?1726658783" group-title="虎牙轮播",惊奇小剧场
+http://feiniu.305362.xyz:35455/huya/30373013
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/62/fd3144c3f8fc6a2d243c8d48b8fb7c_180_135.jpg?1691512473" group-title="虎牙轮播",小若影视
+http://feiniu.305362.xyz:35455/huya/29868594
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/e8/75a323e6cc8a82af3b525262732894_180_135.jpg?1559014348" group-title="虎牙轮播",母胎solo二百年
+http://feiniu.305362.xyz:35455/huya/11601982
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/c5/1915aa676c0bff35dfdeaedc4042ea_180_135.jpg?1660706379" group-title="虎牙轮播",老微讲故事
+http://feiniu.305362.xyz:35455/huya/27693540
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/d3/3ce5930beb0d9b58080ad1fb14b769_180_135.jpg?1618468898" group-title="虎牙轮播",皮皮皮卡卡皮卡丘
+http://feiniu.305362.xyz:35455/huya/21059595
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/81/4c9262cf723132e54fee1d089ce514_180_135.jpg?1602591145" group-title="虎牙轮播",艾薇宝贝de宝贝
+http://feiniu.305362.xyz:35455/huya/21059554
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/e0/a03918d19a8aa257449f41d6ffeff2_180_135.jpg?1716775956" group-title="虎牙轮播",吹绿令人老
+http://feiniu.305362.xyz:35455/huya/21059613
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/39/83a56a82c04461f15d918dc055d0b4_180_135.jpg?1620961449" group-title="虎牙轮播",酱婶儿电影
+http://feiniu.305362.xyz:35455/huya/24396474
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/90/9a2a43815067279991409eb69a08df_180_135.jpg?1542862062" group-title="虎牙轮播",幻海航行
+http://feiniu.305362.xyz:35455/huya/17105786
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/41/5bb1814e6dff5d1064fabf0753fc2e_180_135.jpg?1625981028" group-title="虎牙轮播",涵哥评电影
+http://feiniu.305362.xyz:35455/huya/16865726
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/60/b8024557eb7eef522a91f6ce8c875a_180_135.jpg?1646814465" group-title="虎牙轮播",耶溪猫獅
+http://feiniu.305362.xyz:35455/huya/26355782
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/7e/366ae2ea9db3c98ac57ec28781983f_180_135.jpg?1530171252" group-title="虎牙轮播",小川侃电影
+http://feiniu.305362.xyz:35455/huya/15870999
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/81/4c9262cf723132e54fee1d089ce514_180_135.jpg?1602591145" group-title="虎牙轮播",艾薇宝贝de宝贝
+http://feiniu.305362.xyz:35455/huya/21059554
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/c0/4b165266e473f83c9dfe69772ecd7b_180_135.jpg?1646814397" group-title="虎牙轮播",年月犬
+http://feiniu.305362.xyz:35455/huya/26355784
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/39/83a56a82c04461f15d918dc055d0b4_180_135.jpg?1620961449" group-title="虎牙轮播",酱婶儿电影
+http://feiniu.305362.xyz:35455/huya/24396474
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/90/9a2a43815067279991409eb69a08df_180_135.jpg?1542862062" group-title="虎牙轮播",幻海航行
+http://feiniu.305362.xyz:35455/huya/17105786
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/87/8ddc2d23f878c6c458ffd8fcd96626_180_135.jpg?1621500142" group-title="虎牙轮播",小鹿来了
+http://feiniu.305362.xyz:35455/huya/22780175
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/e8/75a323e6cc8a82af3b525262732894_180_135.jpg?1559014348" group-title="虎牙轮播",母胎solo二百年
+http://feiniu.305362.xyz:35455/huya/11601982
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/d3/3ce5930beb0d9b58080ad1fb14b769_180_135.jpg?1618468898" group-title="虎牙轮播",皮皮皮卡卡皮卡丘
+http://feiniu.305362.xyz:35455/huya/21059595
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/e0/a03918d19a8aa257449f41d6ffeff2_180_135.jpg?1716775956" group-title="虎牙轮播",吹绿令人老
+http://feiniu.305362.xyz:35455/huya/21059613
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/62/fd3144c3f8fc6a2d243c8d48b8fb7c_180_135.jpg?1691512473" group-title="虎牙轮播",小若影视
+http://feiniu.305362.xyz:35455/huya/29868594
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/c5/1915aa676c0bff35dfdeaedc4042ea_180_135.jpg?1660706379" group-title="虎牙轮播",老微讲故事
+http://feiniu.305362.xyz:35455/huya/27693540
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",莫西西西西
+http://feiniu.305362.xyz:35455/huya/30312372
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/99/231ba49cf0b6c4db373b74accd62e4_180_135.jpg?1619075255" group-title="虎牙轮播",黑眼侃片
+http://feiniu.305362.xyz:35455/huya/24609357
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/72/6ef0c6ccdc6cb0dfca4869b1b13faa_180_135.jpg?1616062489" group-title="虎牙轮播",东方先生i
+http://feiniu.305362.xyz:35455/huya/24396323
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/ad/f2355ca155a42992b20481c3cf7212_180_135.jpg?1704161860" group-title="虎牙轮播",星雪剪辑
+http://feiniu.305362.xyz:35455/huya/29868637
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",明年幸运
+http://feiniu.305362.xyz:35455/huya/30373458
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/94/d5a68ebfead345512f78da4748d8d0_180_135.jpg?1582818571" group-title="虎牙轮播",大象放映室
+http://feiniu.305362.xyz:35455/huya/21277391
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",江流杀鸡作食
+http://feiniu.305362.xyz:35455/huya/30375485
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/29/0c2eaf5f001aea61d85644c44fa84c_180_135.jpg?1741615191" group-title="虎牙轮播",大神影视
+http://feiniu.305362.xyz:35455/huya/30297011
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/88/fa6c98b87181724117dd9f63c13344_180_135.jpg?1652412601" group-title="虎牙轮播",老P仔动漫
+http://feiniu.305362.xyz:35455/huya/26510802
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/de/bd978951b168b60efbd8b9fcea74a2_180_135.jpg?1714118475" group-title="虎牙轮播",小野综艺
+http://feiniu.305362.xyz:35455/huya/29890508
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/32/306c729aec796334198aa8e790f97c_180_135.jpg?1525869137" group-title="虎牙轮播",宇宙无敌韩三金
+http://feiniu.305362.xyz:35455/huya/15494057
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/aa/dd44d5bfbe13bf35b924386c4a6dd8_180_135.jpg?1588818372" group-title="虎牙轮播",陈年三百零六斤
+http://feiniu.305362.xyz:35455/huya/17259151
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",小马追剧
+http://feiniu.305362.xyz:35455/huya/30310431
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/f3/ef7188948b9b353e6d0e68b6e96d1b_180_135.jpg?1655179518" group-title="虎牙轮播",火华君说电影
+http://feiniu.305362.xyz:35455/huya/27312232
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/74/21f65b30cfe82cacf6a454595a2ba4_180_135.jpg?1737077579" group-title="虎牙轮播",惜春剧场
+http://feiniu.305362.xyz:35455/huya/30539411
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",喵哇塞
+http://feiniu.305362.xyz:35455/huya/30344013
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/55/a719d6c00553711c753db517208aec_180_135.jpg?1659587748" group-title="虎牙轮播",猫丸酱影视
+http://feiniu.305362.xyz:35455/huya/26999674
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/46/b2b88bc0eb3515a0f425c5f322592f_180_135.jpg?1726662563" group-title="虎牙轮播",追剧怀旧达人
+http://feiniu.305362.xyz:35455/huya/30339640
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/cf/e9390f9d97ae405c5e484ff7656870_180_135.jpg?1570864857" group-title="虎牙轮播",西哥来了
+http://feiniu.305362.xyz:35455/huya/10849208
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/a2/f1086211b43eec48e4ef6a6f6b0145_180_135.jpg?1741261724" group-title="虎牙轮播",狼肉-恐怖游戏
+http://feiniu.305362.xyz:35455/huya/27949294
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",小宋追剧
+http://feiniu.305362.xyz:35455/huya/30310419
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/2b/82e6247dcb1386a5581032a3f69954_180_135.jpg?1697007758" group-title="虎牙轮播",新海电影
+http://feiniu.305362.xyz:35455/huya/29396806
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/27/ac201b24698be88fc466d61b537178_180_135.jpg?1700016951" group-title="虎牙轮播",狗哥探案
+http://feiniu.305362.xyz:35455/huya/29484323
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/7d/aa38c9785233dab051a928deb0064b_180_135.jpg?1733909177" group-title="虎牙轮播",鑫鑫影视
+http://feiniu.305362.xyz:35455/huya/30439676
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/d9/89449d9d32dbec6db90c74a3f300b3_180_135.jpg?1659707293" group-title="虎牙轮播",7块说故事
+http://feiniu.305362.xyz:35455/huya/27661804
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/2d/b37764da6a9a8779b0f5f1d48dc568_180_135.jpg?1732785418" group-title="虎牙轮播",蓬蓬带你看剧
+http://feiniu.305362.xyz:35455/huya/30309986
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/b6/7c310c4a89d253f57f66995e4172af_180_135.jpg?1732355577" group-title="虎牙轮播",清泉玄鱼
+http://feiniu.305362.xyz:35455/huya/30297342
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/59/30ab88b8aa52f0aa05c7e9ed1e72a4_180_135.jpg?1717046775" group-title="虎牙轮播",爆有料综艺
+http://feiniu.305362.xyz:35455/huya/27695407
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/de/c53a0f26fe49ef1d956fb1816ed64b_180_135.jpg?1742799631" group-title="虎牙轮播",阿良说剧
+http://feiniu.305362.xyz:35455/huya/30296909
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/05/989ebca8d7566c06fb8d56a1ba95fc_180_135.jpg?1621603500" group-title="虎牙轮播",柒言绝剧
+http://feiniu.305362.xyz:35455/huya/24778726
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/d1/2c15fa87e2e4c7f08067618fcd61c3_180_135.jpg?1616406716" group-title="虎牙轮播",小小萌先生
+http://feiniu.305362.xyz:35455/huya/24481139
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/d6/f9e7f044f90b8b6dc3c02f4a244ada_180_135.jpg?1623054892" group-title="虎牙轮播",hihiji
+http://feiniu.305362.xyz:35455/huya/24982176
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1001/1c/41021344a1ea3ff83bb2a3da9322a3_180_135.jpg?1518263696" group-title="虎牙轮播",小丑电影
+http://feiniu.305362.xyz:35455/huya/29869799
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/f3/ef7188948b9b353e6d0e68b6e96d1b_180_135.jpg?1655179518" group-title="虎牙轮播",火华君说电影
+http://feiniu.305362.xyz:35455/huya/27312232
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/aa/dd44d5bfbe13bf35b924386c4a6dd8_180_135.jpg?1588818372" group-title="虎牙轮播",陈年三百零六斤
+http://feiniu.305362.xyz:35455/huya/17259151
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/de/bd978951b168b60efbd8b9fcea74a2_180_135.jpg?1714118475" group-title="虎牙轮播",小野综艺
+http://feiniu.305362.xyz:35455/huya/29890508
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/b8/9ee0ba4656f6537a18155914c699c3_180_135.jpg?1715673104" group-title="虎牙轮播",是醉芙吖
+http://feiniu.305362.xyz:35455/huya/21059599
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/b0/9abb88f0682b0a52e5b9196287239d_180_135.jpg?1621494336" group-title="虎牙轮播",猛虎电影
+http://feiniu.305362.xyz:35455/huya/24770988
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",驴子爱影视
+http://feiniu.305362.xyz:35455/huya/20380270
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",江流杀鸡作食
+http://feiniu.305362.xyz:35455/huya/30375485
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/fa/d502f0f0bf4016da71a293e4c8980b_180_135.jpg?1729082474" group-title="虎牙轮播",书源说剧
+http://feiniu.305362.xyz:35455/huya/30297394
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/af/8a1d28f87ebbc0a541c80cde06eaee_180_135.jpg?1655200868" group-title="虎牙轮播",木子电影V
+http://feiniu.305362.xyz:35455/huya/27314057
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",诗语墨
+http://feiniu.305362.xyz:35455/huya/30312383
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/ad/f2355ca155a42992b20481c3cf7212_180_135.jpg?1704161860" group-title="虎牙轮播",星雪剪辑
+http://feiniu.305362.xyz:35455/huya/29868637
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",小宋追剧
+http://feiniu.305362.xyz:35455/huya/30310419
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/88/7425535c18671318b7ef8f56ac3397_180_135.jpg?1628240758" group-title="虎牙轮播",小羊观影记录
+http://feiniu.305362.xyz:35455/huya/25363475
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/d5/8e38e286a378c453f8264d52dc96da_180_135.jpg?1718172484" group-title="虎牙轮播",青年电影馆
+http://feiniu.305362.xyz:35455/huya/21388479
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/86/0ca5441a80ff7731c2afe73b8b6f76_180_135.jpg?1612424267" group-title="虎牙轮播",包租婆不停水
+http://feiniu.305362.xyz:35455/huya/21059568
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/68/53a742ead16e54311a90639a76eba1_180_135.jpg?1629992558" group-title="虎牙轮播",良少聊漫威
+http://feiniu.305362.xyz:35455/huya/25523725
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1019/6d/229a7a8a4471215362b6099ce96115_180_135.jpg?1733915514" group-title="虎牙轮播",大潘影视
+http://feiniu.305362.xyz:35455/huya/30439834
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/88/fa6c98b87181724117dd9f63c13344_180_135.jpg?1652412601" group-title="虎牙轮播",老P仔动漫
+http://feiniu.305362.xyz:35455/huya/26510802
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/6b/31e9d62a16364b1e0c76009763d03c_180_135.jpg?1621495904" group-title="虎牙轮播",拳满天下
+http://feiniu.305362.xyz:35455/huya/18152427
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/cf/e9390f9d97ae405c5e484ff7656870_180_135.jpg?1570864857" group-title="虎牙轮播",西哥来了
+http://feiniu.305362.xyz:35455/huya/10849208
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/65/f7bf973a349256329808c038c66c71_180_135.jpg?1624606761" group-title="虎牙轮播",原始生活21天
+http://feiniu.305362.xyz:35455/huya/17610289
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/a1/76c68c28ee20224874db89671c96b3_180_135.jpg?1728380114" group-title="虎牙轮播",电影探长官方
+http://feiniu.305362.xyz:35455/huya/30277705
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/07/74de55853f74ebd361d828f11dfa57_180_135.jpg?1686297602" group-title="虎牙轮播",夏日么么茶
+http://feiniu.305362.xyz:35455/huya/17455040
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/de/c53a0f26fe49ef1d956fb1816ed64b_180_135.jpg?1742799631" group-title="虎牙轮播",阿良说剧
+http://feiniu.305362.xyz:35455/huya/30296909
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/2b/82e6247dcb1386a5581032a3f69954_180_135.jpg?1697007758" group-title="虎牙轮播",新海电影
+http://feiniu.305362.xyz:35455/huya/29396806
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/55/a719d6c00553711c753db517208aec_180_135.jpg?1659587748" group-title="虎牙轮播",猫丸酱影视
+http://feiniu.305362.xyz:35455/huya/26999674
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/74/21f65b30cfe82cacf6a454595a2ba4_180_135.jpg?1737077579" group-title="虎牙轮播",惜春剧场
+http://feiniu.305362.xyz:35455/huya/30539411
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/68/fdf06ec8db7b9f306418a931ba9391_180_135.jpg?1695604534" group-title="虎牙轮播",阿柴电影
+http://feiniu.305362.xyz:35455/huya/29402497
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/59/30ab88b8aa52f0aa05c7e9ed1e72a4_180_135.jpg?1717046775" group-title="虎牙轮播",爆有料综艺
+http://feiniu.305362.xyz:35455/huya/27695407
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/29/0c2eaf5f001aea61d85644c44fa84c_180_135.jpg?1741615191" group-title="虎牙轮播",大神影视
+http://feiniu.305362.xyz:35455/huya/30297011
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/d3/9e1fc54c394562a5d69315feb5104c_180_135.jpg?1594361176" group-title="虎牙轮播",刺猬职场说
+http://feiniu.305362.xyz:35455/huya/22717669
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/05/989ebca8d7566c06fb8d56a1ba95fc_180_135.jpg?1621603500" group-title="虎牙轮播",柒言绝剧
+http://feiniu.305362.xyz:35455/huya/24778726
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/eb/f290675138caebde74795cdf41478c_180_135.jpg?1606377584" group-title="虎牙轮播",十趣文化
+http://feiniu.305362.xyz:35455/huya/23707143
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/d6/f9e7f044f90b8b6dc3c02f4a244ada_180_135.jpg?1623054892" group-title="虎牙轮播",hihiji
+http://feiniu.305362.xyz:35455/huya/24982176
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/8d/559c1564293afed53fbbf8c2477cdd_180_135.jpg?1695289764" group-title="虎牙轮播",鹏友说电影
+http://feiniu.305362.xyz:35455/huya/29340612
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/99/231ba49cf0b6c4db373b74accd62e4_180_135.jpg?1619075255" group-title="虎牙轮播",黑眼侃片
+http://feiniu.305362.xyz:35455/huya/24609357
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/72/6ef0c6ccdc6cb0dfca4869b1b13faa_180_135.jpg?1616062489" group-title="虎牙轮播",东方先生i
+http://feiniu.305362.xyz:35455/huya/24396323
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/9c/0e74be1209e616b763007026fb84d3_180_135.jpg?1712904882" group-title="虎牙轮播",奇幻电影放映厅
+http://feiniu.305362.xyz:35455/huya/26355847
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/4d/b62b00c66facffb134d717c552d7c0_180_135.jpg?1716359798" group-title="虎牙轮播",金小妍吖
+http://feiniu.305362.xyz:35455/huya/29942067
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/c1/52e00a9af86d06d2a2a467f551ab6d_180_135.jpg?1649439695" group-title="虎牙轮播",大聪明和魏乐乐影院
+http://feiniu.305362.xyz:35455/huya/23304691
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/d9/89449d9d32dbec6db90c74a3f300b3_180_135.jpg?1659707293" group-title="虎牙轮播",7块说故事
+http://feiniu.305362.xyz:35455/huya/27661804
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/d1/2c15fa87e2e4c7f08067618fcd61c3_180_135.jpg?1616406716" group-title="虎牙轮播",小小萌先生
+http://feiniu.305362.xyz:35455/huya/24481139
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1052/84/f18ecc215ed8797debe97cd1ce1378_180_135.jpg?1623825779" group-title="虎牙轮播",威廉说
+http://feiniu.305362.xyz:35455/huya/24969192
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/83/f3e1b9a29f021cb43aa57db2f6b863_180_135.jpg?1697011488" group-title="虎牙轮播",阿神电影
+http://feiniu.305362.xyz:35455/huya/29396896
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/ef/ae5c4c6daaabd1489e7cffe1e2c4b9_180_135.jpg?1732776437" group-title="虎牙轮播",百年影视馆
+http://feiniu.305362.xyz:35455/huya/30399989
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",鸳鸯入帘青
+http://feiniu.305362.xyz:35455/huya/30380969
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/0f/60eddf29df023ac6284bc7b0c1ad55_180_135.jpg?1711092182" group-title="虎牙轮播",泡菜电影
+http://feiniu.305362.xyz:35455/huya/29812160
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/f4/311b0b316b5a9049faea39c0ed49ef_180_135.jpg?1711975706" group-title="虎牙轮播",虎虎剧社呀
+http://feiniu.305362.xyz:35455/huya/29831106
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1033/c7/deaedc677ecfb34f095c8ac7ab6f25_180_135.jpg" group-title="虎牙轮播",Fight、Girl
+http://feiniu.305362.xyz:35455/huya/11352895
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",驿外空庭得
+http://feiniu.305362.xyz:35455/huya/30373502
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/ae/837f7a76e436c6c3376367e1b93a32_180_135.jpg?1729078614" group-title="虎牙轮播",古枫影视
+http://feiniu.305362.xyz:35455/huya/30297201
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/0c/ac3c60f10804956c53c4406d64e5c0_180_135.jpg?1698032717" group-title="虎牙轮播",光光电影
+http://feiniu.305362.xyz:35455/huya/29399457
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/c9/efa18758aeadf045ae9fe670d7acb7_180_135.jpg?1581758254" group-title="虎牙轮播",坚定希望
+http://feiniu.305362.xyz:35455/huya/21059529
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/b7/7f44172b9bd802f77ad30e3e153015_180_135.jpg?1721306082" group-title="虎牙轮播",路飞追剧
+http://feiniu.305362.xyz:35455/huya/30097024
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/90/00502272c435c9631a02598909486b_180_135.jpg?1743137174" group-title="虎牙轮播",家里有只小汤圆
+http://feiniu.305362.xyz:35455/huya/28078466
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1093/4d/e7f7d4a625e21cef29615d478e9ba9_180_135.jpg?0" group-title="虎牙轮播",小松说剧
+http://feiniu.305362.xyz:35455/huya/11593369
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1096/d6/c177089e08964689b8e5cece7e08f8_180_135.jpg" group-title="虎牙轮播",动画电影放映厅
+http://feiniu.305362.xyz:35455/huya/11352878
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/6c/6925d40d81934111accb2cc812226e_180_135.jpg?1713978511" group-title="虎牙轮播",玩个机枪
+http://feiniu.305362.xyz:35455/huya/30356003
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/e1/8dbf098ead161547481a0d9f78c829_180_135.jpg?1742798985" group-title="虎牙轮播",小师妹说剧
+http://feiniu.305362.xyz:35455/huya/19505458
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/92/402a0ef17879e21be1dcb4d501ca78_180_135.jpg?1737170402" group-title="虎牙轮播",荒野大世界
+http://feiniu.305362.xyz:35455/huya/30298239
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/41/8979ca6bfe50c6e47c66e7fe4a1439_180_135.jpg?1715404532" group-title="虎牙轮播",综艺不打马
+http://feiniu.305362.xyz:35455/huya/29918268
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/97/7f2e51fe092bfdcc8475a5c96a834d_180_135.jpg?1713427465" group-title="虎牙轮播",一条贤娱
+http://feiniu.305362.xyz:35455/huya/29874258
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/a8/776881ba041d1db68ccbc8f2110b8e_180_135.jpg?1728873695" group-title="虎牙轮播",阿涛影视
+http://feiniu.305362.xyz:35455/huya/30292047
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/56/11205c5f4ca0b9ac7959582ab72ecb_180_135.jpg?1733915562" group-title="虎牙轮播",岳岳追剧呀
+http://feiniu.305362.xyz:35455/huya/30438843
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/a9/409a96fd9520f6c96beb1013ddb462_180_135.jpg?1729137525" group-title="虎牙轮播",剧能说
+http://feiniu.305362.xyz:35455/huya/30298490
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/76/22e525f61b4cc3f97fceece6832914_180_135.jpg?1715403846" group-title="虎牙轮播",时夜说故事
+http://feiniu.305362.xyz:35455/huya/29918288
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/49/c46ae83ac358fceaee5c9d77829194_180_135.jpg?1703486280" group-title="虎牙轮播",可乐电影o
+http://feiniu.305362.xyz:35455/huya/29598686
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/22/6b8473b4095563d48d94b5889970db_180_135.jpg?1732211579" group-title="虎牙轮播",南南说动漫
+http://feiniu.305362.xyz:35455/huya/30296754
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png" group-title="虎牙轮播",泱泱看剧
+http://feiniu.305362.xyz:35455/huya/30373462
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/46/0fef338af5b456f3f65076b3df3581_180_135.jpg?1653963557" group-title="虎牙轮播",八零影漫
+http://feiniu.305362.xyz:35455/huya/27236095
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/64/ceb55972f67a8fbe88439f440706c3_180_135.jpg?1542713057" group-title="虎牙轮播",我是一颗小虎牙
+http://feiniu.305362.xyz:35455/huya/30363935
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1017/76/5d2d1a61a29397c2470e6e2de7e87f_180_135.jpg?1713428864" group-title="虎牙轮播",纯洁上校
+http://feiniu.305362.xyz:35455/huya/29875684
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1029/1c/af76d93c9fe545b57441b2451b8cb1_180_135.jpg?1711934545" group-title="虎牙轮播",三哥说武侠
+http://feiniu.305362.xyz:35455/huya/29834817
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/1c/3addc221fc0a6523d4a829709a44a0_180_135.jpg?1599924717" group-title="虎牙轮播",逆火行
+http://feiniu.305362.xyz:35455/huya/15824466
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/5c/32f9f03466c469cbac8345444dd6fd_180_135.jpg?1582015720" group-title="虎牙轮播",周星驰吧
+http://feiniu.305362.xyz:35455/huya/21136378
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/b3/492eaaf7af22398f324694b1c7f6ed_180_135.jpg?1740451144" group-title="虎牙轮播",布布娱乐
+http://feiniu.305362.xyz:35455/huya/29882863
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/9f/c8d720bec4da4bf98b15feb6a94745_180_135.jpg?1729482428" group-title="虎牙轮播",大鹅观影
+http://feiniu.305362.xyz:35455/huya/30292065
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/19/bc55d6fd83f0dbfae3939e937080f2_180_135.jpg?1538072257" group-title="虎牙轮播",鱼丸说电影
+http://feiniu.305362.xyz:35455/huya/16615910
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/e2/7f68bb96252c73168d0a89d7578caf_180_135.jpg?1712892064" group-title="虎牙轮播",山石说电影
+http://feiniu.305362.xyz:35455/huya/29858128
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/50/689479539c629968c29e078779a17f_180_135.jpg?1711702276" group-title="虎牙轮播",凡人说剧
+http://feiniu.305362.xyz:35455/huya/29831090
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d8/fa0a985219c9ca8cb8113cdde3717c_180_135.jpg?1573180034" group-title="虎牙轮播",猫眼下的鱼
+http://feiniu.305362.xyz:35455/huya/20236200
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/2d/d36bafe4029b5e501798653957318f_180_135.jpg?1701083292" group-title="虎牙轮播",雨哥影视
+http://feiniu.305362.xyz:35455/huya/29517294
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/9e/8eb2b93ad05e0b51612709fb54f1cd_180_135.jpg?1695202450" group-title="虎牙轮播",若雨随影
+http://feiniu.305362.xyz:35455/huya/29340713
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/1f/9e7e7e3d97deff888c78730397a9c2_180_135.jpg?1733911566" group-title="虎牙轮播",小安追剧
+http://feiniu.305362.xyz:35455/huya/30439728
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/64/600c5c90e71d136891d3eac2b3fbc3_180_135.jpg?1650768637" group-title="虎牙轮播",热播君V
+http://feiniu.305362.xyz:35455/huya/26999401
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/68/2daf3fcaaeec739afbfb40cf3eef95_180_135.jpg?1732776187" group-title="虎牙轮播",饭团剧社
+http://feiniu.305362.xyz:35455/huya/30399978
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/bf/792385710447bd226ba66860a6c57b_180_135.jpg?1625554283" group-title="虎牙轮播",晕倒羊一家
+http://feiniu.305362.xyz:35455/huya/25107026
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/1e/eb715d03cc887fdba1b418798e9a35_180_135.jpg?1698132635" group-title="虎牙轮播",苏苏追剧
+http://feiniu.305362.xyz:35455/huya/29418696
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/6c/cad10d28e3d5c82a873f7f2ba5cfd2_180_135.jpg?1616061592" group-title="虎牙轮播",小东北侃大片
+http://feiniu.305362.xyz:35455/huya/23110321
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/cd/6ae1108d2993e2ae21d3480cdc8a2f_180_135.jpg?1729481562" group-title="虎牙轮播",阿森观影团
+http://feiniu.305362.xyz:35455/huya/30292074
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1019/e2/b06d39926cb7cbc33b6458772d3e3d_180_135.jpg?1695265471" group-title="虎牙轮播",老巴电影
+http://feiniu.305362.xyz:35455/huya/29340502
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/58/2ceee311a03ba311e6936fec5fd3f2_180_135.jpg?1729589224" group-title="虎牙轮播",我是二人放映厅
+http://feiniu.305362.xyz:35455/huya/24441727
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/21/66fc9599b0dc0fe198a6dec413a1a9_180_135.jpg?1716373377" group-title="虎牙轮播",水至凌云笔
+http://feiniu.305362.xyz:35455/huya/21059600
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/bf/2a34ca6ce5815b8b81b83b9d6bec57_180_135.jpg?1711785121" group-title="虎牙轮播",救赎电影
+http://feiniu.305362.xyz:35455/huya/29833341
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/a6/4c2420c6b530ed792f5ffcc7970735_180_135.jpg?1558062636" group-title="虎牙轮播",电影狂人A
+http://feiniu.305362.xyz:35455/huya/18715610
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/29/0404c9b5da9e63f550312893643a8d_180_135.jpg?1732775811" group-title="虎牙轮播",剧迷小灯泡
+http://feiniu.305362.xyz:35455/huya/30399965
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/32/6a59c5cc6aedb36a91f4e24406285d_180_135.jpg?1729074439" group-title="虎牙轮播",影视铺FILMSHOP
+http://feiniu.305362.xyz:35455/huya/30297166
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/02/02c6ff8523fb93bfa9e612ed35b4af_180_135.jpg?1612504793" group-title="虎牙轮播",肥猫观影
+http://feiniu.305362.xyz:35455/huya/24152470
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/a5/71a5c882ea6b797d59048bb3556ca0_180_135.jpg?1712907318" group-title="虎牙轮播",张小宾电影
+http://feiniu.305362.xyz:35455/huya/29862176
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/ff/f7aab657170537f873be7539f4c9ed_180_135.jpg?1650599106" group-title="虎牙轮播",沉默的孤狼啊
+http://feiniu.305362.xyz:35455/huya/21059598
 
 
 
