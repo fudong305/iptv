@@ -7,6 +7,94 @@ https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
 https://vd2.bdstatic.com/mda-nadm5jqnuteatw2u/sc/cae_h264_delogo/1642172623674683427/mda-nadm5jqnuteatw2u.mp4
 
 #EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央卫光迅",CCTV1
+http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央卫光迅",CCTV2
+http://223.241.247.214:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央卫光迅",CCTV3
+http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央卫光迅",CCTV4
+http://223.241.247.214:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央卫光迅",CCTV5
+http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央卫光迅",CCTV6
+http://223.241.247.214:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央卫光迅",CCTV7
+http://223.241.247.214:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央卫光迅",CCTV8
+http://223.241.247.214:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央卫光迅",CCTV9
+http://223.241.247.214:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央卫光迅",CCTV10
+http://223.241.247.214:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央卫光迅",CCTV11
+http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央卫光迅",CCTV12
+http://223.241.247.214:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央卫光迅",CCTV13
+http://223.241.247.214:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央卫光迅",CCTV14
+http://223.241.247.214:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央卫光迅",CCTV15
+http://223.241.247.214:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.v1.mk/logo/义马综合.png" group-title="央卫光迅",马鞍山公共
+http://223.241.247.214:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.v1.mk/logo/义马综合.png" group-title="央卫光迅",马鞍山新闻
+http://223.241.247.214:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="央卫光迅",安徽卫视
+http://223.241.247.214:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://epg.v1.mk/logo/安徽公共.png" group-title="央卫光迅",安徽公共
+http://223.241.247.214:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="央卫光迅",北京卫视
+http://223.241.247.214:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="央卫光迅",东方卫视
+http://223.241.247.214:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="央卫光迅",天津卫视
+http://223.241.247.214:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="央卫光迅",重庆卫视
+http://223.241.247.214:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="央卫光迅",江苏卫视
+http://223.241.247.214:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="央卫光迅",湖南卫视
+http://223.241.247.214:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="央卫光迅",浙江卫视
+http://223.241.247.214:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="央卫光迅",黑龙江卫视
+http://223.241.247.214:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="央卫光迅",吉林卫视
+http://223.241.247.214:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="央卫光迅",辽宁卫视
+http://223.241.247.214:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="央卫光迅",河南卫视
+http://223.241.247.214:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="央卫光迅",山东卫视
+http://223.241.247.214:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="央卫光迅",山西卫视
+http://223.241.247.214:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="央卫光迅",陕西卫视
+http://223.241.247.214:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="央卫光迅",宁夏卫视
+http://223.241.247.214:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="央卫光迅",甘肃卫视
+http://223.241.247.214:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="央卫光迅",湖北卫视
+http://223.241.247.214:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="央卫光迅",贵州卫视
+http://223.241.247.214:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="央卫光迅",四川卫视
+http://223.241.247.214:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="央卫光迅",江西卫视
+http://223.241.247.214:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="央卫光迅",东南卫视
+http://223.241.247.214:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="央卫光迅",广东卫视
+http://223.241.247.214:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="央卫光迅",深圳卫视
+http://223.241.247.214:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="央卫光迅",广西卫视
+http://223.241.247.214:9901/tsfile/live/0113_1.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央卫频道",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央卫频道",CCTV2
@@ -277,95 +365,6 @@ http://iptv.huuc.edu.cn/hls/discovery.m3u8
 http://iptv.huuc.edu.cn/hls/chcatv.m3u8
 #EXTINF:-1 group-title="校园网频",CHC家庭影院
 http://iptv.huuc.edu.cn/hls/chctv.m3u8
-
-
-#EXTM3U
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央卫光迅",CCTV1
-http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央卫光迅",CCTV2
-http://223.241.247.214:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央卫光迅",CCTV3
-http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央卫光迅",CCTV4
-http://223.241.247.214:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央卫光迅",CCTV5
-http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央卫光迅",CCTV6
-http://223.241.247.214:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央卫光迅",CCTV7
-http://223.241.247.214:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央卫光迅",CCTV8
-http://223.241.247.214:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央卫光迅",CCTV9
-http://223.241.247.214:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央卫光迅",CCTV10
-http://223.241.247.214:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央卫光迅",CCTV11
-http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央卫光迅",CCTV12
-http://223.241.247.214:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央卫光迅",CCTV13
-http://223.241.247.214:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央卫光迅",CCTV14
-http://223.241.247.214:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央卫光迅",CCTV15
-http://223.241.247.214:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.v1.mk/logo/义马综合.png" group-title="央卫光迅",马鞍山公共
-http://223.241.247.214:9901/tsfile/live/0017_1.m3u8
-#EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.v1.mk/logo/义马综合.png" group-title="央卫光迅",马鞍山新闻
-http://223.241.247.214:9901/tsfile/live/0018_1.m3u8
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="央卫光迅",安徽卫视
-http://223.241.247.214:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://epg.v1.mk/logo/安徽公共.png" group-title="央卫光迅",安徽公共
-http://223.241.247.214:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="央卫光迅",北京卫视
-http://223.241.247.214:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="央卫光迅",东方卫视
-http://223.241.247.214:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="央卫光迅",天津卫视
-http://223.241.247.214:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="央卫光迅",重庆卫视
-http://223.241.247.214:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="央卫光迅",江苏卫视
-http://223.241.247.214:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="央卫光迅",湖南卫视
-http://223.241.247.214:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="央卫光迅",浙江卫视
-http://223.241.247.214:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="央卫光迅",黑龙江卫视
-http://223.241.247.214:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="央卫光迅",吉林卫视
-http://223.241.247.214:9901/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="央卫光迅",辽宁卫视
-http://223.241.247.214:9901/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="央卫光迅",河南卫视
-http://223.241.247.214:9901/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="央卫光迅",山东卫视
-http://223.241.247.214:9901/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="央卫光迅",山西卫视
-http://223.241.247.214:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="央卫光迅",陕西卫视
-http://223.241.247.214:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="央卫光迅",宁夏卫视
-http://223.241.247.214:9901/tsfile/live/0112_1.m3u8
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="央卫光迅",甘肃卫视
-http://223.241.247.214:9901/tsfile/live/0141_1.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="央卫光迅",湖北卫视
-http://223.241.247.214:9901/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="央卫光迅",贵州卫视
-http://223.241.247.214:9901/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="央卫光迅",四川卫视
-http://223.241.247.214:9901/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="央卫光迅",江西卫视
-http://223.241.247.214:9901/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="央卫光迅",东南卫视
-http://223.241.247.214:9901/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="央卫光迅",广东卫视
-http://223.241.247.214:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="央卫光迅",深圳卫视
-http://223.241.247.214:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="央卫光迅",广西卫视
-http://223.241.247.214:9901/tsfile/live/0113_1.m3u8
 
 
 
@@ -1123,273 +1122,6 @@ http://z.b.bkpcp.top/m.php?id=hxjc
 #EXTINF:-1 group-title="咪咕全网",魅力足球
 http://z.b.bkpcp.top/m.php?id=mlzq
 
-
-
-#EXTM3U
-#EXTINF:-1 group-title="咪咕直播",咪咕视频1
-http://110.89.11.24:995/itv/3000000001000005308.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频2
-http://110.89.11.24:995/itv/3000000001000005969.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频3
-http://110.89.11.24:995/itv/3000000001000007218.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4
-http://110.89.11.24:995/itv/3000000001000008001.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频5
-http://110.89.11.24:995/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频6
-http://110.89.11.24:995/itv/3000000001000008379.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频7
-http://110.89.11.24:995/itv/3000000001000010129.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频8
-http://110.89.11.24:995/itv/3000000001000010948.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频9
-http://110.89.11.24:995/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频10
-http://110.89.11.24:995/itv/3000000001000031494.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频11
-http://110.89.11.24:995/itv/3000000010000005837.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频12
-http://110.89.11.24:995/itv/3000000020000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频13
-http://110.89.11.24:995/itv/3000000020000011519.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频14
-http://110.89.11.24:995/itv/3000000020000011520.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频15
-http://110.89.11.24:995/itv/3000000020000011521.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频16
-http://110.89.11.24:995/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频17
-http://110.89.11.24:995/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频18
-http://110.89.11.24:995/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频19
-http://110.89.11.24:995/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频20
-http://110.89.11.24:995/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频21
-http://110.89.11.24:995/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频22
-http://110.89.11.24:995/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频23
-http://110.89.11.24:995/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频24
-http://110.89.11.24:995/itv/3000000010000000097.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频25
-http://110.89.11.24:995/itv/3000000010000002019.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频26
-http://110.89.11.24:995/itv/3000000010000002809.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频27
-http://110.89.11.24:995/itv/3000000010000003915.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频28
-http://110.89.11.24:995/itv/3000000010000004193.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频29
-http://110.89.11.24:995/itv/3000000010000006077.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频30
-http://110.89.11.24:995/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频31
-http://110.89.11.24:995/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频32
-http://110.89.11.24:995/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频33
-http://110.89.11.24:995/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频34
-http://110.89.11.24:995/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频35
-http://110.89.11.24:995/itv/3000000010000012558.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频36
-http://110.89.11.24:995/itv/3000000010000012616.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频37
-http://110.89.11.24:995/itv/3000000010000015470.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频38
-http://110.89.11.24:995/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频40
-http://110.89.11.24:995/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频41
-http://110.89.11.24:995/itv/3000000010000021904.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频42
-http://110.89.11.24:995/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频43
-http://110.89.11.24:995/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频44
-http://110.89.11.24:995/itv/3000000010000027691.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频45
-http://110.89.11.24:995/itv/3000000010000031669.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频1
-http://59.174.88.82:5555/itv/3000000001000005308.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频2
-http://59.174.88.82:5555/itv/3000000001000005969.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频3
-http://59.174.88.82:5555/itv/3000000001000007218.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4
-http://59.174.88.82:5555/itv/3000000001000008001.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频5
-http://59.174.88.82:5555/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频6
-http://59.174.88.82:5555/itv/3000000001000008379.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频7
-http://59.174.88.82:5555/itv/3000000001000010129.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频8
-http://59.174.88.82:5555/itv/3000000001000010948.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频9
-http://59.174.88.82:5555/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频10
-http://59.174.88.82:5555/itv/3000000001000031494.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频11
-http://59.174.88.82:5555/itv/3000000010000005837.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频12
-http://59.174.88.82:5555/itv/3000000020000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频13
-http://59.174.88.82:5555/itv/3000000020000011519.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频14
-http://59.174.88.82:5555/itv/3000000020000011520.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频15
-http://59.174.88.82:5555/itv/3000000020000011521.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频16
-http://59.174.88.82:5555/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频17
-http://59.174.88.82:5555/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频18
-http://59.174.88.82:5555/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频19
-http://59.174.88.82:5555/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频20
-http://59.174.88.82:5555/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频21
-http://59.174.88.82:5555/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频22
-http://59.174.88.82:5555/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频23
-http://59.174.88.82:5555/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频24
-http://59.174.88.82:5555/itv/3000000010000000097.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频25
-http://59.174.88.82:5555/itv/3000000010000002019.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频26
-http://59.174.88.82:5555/itv/3000000010000002809.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频27
-http://59.174.88.82:5555/itv/3000000010000003915.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频28
-http://59.174.88.82:5555/itv/3000000010000004193.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频29
-http://59.174.88.82:5555/itv/3000000010000006077.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频30
-http://59.174.88.82:5555/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频31
-http://59.174.88.82:5555/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频32
-http://59.174.88.82:5555/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频33
-http://59.174.88.82:5555/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频34
-http://59.174.88.82:5555/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频35
-http://59.174.88.82:5555/itv/3000000010000012558.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频36
-http://59.174.88.82:5555/itv/3000000010000012616.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频37
-http://59.174.88.82:5555/itv/3000000010000015470.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频38
-http://59.174.88.82:5555/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频40
-http://59.174.88.82:5555/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频41
-http://59.174.88.82:5555/itv/3000000010000021904.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频42
-http://59.174.88.82:5555/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频43
-http://59.174.88.82:5555/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频44
-http://59.174.88.82:5555/itv/3000000010000027691.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频45
-http://59.174.88.82:5555/itv/3000000010000031669.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频1
-http://223.144.96.61:50001/itv/3000000001000005308.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频2
-http://223.144.96.61:50001/itv/3000000001000005969.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频3
-http://223.144.96.61:50001/itv/3000000001000007218.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频4
-http://223.144.96.61:50001/itv/3000000001000008001.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频5
-http://223.144.96.61:50001/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频6
-http://223.144.96.61:50001/itv/3000000001000008379.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频7
-http://223.144.96.61:50001/itv/3000000001000010129.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频8
-http://223.144.96.61:50001/itv/3000000001000010948.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频9
-http://223.144.96.61:50001/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频10
-http://223.144.96.61:50001/itv/3000000001000031494.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频11
-http://223.144.96.61:50001/itv/3000000010000005837.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频12
-http://223.144.96.61:50001/itv/3000000020000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频13
-http://223.144.96.61:50001/itv/3000000020000011519.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频14
-http://223.144.96.61:50001/itv/3000000020000011520.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频15
-http://223.144.96.61:50001/itv/3000000020000011521.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频16
-http://223.144.96.61:50001/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频17
-http://223.144.96.61:50001/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频18
-http://223.144.96.61:50001/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频19
-http://223.144.96.61:50001/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频20
-http://223.144.96.61:50001/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频21
-http://223.144.96.61:50001/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频22
-http://223.144.96.61:50001/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频23
-http://223.144.96.61:50001/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频24
-http://223.144.96.61:50001/itv/3000000010000000097.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频25
-http://223.144.96.61:50001/itv/3000000010000002019.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频26
-http://223.144.96.61:50001/itv/3000000010000002809.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频27
-http://223.144.96.61:50001/itv/3000000010000003915.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频28
-http://223.144.96.61:50001/itv/3000000010000004193.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频29
-http://223.144.96.61:50001/itv/3000000010000006077.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频30
-http://223.144.96.61:50001/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频31
-http://223.144.96.61:50001/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频32
-http://223.144.96.61:50001/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频33
-http://223.144.96.61:50001/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频34
-http://223.144.96.61:50001/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频35
-http://223.144.96.61:50001/itv/3000000010000012558.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频36
-http://223.144.96.61:50001/itv/3000000010000012616.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频37
-http://223.144.96.61:50001/itv/3000000010000015470.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频38
-http://223.144.96.61:50001/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频40
-http://223.144.96.61:50001/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频41
-http://223.144.96.61:50001/itv/3000000010000021904.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频42
-http://223.144.96.61:50001/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频43
-http://223.144.96.61:50001/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频44
-http://223.144.96.61:50001/itv/3000000010000027691.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="咪咕直播",咪咕视频45
-http://223.144.96.61:50001/itv/3000000010000031669.m3u8?cdn=FifastbLive
 
 
 #EXTM3U
@@ -2440,126 +2172,8 @@ http://222.134.245.16:9901/tsfile/live/0141_1.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="肥羊TV",cctv1高码
-http://110.89.11.24:995/gaoma/cctv1.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv2高码
-http://110.89.11.24:995/gaoma/cctv2.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv3高码
-http://110.89.11.24:995/gaoma/cctv3.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv4高码
-http://110.89.11.24:995/gaoma/cctv4.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv5高码
-http://110.89.11.24:995/gaoma/cctv5.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv5p高码
-http://110.89.11.24:995/gaoma/cctv5p.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv6BPTV
-http://110.89.11.24:995/bptv/10000100000000050000000003870749.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv7高码
-http://110.89.11.24:995/gaoma/cctv7.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv8高码
-http://110.89.11.24:995/gaoma/cctv8.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv9高码
-http://110.89.11.24:995/gaoma/cctv9.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv10高码
-http://110.89.11.24:995/gaoma/cctv10.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv11高码
-http://110.89.11.24:995/gaoma/cctv11.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv12高码
-http://110.89.11.24:995/gaoma/cctv12.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv13高码
-http://110.89.11.24:995/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv14高码
-http://110.89.11.24:995/gaoma/cctv14.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv15高码
-http://110.89.11.24:995/gaoma/cctv15.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv16高码
-http://110.89.11.24:995/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv17高码
-http://110.89.11.24:995/gaoma/cctv17.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnar高码
-http://110.89.11.24:995/gaoma/cgtnar.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtndoc高码
-http://110.89.11.24:995/gaoma/cgtndoc.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnen高码
-http://110.89.11.24:995/gaoma/cgtnen.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnfr高码
-http://110.89.11.24:995/gaoma/cgtnfr.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnru高码
-http://110.89.11.24:995/gaoma/cgtnru.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnsp高码
-http://110.89.11.24:995/gaoma/cgtnsp.m3u8
-#EXTINF:-1 group-title="肥羊TV",北京卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003870776.m3u8
-#EXTINF:-1 group-title="肥羊TV",卡酷少儿
-http://110.89.11.24:995/bptv/10000100000000050000000003904597.m3u8
-#EXTINF:-1 group-title="肥羊TV",湖南卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003873458.m3u8
-#EXTINF:-1 group-title="肥羊TV",江苏卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003873461.m3u8
-#EXTINF:-1 group-title="肥羊TV",东方卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003873462.m3u8
-#EXTINF:-1 group-title="肥羊TV",浙江卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003873464.m3u8
-#EXTINF:-1 group-title="肥羊TV",湖北卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003873465.m3u8
-#EXTINF:-1 group-title="肥羊TV",天津卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003873466.m3u8
-#EXTINF:-1 group-title="肥羊TV",辽宁卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003873468.m3u8
-#EXTINF:-1 group-title="肥羊TV",安徽卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003873469.m3u8
-#EXTINF:-1 group-title="肥羊TV",四川卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003887274.m3u8
-#EXTINF:-1 group-title="肥羊TV",河北卫视
-http://110.89.11.24:995/bptv/10000100000000050000000003887382.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv1高码
-http://47.122.118.143:10101/gaoma/cctv1.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv2高码
-http://47.122.118.143:10101/gaoma/cctv2.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv3高码
-http://47.122.118.143:10101/gaoma/cctv3.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv4高码
-http://47.122.118.143:10101/gaoma/cctv4.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv5高码
-http://47.122.118.143:10101/gaoma/cctv5.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv5p高码
-http://47.122.118.143:10101/gaoma/cctv5p.m3u8
 #EXTINF:-1 group-title="肥羊TV",cctv6BPTV
 http://47.122.118.143:10101/bptv/10000100000000050000000003870749.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv7高码
-http://47.122.118.143:10101/gaoma/cctv7.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv8高码
-http://47.122.118.143:10101/gaoma/cctv8.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv9高码
-http://47.122.118.143:10101/gaoma/cctv9.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv10高码
-http://47.122.118.143:10101/gaoma/cctv10.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv11高码
-http://47.122.118.143:10101/gaoma/cctv11.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv12高码
-http://47.122.118.143:10101/gaoma/cctv12.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv13高码
-http://47.122.118.143:10101/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv14高码
-http://47.122.118.143:10101/gaoma/cctv14.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv15高码
-http://47.122.118.143:10101/gaoma/cctv15.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv16高码
-http://47.122.118.143:10101/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv17高码
-http://47.122.118.143:10101/gaoma/cctv17.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnar高码
-http://47.122.118.143:10101/gaoma/cgtnar.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtndoc高码
-http://47.122.118.143:10101/gaoma/cgtndoc.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnen高码
-http://47.122.118.143:10101/gaoma/cgtnen.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnfr高码
-http://47.122.118.143:10101/gaoma/cgtnfr.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnru高码
-http://47.122.118.143:10101/gaoma/cgtnru.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnsp高码
-http://47.122.118.143:10101/gaoma/cgtnsp.m3u8
 #EXTINF:-1 group-title="肥羊TV",江苏卫视
 http://47.122.118.143:10101/bptv/10000100000000050000000003873461.m3u8
 #EXTINF:-1 group-title="肥羊TV",东方卫视
@@ -2732,48 +2346,6 @@ http://47.122.118.143:10101/itv/3000000010000025380.m3u8?cdn=FifastbLive
 http://47.122.118.143:10101/itv/3000000010000027691.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通45
 http://47.122.118.143:10101/itv/3000000010000031669.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="肥羊TV",cctv2-高码
-http://3501776.xyz:35455/gaoma/cctv2.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv3-高码
-http://3501776.xyz:35455/gaoma/cctv3.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv4-高码
-http://3501776.xyz:35455/gaoma/cctv4.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv5-高码
-http://3501776.xyz:35455/gaoma/cctv5.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv8-高码
-http://3501776.xyz:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv7-高码
-http://3501776.xyz:35455/gaoma/cctv7.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv10-高码
-http://3501776.xyz:35455/gaoma/cctv10.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv9-高码
-http://3501776.xyz:35455/gaoma/cctv9.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv12-高码
-http://3501776.xyz:35455/gaoma/cctv12.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv11-高码
-http://3501776.xyz:35455/gaoma/cctv11.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv13-高码
-http://3501776.xyz:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv14-高码
-http://3501776.xyz:35455/gaoma/cctv14.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv15-高码
-http://3501776.xyz:35455/gaoma/cctv15.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv16-高码
-http://3501776.xyz:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnar-高码
-http://3501776.xyz:35455/gaoma/cgtnar.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv17-高码
-http://3501776.xyz:35455/gaoma/cctv17.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtndoc-高码
-http://3501776.xyz:35455/gaoma/cgtndoc.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnen-高码
-http://3501776.xyz:35455/gaoma/cgtnen.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnfr-高码
-http://3501776.xyz:35455/gaoma/cgtnfr.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnru-高码
-http://3501776.xyz:35455/gaoma/cgtnru.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnsp-高码
-http://3501776.xyz:35455/gaoma/cgtnsp.m3u8
 #EXTINF:-1 group-title="肥羊TV",BTV-重温经典
 http://3501776.xyz:35455/bptv/10000100000000050000000003887494.m3u8
 #EXTINF:-1 group-title="肥羊TV",萌宠TV
@@ -2794,52 +2366,6 @@ http://3501776.xyz:35455/bptv/10000100000000050000000004270525.m3u8
 http://3501776.xyz:35455/bptv/10000100000000050000000003870779.m3u8
 #EXTINF:-1 group-title="肥羊TV",北京新闻
 http://3501776.xyz:35455/bptv/10000100000000050000000003870780.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv2-高码
-http://3501776.xyz:35455/gaoma/cctv2.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv3-高码
-http://3501776.xyz:35455/gaoma/cctv3.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv4-高码
-http://3501776.xyz:35455/gaoma/cctv4.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv5-高码
-http://3501776.xyz:35455/gaoma/cctv5.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv5+
-http://3501776.xyz:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1 group-title="肥羊TV",CCTV-6
-http://3501776.xyz:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="肥羊TV",cctv7-高码
-http://3501776.xyz:35455/gaoma/cctv7.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv8-高码
-http://3501776.xyz:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv9-高码
-http://3501776.xyz:35455/gaoma/cctv9.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv10-高码
-http://3501776.xyz:35455/gaoma/cctv10.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv11-高码
-http://3501776.xyz:35455/gaoma/cctv11.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv12-高码
-http://3501776.xyz:35455/gaoma/cctv12.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv13-高码
-http://3501776.xyz:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv14-高码
-http://3501776.xyz:35455/gaoma/cctv14.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv15-高码
-http://3501776.xyz:35455/gaoma/cctv15.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv16-高码
-http://3501776.xyz:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv17-高码
-http://3501776.xyz:35455/gaoma/cctv17.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnar-高码
-http://3501776.xyz:35455/gaoma/cgtnar.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtndoc-高码
-http://3501776.xyz:35455/gaoma/cgtndoc.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnen-高码
-http://3501776.xyz:35455/gaoma/cgtnen.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnfr-高码
-http://3501776.xyz:35455/gaoma/cgtnfr.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnru-高码
-http://3501776.xyz:35455/gaoma/cgtnru.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnsp-高码
-http://3501776.xyz:35455/gaoma/cgtnsp.m3u8
 #EXTINF:-1 group-title="肥羊TV",BTV-重温经典
 http://3501776.xyz:35455/bptv/10000100000000050000000003887494.m3u8
 #EXTINF:-1 group-title="肥羊TV",萌宠TV
@@ -2940,43 +2466,6 @@ http://3501776.xyz:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 http://3501776.xyz:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通-45
 http://3501776.xyz:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="肥羊TV",cctv2-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv4-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv5p-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv7-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv8-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv9-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv10-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv11-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv12-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv12.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv13-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv14-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv14.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv16-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="肥羊TV",cctv17-高码
-http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnar-高码
-http://xiaoya.crccxw.top:35455/gaoma/cgtnar.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtndoc-高码
-http://xiaoya.crccxw.top:35455/gaoma/cgtndoc.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnen-高码
-http://xiaoya.crccxw.top:35455/gaoma/cgtnen.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnfr-高码
-http://xiaoya.crccxw.top:35455/gaoma/cgtnfr.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnru-高码
-http://xiaoya.crccxw.top:35455/gaoma/cgtnru.m3u8
-#EXTINF:-1 group-title="肥羊TV",cgtnsp-高码
 http://xiaoya.crccxw.top:35455/gaoma/cgtnsp.m3u8
 #EXTINF:-1 group-title="肥羊TV",BTV-重温经典
 http://xiaoya.crccxw.top:35455/bptv/10000100000000050000000003887494.m3u8
