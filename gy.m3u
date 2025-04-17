@@ -1,10 +1,283 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新04月17日
+#EXTINF:-1 group-title="公告",更新04月18日
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
 #EXTINF:-1 group-title="公告",zby071388
 https://vd2.bdstatic.com/mda-nadm5jqnuteatw2u/sc/cae_h264_delogo/1642172623674683427/mda-nadm5jqnuteatw2u.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央卫频道",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央卫频道",CCTV2
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央卫频道",CCTV3
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央卫频道",CCTV4
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央卫频道",CCTV5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央卫频道",CCTV6
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央卫频道",CCTV7
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央卫频道",CCTV8
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央卫频道",CCTV10
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央卫频道",CCTV12
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央卫频道",CCTV13
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央卫频道",CCTV14
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央卫频道",CGTN
+http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央卫频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央卫频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央卫频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央卫频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央卫频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央卫频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="央卫频道",北京卫视
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="央卫频道",北京文艺
+http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.cn/tv/北京影视.png" group-title="央卫频道",北京影视
+http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="央卫频道",北京新闻
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://live.fanmingming.cn/tv/北京纪实.png" group-title="央卫频道",北京纪实
+http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="央卫频道",湖南卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="央卫频道",浙江卫视
+http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="央卫频道",东方卫视
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="央卫频道",江苏卫视
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="央卫频道",安徽卫视
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="央卫频道",黑龙江卫视
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="央卫频道",辽宁卫视
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="央卫频道",深圳卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="央卫频道",湖北卫视
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="央卫频道",山东卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="央卫频道",重庆卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="央卫频道",四川卫视
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="央卫频道",东南卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="央卫频道",江西卫视
+http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="央视卫视",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV2
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV3
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV4
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV6
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV7
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV8
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV10
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV12
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV13
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV14
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CGTN新闻
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 group-title="央视卫视",CGTN纪录
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 group-title="央视卫视",北京央视卫视
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 group-title="央视卫视",北京文艺
+http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="央视卫视",北京影视
+http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 group-title="央视卫视",北京新闻
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 group-title="央视卫视",北京纪实
+http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南央视卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江央视卫视
+http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏央视卫视
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="央视卫视",东方央视卫视
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽央视卫视
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江央视卫视
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁央视卫视
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title="央视卫视",深圳央视卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北央视卫视
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 group-title="央视卫视",山东央视卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 group-title="央视卫视",重庆央视卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title="央视卫视",四川央视卫视
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1 group-title="央视卫视",东南央视卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 group-title="央视卫视",江西央视卫视
+http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 group-title="央视卫视",兵团央视卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 group-title="央视卫视",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 group-title="央视卫视",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙新闻
+https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",内蒙经济
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",内蒙少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",内蒙文体
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",内蒙农牧
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",呼市新综
+https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",鄂多新闻
+https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",包头新综
+https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",巴淖新闻
+https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",赤峰新综
+https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+#EXTINF:-1 group-title="央视卫视",乌察新闻
+https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+
+
+#EXTM3U
+#EXTINF:-1 group-title="校园网频",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV2
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV3
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV4
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV5+
+http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV6
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV7
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV8
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV10
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV12
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV13
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="校园网频",CCTV14
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="校园网频",凤凰中文
+http://iptv.huuc.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 group-title="校园网频",凤凰资讯
+http://iptv.huuc.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 group-title="校园网频",凤凰电影
+http://iptv.huuc.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 group-title="校园网频",星空卫视
+http://iptv.huuc.edu.cn/hls/startv.m3u8
+#EXTINF:-1 group-title="校园网频",湖南卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="校园网频",深圳卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title="校园网频",湖北卫视
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 group-title="校园网频",四川卫视
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1 group-title="校园网频",北京影视
+http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 group-title="校园网频",北京体育
+http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 group-title="校园网频",北京卫视
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 group-title="校园网频",北京新闻
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 group-title="校园网频",北京文艺
+http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="校园网频",辽宁卫视
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title="校园网频",黑龙江卫视
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title="校园网频",东方卫视
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="校园网频",江西卫视
+http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 group-title="校园网频",浙江卫视
+http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title="校园网频",江苏卫视
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="校园网频",安徽卫视
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title="校园网频",山东卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 group-title="校园网频",重庆卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title="校园网频",东南卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 group-title="校园网频",SPORTS
+http://iptv.huuc.edu.cn/hls/starsports.m3u8
+#EXTINF:-1 group-title="校园网频",探索
+http://iptv.huuc.edu.cn/hls/discovery.m3u8
+#EXTINF:-1 group-title="校园网频",CHC动作电影
+http://iptv.huuc.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1 group-title="校园网频",CHC家庭影院
+http://iptv.huuc.edu.cn/hls/chctv.m3u8
+
 
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央卫光迅",CCTV1
@@ -302,6 +575,133 @@ http://113.140.12.230:8888/newlive/live/hls/25/live.m3u8
 http://113.140.12.230:8888/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 group-title="央卫综合",黑龙江卫视
 http://113.140.12.230:8888/newlive/live/hls/42/live.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="河南电信",CCTV1
+http://123.53.237.181:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV2
+http://123.53.237.181:808/hls/2/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV3
+http://123.53.237.181:808/hls/3/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV4
+http://123.53.237.181:808/hls/4/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV5
+http://123.53.237.181:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV5+
+http://123.53.237.181:808/hls/18/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV6
+http://123.53.237.181:808/hls/6/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV7
+http://123.53.237.181:808/hls/7/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV8
+http://123.53.237.181:808/hls/8/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV9
+http://123.53.237.181:808/hls/9/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV10
+http://123.53.237.181:808/hls/10/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV11
+http://123.53.237.181:808/hls/11/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV12
+http://123.53.237.181:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV13
+http://123.53.237.181:808/hls/13/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV14
+http://123.53.237.181:808/hls/14/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV15
+http://123.53.237.181:808/hls/15/index.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV17
+http://123.53.237.181:808/hls/17/index.m3u8
+#EXTINF:-1 group-title="河南电信",CNTV
+http://123.53.237.181:808/hls/16/index.m3u8
+#EXTINF:-1 group-title="河南电信",河南卫视4K
+http://123.53.237.181:808/hls/31/index.m3u8
+#EXTINF:-1 group-title="河南电信",河南都市
+http://123.53.237.181:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="河南电信",河南民生
+http://123.53.237.181:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="河南电信",河南法制
+http://123.53.237.181:808/hls/34/index.m3u8
+#EXTINF:-1 group-title="河南电信",河南电视剧
+http://123.53.237.181:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="河南电信",河南公共
+http://123.53.237.181:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="河南电信",河南新农村
+http://123.53.237.181:808/hls/39/index.m3u8
+#EXTINF:-1 group-title="河南电信",浙江卫视
+http://123.53.237.181:808/hls/61/index.m3u8
+#EXTINF:-1 group-title="河南电信",东方卫视
+http://123.53.237.181:808/hls/62/index.m3u8
+#EXTINF:-1 group-title="河南电信",江苏卫视
+http://123.53.237.181:808/hls/63/index.m3u8
+#EXTINF:-1 group-title="河南电信",北京卫视
+http://123.53.237.181:808/hls/64/index.m3u8
+#EXTINF:-1 group-title="河南电信",广东卫视
+http://123.53.237.181:808/hls/65/index.m3u8
+#EXTINF:-1 group-title="河南电信",黑龙江卫视
+http://123.53.237.181:808/hls/66/index.m3u8
+#EXTINF:-1 group-title="河南电信",山东卫视
+http://123.53.237.181:808/hls/67/index.m3u8
+#EXTINF:-1 group-title="河南电信",安徽卫视
+http://123.53.237.181:808/hls/68/index.m3u8
+#EXTINF:-1 group-title="河南电信",辽宁卫视
+http://123.53.237.181:808/hls/69/index.m3u8
+#EXTINF:-1 group-title="河南电信",陕西卫视
+http://123.53.237.181:808/hls/70/index.m3u8
+#EXTINF:-1 group-title="河南电信",贵州卫视
+http://123.53.237.181:808/hls/71/index.m3u8
+#EXTINF:-1 group-title="河南电信",河北卫视
+http://123.53.237.181:808/hls/72/index.m3u8
+#EXTINF:-1 group-title="河南电信",江西卫视
+http://123.53.237.181:808/hls/73/index.m3u8
+#EXTINF:-1 group-title="河南电信",湖南卫视
+http://123.53.237.181:808/hls/74/index.m3u8
+#EXTINF:-1 group-title="河南电信",深圳卫视
+http://123.53.237.181:808/hls/75/index.m3u8
+#EXTINF:-1 group-title="河南电信",四川卫视
+http://123.53.237.181:808/hls/76/index.m3u8
+#EXTINF:-1 group-title="河南电信",湖北卫视
+http://123.53.237.181:808/hls/77/index.m3u8
+#EXTINF:-1 group-title="河南电信",天津卫视
+http://123.53.237.181:808/hls/78/index.m3u8
+#EXTINF:-1 group-title="河南电信",云南卫视
+http://123.53.237.181:808/hls/79/index.m3u8
+#EXTINF:-1 group-title="河南电信",重庆卫视
+http://123.53.237.181:808/hls/80/index.m3u8
+#EXTINF:-1 group-title="河南电信",吉林卫视
+http://123.53.237.181:808/hls/81/index.m3u8
+#EXTINF:-1 group-title="河南电信",宁夏卫视
+http://123.53.237.181:808/hls/82/index.m3u8
+#EXTINF:-1 group-title="河南电信",东南卫视
+http://123.53.237.181:808/hls/83/index.m3u8
+#EXTINF:-1 group-title="河南电信",内蒙古卫视
+http://123.53.237.181:808/hls/84/index.m3u8
+#EXTINF:-1 group-title="河南电信",广西卫视
+http://123.53.237.181:808/hls/85/index.m3u8
+#EXTINF:-1 group-title="河南电信",山西卫视
+http://123.53.237.181:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="河南电信",海南卫视
+http://123.53.237.181:808/hls/88/index.m3u8
+#EXTINF:-1 group-title="河南电信",甘肃卫视
+http://123.53.237.181:808/hls/89/index.m3u8
+#EXTINF:-1 group-title="河南电信",青海卫视
+http://123.53.237.181:808/hls/90/index.m3u8
+#EXTINF:-1 group-title="河南电信",金鹰卡通
+http://123.53.237.181:808/hls/91/index.m3u8
+#EXTINF:-1 group-title="河南电信",嘉佳卡通
+http://123.53.237.181:808/hls/92/index.m3u8
+#EXTINF:-1 group-title="河南电信",卡酷动画
+http://123.53.237.181:808/hls/93/index.m3u8
+#EXTINF:-1 group-title="河南电信",炫动卡通
+http://123.53.237.181:808/hls/94/index.m3u8
+#EXTINF:-1 group-title="河南电信",信阳综合
+http://123.53.237.181:808/hls/100/index.m3u8
+#EXTINF:-1 group-title="河南电信",信阳公共
+http://123.53.237.181:808/hls/101/index.m3u8
+#EXTINF:-1 group-title="河南电信",浉河广电中心
+http://123.53.237.181:808/hls/102/index.m3u8
+#EXTINF:-1 group-title="河南电信",平桥广电中心
+http://123.53.237.181:808/hls/103/index.m3u8
 
 
 #EXTM3U
@@ -1422,161 +1822,6 @@ https://cc06.tv12.xyz/115.m3u8
 #EXTINF:-1 group-title="辽宁广电",中华特产
 https://cc06.tv12.xyz/116.m3u8
 
-
-#EXTM3U
-#EXTINF:-1 group-title="山东移动",CCTV-01
-http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-02
-http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-03
-http://124.128.73.58:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-04
-http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-05
-http://124.128.73.58:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-06
-http://124.128.73.58:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-07
-http://124.128.73.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-08
-http://124.128.73.58:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-09
-http://124.128.73.58:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-10
-http://124.128.73.58:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-11
-http://124.128.73.58:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-12
-http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-13
-http://124.128.73.58:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-14
-http://124.128.73.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",CCTV-15
-http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",北京卫视
-http://124.128.73.58:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",上海卫视
-http://124.128.73.58:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",江西卫视
-http://124.128.73.58:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",陕西卫视
-http://124.128.73.58:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",卫视
-http://124.128.73.58:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",东南卫视
-http://124.128.73.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",安徽卫视
-http://124.128.73.58:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",重庆卫视
-http://124.128.73.58:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",四川卫视
-http://124.128.73.58:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",河北卫视
-http://124.128.73.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",河南卫视
-http://124.128.73.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",黑龙江视
-http://124.128.73.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",吉林卫视
-http://124.128.73.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",辽宁卫视
-http://124.128.73.58:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",山西卫视
-http://124.128.73.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",湖北卫视
-http://124.128.73.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",湖南卫视
-http://124.128.73.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",广东卫视
-http://124.128.73.58:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",浙江卫视
-http://124.128.73.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",广西卫视
-http://124.128.73.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",云南卫视
-http://124.128.73.58:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",新疆卫视
-http://124.128.73.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",甘肃卫视
-http://124.128.73.58:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",深圳卫视
-http://124.128.73.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="山东移动",风云足球
-http://124.128.73.58:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-#EXTM3U
-#EXTINF:-1 group-title="陕西电信",CCTV1
-http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV2
-http://124.116.183.146:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV3
-http://124.116.183.146:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV4
-http://124.116.183.146:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV5
-http://124.116.183.146:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV6
-http://124.116.183.146:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV7
-http://124.116.183.146:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV10
-http://124.116.183.146:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV11
-http://124.116.183.146:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV12
-http://124.116.183.146:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV13
-http://124.116.183.146:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV14
-http://124.116.183.146:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTV15
-http://124.116.183.146:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="陕西电信",陕西卫视
-http://124.116.183.146:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 group-title="陕西电信",陕西一套
-http://124.116.183.146:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="陕西电信",陕西二套
-http://124.116.183.146:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="陕西电信",陕西三套
-http://124.116.183.146:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="陕西电信",农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="陕西电信",上海卫视
-http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
-#EXTINF:-1 group-title="陕西电信",湖南卫视
-http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="陕西电信",江苏卫视
-http://124.116.183.146:9901/tsfile/live/0127_1.m3u8
-#EXTINF:-1 group-title="陕西电信",浙江卫视
-http://124.116.183.146:9901/tsfile/live/0124_1.m3u8
-#EXTINF:-1 group-title="陕西电信",北京卫视
-http://124.116.183.146:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 group-title="陕西电信",广东卫视
-http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="陕西电信",深圳卫视
-http://124.116.183.146:9901/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="陕西电信",黑龙江卫视
-http://124.116.183.146:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1 group-title="陕西电信",湖北卫视
-http://124.116.183.146:9901/tsfile/live/0132_1.m3u8
-#EXTINF:-1 group-title="陕西电信",山东卫视
-http://124.116.183.146:9901/tsfile/live/0131_1.m3u8
-#EXTINF:-1 group-title="陕西电信",四川卫视
-http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="陕西电信",安徽卫视
-http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
-#EXTINF:-1 group-title="陕西电信",重庆卫视
-http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
-#EXTINF:-1 group-title="陕西电信",天津卫视
-http://124.116.183.146:9901/tsfile/live/0135_1.m3u8
-#EXTINF:-1 group-title="陕西电信",卡酷动画
-http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
-#EXTINF:-1 group-title="陕西电信",华数
-http://124.116.183.146:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="陕西电信",CCTN
-http://124.116.183.146:9901/tsfile/live/0009_1.m3u8
 
 
 #EXTM3U
