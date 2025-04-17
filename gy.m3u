@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新04月16日
+#EXTINF:-1 group-title="公告",更新04月17日
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -556,6 +556,117 @@ http://180.165.27.13:7777/tsfile/live/1056_1.m3u8
 http://180.165.27.13:7777/tsfile/live/0115_1.m3u8
 #EXTINF:-1 group-title="上海电信",吉林卫视
 http://113.64.146.2:2024/hls/89/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="重庆电信",CCTV1
+http://183.66.15.146:60901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV2
+http://183.66.15.146:60901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV3
+http://183.66.15.146:60901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV4
+http://183.66.15.146:60901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV5
+http://183.66.15.146:60901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV6
+http://183.66.15.146:60901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV7
+http://183.66.15.146:60901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV8
+http://183.66.15.146:60901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV9
+http://183.66.15.146:60901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV10
+http://183.66.15.146:60901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV11
+http://183.66.15.146:60901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV12
+http://183.66.15.146:60901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV13
+http://183.66.15.146:60901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV14
+http://183.66.15.146:60901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="重庆电信",CCTV15
+http://183.66.15.146:60901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="重庆电信",重庆科教
+http://183.66.15.146:60901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="重庆电信",重庆卫视
+http://183.66.15.146:60901/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="重庆电信",重庆新闻
+http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="重庆电信",重庆少儿
+http://183.66.15.146:60901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="重庆电信",重庆都市
+http://183.66.15.146:60901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="重庆电信",重庆时尚
+http://183.66.15.146:60901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="重庆电信",重庆娱乐
+http://183.66.15.146:60901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="重庆电信",重庆公共
+http://183.66.15.146:60901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="重庆电信",湖南卫视
+http://183.66.15.146:60901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="重庆电信",浙江卫视
+http://183.66.15.146:60901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="重庆电信",江苏卫视
+http://183.66.15.146:60901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="重庆电信",安徽卫视
+http://183.66.15.146:60901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="重庆电信",北京卫视
+http://183.66.15.146:60901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="重庆电信",天津卫视
+http://183.66.15.146:60901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="重庆电信",辽宁卫视
+http://183.66.15.146:60901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="重庆电信",山东卫视
+http://183.66.15.146:60901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="重庆电信",黑龙江卫视
+http://183.66.15.146:60901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="重庆电信",深圳卫视
+http://183.66.15.146:60901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="重庆电信",湖北卫视
+http://183.66.15.146:60901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="重庆电信",上海卫视
+http://183.66.15.146:60901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="重庆电信",河北卫视
+http://183.66.15.146:60901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="重庆电信",贵州卫视
+http://183.66.15.146:60901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="重庆电信",东南卫视
+http://183.66.15.146:60901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="重庆电信",广东卫视
+http://183.66.15.146:60901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="重庆电信",青海卫视
+http://183.66.15.146:60901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="重庆电信",西藏卫视
+http://183.66.15.146:60901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="重庆电信",内蒙古卫视
+http://183.66.15.146:60901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="重庆电信",新疆卫视
+http://183.66.15.146:60901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="重庆电信",兵团卫视
+http://183.66.15.146:60901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="重庆电信",甘肃卫视
+http://183.66.15.146:60901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="重庆电信",宁夏卫视
+http://183.66.15.146:60901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="重庆电信",都市剧场
+http://183.66.15.146:60901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="重庆电信",金鹰卡通
+http://183.66.15.146:60901/tsfile/live/0117_2.m3u8
+#EXTINF:-1 group-title="重庆电信",嘉佳卡通
+http://183.66.15.146:60901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="重庆电信",卡酷动画
+http://183.66.15.146:60901/tsfile/live/0126_2.m3u8
+#EXTINF:-1 group-title="重庆电信",少儿动画
+http://183.66.15.146:60901/tsfile/live/0140_2.m3u8
+#EXTINF:-1 group-title="重庆电信",经典电影
+http://183.66.15.146:60901/tsfile/live/0111_2.m3u8
+#EXTINF:-1 group-title="重庆电信",喜剧影院
+http://183.66.15.146:60901/tsfile/live/0109_2.m3u8
+#EXTINF:-1 group-title="重庆电信",动作影院
+http://183.66.15.146:60901/tsfile/live/0110_2.m3u8
 
 
 #EXTM3U
@@ -2211,6 +2322,298 @@ http://222.134.245.16:9901/tsfile/live/0141_1.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="肥羊TV",cctv1高码
+http://110.89.11.24:995/gaoma/cctv1.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv2高码
+http://110.89.11.24:995/gaoma/cctv2.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv3高码
+http://110.89.11.24:995/gaoma/cctv3.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv4高码
+http://110.89.11.24:995/gaoma/cctv4.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv5高码
+http://110.89.11.24:995/gaoma/cctv5.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv5p高码
+http://110.89.11.24:995/gaoma/cctv5p.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv6BPTV
+http://110.89.11.24:995/bptv/10000100000000050000000003870749.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv7高码
+http://110.89.11.24:995/gaoma/cctv7.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv8高码
+http://110.89.11.24:995/gaoma/cctv8.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv9高码
+http://110.89.11.24:995/gaoma/cctv9.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv10高码
+http://110.89.11.24:995/gaoma/cctv10.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv11高码
+http://110.89.11.24:995/gaoma/cctv11.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv12高码
+http://110.89.11.24:995/gaoma/cctv12.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv13高码
+http://110.89.11.24:995/gaoma/cctv13.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv14高码
+http://110.89.11.24:995/gaoma/cctv14.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv15高码
+http://110.89.11.24:995/gaoma/cctv15.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv16高码
+http://110.89.11.24:995/gaoma/cctv16.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv17高码
+http://110.89.11.24:995/gaoma/cctv17.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnar高码
+http://110.89.11.24:995/gaoma/cgtnar.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtndoc高码
+http://110.89.11.24:995/gaoma/cgtndoc.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnen高码
+http://110.89.11.24:995/gaoma/cgtnen.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnfr高码
+http://110.89.11.24:995/gaoma/cgtnfr.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnru高码
+http://110.89.11.24:995/gaoma/cgtnru.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnsp高码
+http://110.89.11.24:995/gaoma/cgtnsp.m3u8
+#EXTINF:-1 group-title="肥羊TV",北京卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003870776.m3u8
+#EXTINF:-1 group-title="肥羊TV",卡酷少儿
+http://110.89.11.24:995/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 group-title="肥羊TV",湖南卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003873458.m3u8
+#EXTINF:-1 group-title="肥羊TV",江苏卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003873461.m3u8
+#EXTINF:-1 group-title="肥羊TV",东方卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003873462.m3u8
+#EXTINF:-1 group-title="肥羊TV",浙江卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003873464.m3u8
+#EXTINF:-1 group-title="肥羊TV",湖北卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003873465.m3u8
+#EXTINF:-1 group-title="肥羊TV",天津卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003873466.m3u8
+#EXTINF:-1 group-title="肥羊TV",辽宁卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003873468.m3u8
+#EXTINF:-1 group-title="肥羊TV",安徽卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003873469.m3u8
+#EXTINF:-1 group-title="肥羊TV",四川卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003887274.m3u8
+#EXTINF:-1 group-title="肥羊TV",河北卫视
+http://110.89.11.24:995/bptv/10000100000000050000000003887382.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv1高码
+http://47.122.118.143:10101/gaoma/cctv1.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv2高码
+http://47.122.118.143:10101/gaoma/cctv2.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv3高码
+http://47.122.118.143:10101/gaoma/cctv3.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv4高码
+http://47.122.118.143:10101/gaoma/cctv4.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv5高码
+http://47.122.118.143:10101/gaoma/cctv5.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv5p高码
+http://47.122.118.143:10101/gaoma/cctv5p.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv6BPTV
+http://47.122.118.143:10101/bptv/10000100000000050000000003870749.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv7高码
+http://47.122.118.143:10101/gaoma/cctv7.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv8高码
+http://47.122.118.143:10101/gaoma/cctv8.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv9高码
+http://47.122.118.143:10101/gaoma/cctv9.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv10高码
+http://47.122.118.143:10101/gaoma/cctv10.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv11高码
+http://47.122.118.143:10101/gaoma/cctv11.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv12高码
+http://47.122.118.143:10101/gaoma/cctv12.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv13高码
+http://47.122.118.143:10101/gaoma/cctv13.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv14高码
+http://47.122.118.143:10101/gaoma/cctv14.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv15高码
+http://47.122.118.143:10101/gaoma/cctv15.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv16高码
+http://47.122.118.143:10101/gaoma/cctv16.m3u8
+#EXTINF:-1 group-title="肥羊TV",cctv17高码
+http://47.122.118.143:10101/gaoma/cctv17.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnar高码
+http://47.122.118.143:10101/gaoma/cgtnar.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtndoc高码
+http://47.122.118.143:10101/gaoma/cgtndoc.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnen高码
+http://47.122.118.143:10101/gaoma/cgtnen.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnfr高码
+http://47.122.118.143:10101/gaoma/cgtnfr.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnru高码
+http://47.122.118.143:10101/gaoma/cgtnru.m3u8
+#EXTINF:-1 group-title="肥羊TV",cgtnsp高码
+http://47.122.118.143:10101/gaoma/cgtnsp.m3u8
+#EXTINF:-1 group-title="肥羊TV",江苏卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873461.m3u8
+#EXTINF:-1 group-title="肥羊TV",东方卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873462.m3u8
+#EXTINF:-1 group-title="肥羊TV",浙江卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873464.m3u8
+#EXTINF:-1 group-title="肥羊TV",湖北卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873465.m3u8
+#EXTINF:-1 group-title="肥羊TV",黑龙江卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873470.m3u8
+#EXTINF:-1 group-title="肥羊TV",贵州卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873471.m3u8
+#EXTINF:-1 group-title="肥羊TV",东南卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873473.m3u8
+#EXTINF:-1 group-title="肥羊TV",重庆卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000004796458.m3u8
+#EXTINF:-1 group-title="肥羊TV",江西卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000004796511.m3u8
+#EXTINF:-1 group-title="肥羊TV",广东卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873459.m3u8
+#EXTINF:-1 group-title="肥羊TV",河北卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873460.m3u8
+#EXTINF:-1 group-title="肥羊TV",深圳卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003873474.m3u8
+#EXTINF:-1 group-title="肥羊TV",四川卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887274.m3u8
+#EXTINF:-1 group-title="肥羊TV",河北卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887382.m3u8
+#EXTINF:-1 group-title="肥羊TV",广西卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887394.m3u8
+#EXTINF:-1 group-title="肥羊TV",陕西卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887404.m3u8
+#EXTINF:-1 group-title="肥羊TV",山西卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887413.m3u8
+#EXTINF:-1 group-title="肥羊TV",内蒙古卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887427.m3u8
+#EXTINF:-1 group-title="肥羊TV",青海卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887430.m3u8
+#EXTINF:-1 group-title="肥羊TV",海南卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000004796877.m3u8
+#EXTINF:-1 group-title="肥羊TV",宁夏卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887433.m3u8
+#EXTINF:-1 group-title="肥羊TV",西藏卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887434.m3u8
+#EXTINF:-1 group-title="肥羊TV",新疆卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887448.m3u8
+#EXTINF:-1 group-title="肥羊TV",三沙卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887452.m3u8
+#EXTINF:-1 group-title="肥羊TV",云南卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887453.m3u8
+#EXTINF:-1 group-title="肥羊TV",厦门卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887454.m3u8
+#EXTINF:-1 group-title="肥羊TV",兵团卫视
+http://47.122.118.143:10101/bptv/10000100000000050000000003887456.m3u8
+#EXTINF:-1 group-title="肥羊TV",金鹰卡通
+http://47.122.118.143:10101/bptv/10000100000000050000000004796942.m3u8
+#EXTINF:-1 group-title="肥羊TV",嘉佳卡通
+http://47.122.118.143:10101/bptv/10000100000000050000000003887459.m3u8
+#EXTINF:-1 group-title="肥羊TV",BTV重温经典
+http://47.122.118.143:10101/bptv/10000100000000050000000003887494.m3u8
+#EXTINF:-1 group-title="肥羊TV",萌宠TV
+http://47.122.118.143:10101/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1 group-title="肥羊TV",淘BABY
+http://47.122.118.143:10101/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1 group-title="肥羊TV",淘剧场
+http://47.122.118.143:10101/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1 group-title="肥羊TV",淘电影
+http://47.122.118.143:10101/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 group-title="肥羊TV",淘娱乐
+http://47.122.118.143:10101/bptv/10000100000000050000000003887499.m3u8
+#EXTINF:-1 group-title="肥羊TV",北京体育休闲4KHLG
+http://47.122.118.143:10101/bptv/10000100000000050000000004270524.m3u8
+#EXTINF:-1 group-title="肥羊TV",北京体育休闲4K
+http://47.122.118.143:10101/bptv/10000100000000050000000004270525.m3u8
+#EXTINF:-1 group-title="肥羊TV",北京体育休闲
+http://47.122.118.143:10101/bptv/10000100000000050000000003870779.m3u8
+#EXTINF:-1 group-title="肥羊TV",北京新闻
+http://47.122.118.143:10101/bptv/10000100000000050000000003870780.m3u8
+#EXTINF:-1 group-title="肥羊TV",咪咕4K1
+http://47.122.118.143:10101/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕4K2
+http://47.122.118.143:10101/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通1
+http://47.122.118.143:10101/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通2
+http://47.122.118.143:10101/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通3
+http://47.122.118.143:10101/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通4
+http://47.122.118.143:10101/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通5
+http://47.122.118.143:10101/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通6
+http://47.122.118.143:10101/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通7
+http://47.122.118.143:10101/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通8
+http://47.122.118.143:10101/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通9
+http://47.122.118.143:10101/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通10
+http://47.122.118.143:10101/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通11
+http://47.122.118.143:10101/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通12
+http://47.122.118.143:10101/itv/3000000020000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通13
+http://47.122.118.143:10101/itv/3000000020000011519.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通14
+http://47.122.118.143:10101/itv/3000000020000011520.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通15
+http://47.122.118.143:10101/itv/3000000020000011521.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通16
+http://47.122.118.143:10101/itv/3000000020000011522.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通17
+http://47.122.118.143:10101/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通18
+http://47.122.118.143:10101/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通19
+http://47.122.118.143:10101/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通20
+http://47.122.118.143:10101/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通21
+http://47.122.118.143:10101/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通22
+http://47.122.118.143:10101/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通23
+http://47.122.118.143:10101/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通24
+http://47.122.118.143:10101/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通25
+http://47.122.118.143:10101/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通26
+http://47.122.118.143:10101/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通27
+http://47.122.118.143:10101/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通28
+http://47.122.118.143:10101/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通29
+http://47.122.118.143:10101/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通30
+http://47.122.118.143:10101/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通31
+http://47.122.118.143:10101/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通32
+http://47.122.118.143:10101/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通33
+http://47.122.118.143:10101/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通34
+http://47.122.118.143:10101/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通35
+http://47.122.118.143:10101/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通36
+http://47.122.118.143:10101/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通37
+http://47.122.118.143:10101/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通38
+http://47.122.118.143:10101/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通39
+http://47.122.118.143:10101/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通40
+http://47.122.118.143:10101/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通41
+http://47.122.118.143:10101/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通42
+http://47.122.118.143:10101/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通43
+http://47.122.118.143:10101/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通44
+http://47.122.118.143:10101/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊TV",咪咕视频_8M1080_咪视通45
+http://47.122.118.143:10101/itv/3000000010000031669.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="肥羊TV",cctv2-高码
 http://3501776.xyz:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 group-title="肥羊TV",cctv3-高码
@@ -2736,14 +3139,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="粤港澳台",香港面包频道
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="粤港澳台",八大第一频特
-http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 group-title="粤港澳台",三立戏剧频特
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="粤港澳台",NHK新闻频英
-http://61.221.215.25:8800/hls/51/index.m3u8
-#EXTINF:-1 group-title="粤港澳台",八大综合频特
-http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 group-title="粤港澳台",中天娱乐频特
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="粤港澳台",TVBS新闻
@@ -2768,8 +3165,6 @@ http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="粤港澳台", TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 group-title="粤港澳台",Plus即时频道
-https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 #EXTINF:-1 group-title="粤港澳台",凤凰卫视频道
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="粤港澳台",香港卫视频道
@@ -2812,8 +3207,6 @@ rtmp://f13h.mine.nu/sat/tv111
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 group-title="粤港澳台",东森超视频道
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 group-title="粤港澳台",环球电视频道
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="粤港澳台",NHK新闻频英
 http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 group-title="粤港澳台",tvbs闽南频特
