@@ -577,6 +577,147 @@ http://113.140.12.230:8888/newlive/live/hls/42/live.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="河南电信",CCTV1
+http://504099760.qicp.vip:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV2
+http://504099760.qicp.vip:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV3
+http://504099760.qicp.vip:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV4
+http://504099760.qicp.vip:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV5
+http://504099760.qicp.vip:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV6
+http://504099760.qicp.vip:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV7
+http://504099760.qicp.vip:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV8
+http://504099760.qicp.vip:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV9
+http://504099760.qicp.vip:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV10
+http://504099760.qicp.vip:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV11
+http://504099760.qicp.vip:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV12
+http://504099760.qicp.vip:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV13
+http://504099760.qicp.vip:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV14
+http://504099760.qicp.vip:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="河南电信",CCTV15
+http://504099760.qicp.vip:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="河南电信",中国教育
+http://504099760.qicp.vip:9901/tsfile/live/1050_1.m3u8
+#EXTINF:-1 group-title="河南电信",河南卫视
+http://504099760.qicp.vip:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="河南电信",河南都市
+http://504099760.qicp.vip:9901/tsfile/live/1051_1.m3u8
+#EXTINF:-1 group-title="河南电信",河南民生
+http://504099760.qicp.vip:9901/tsfile/live/1052_1.m3u8
+#EXTINF:-1 group-title="河南电信",河南法制
+http://504099760.qicp.vip:9901/tsfile/live/1053_1.m3u8
+#EXTINF:-1 group-title="河南电信",河南电视剧
+http://504099760.qicp.vip:9901/tsfile/live/1054_1.m3u8
+#EXTINF:-1 group-title="河南电信",河南新闻
+http://504099760.qicp.vip:9901/tsfile/live/1055_1.m3u8
+#EXTINF:-1 group-title="河南电信",河南公共
+http://504099760.qicp.vip:9901/tsfile/live/1057_1.m3u8
+#EXTINF:-1 group-title="河南电信",河南新农村
+http://504099760.qicp.vip:9901/tsfile/live/1058_1.m3u8
+#EXTINF:-1 group-title="河南电信",精彩中原
+http://504099760.qicp.vip:9901/tsfile/live/1059_1.m3u8
+#EXTINF:-1 group-title="河南电信",移动戏曲
+http://504099760.qicp.vip:9901/tsfile/live/1060_1.m3u8
+#EXTINF:-1 group-title="河南电信",梨园
+http://504099760.qicp.vip:9901/tsfile/live/1061_1.m3u8
+#EXTINF:-1 group-title="河南电信",武术世界
+http://504099760.qicp.vip:9901/tsfile/live/1062_1.m3u8
+#EXTINF:-1 group-title="河南电信",美食汇
+http://504099760.qicp.vip:9901/tsfile/live/1063_1.m3u8
+#EXTINF:-1 group-title="河南电信",棋牌汇
+http://504099760.qicp.vip:9901/tsfile/live/1064_1.m3u8
+#EXTINF:-1 group-title="河南电信",百姓调解
+http://504099760.qicp.vip:9901/tsfile/live/1065_1.m3u8
+#EXTINF:-1 group-title="河南电信",风尚河南
+http://504099760.qicp.vip:9901/tsfile/live/1066_1.m3u8
+#EXTINF:-1 group-title="河南电信",人文地理
+http://504099760.qicp.vip:9901/tsfile/live/1067_1.m3u8
+#EXTINF:-1 group-title="河南电信",浙江卫视
+http://504099760.qicp.vip:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="河南电信",湖南卫视
+http://504099760.qicp.vip:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="河南电信",上海卫视
+http://504099760.qicp.vip:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="河南电信",江苏卫视
+http://504099760.qicp.vip:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="河南电信",安徽卫视
+http://504099760.qicp.vip:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="河南电信",北京卫视
+http://504099760.qicp.vip:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="河南电信",深圳卫视
+http://504099760.qicp.vip:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="河南电信",重庆卫视
+http://504099760.qicp.vip:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="河南电信",山东卫视
+http://504099760.qicp.vip:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="河南电信",贵州卫视
+http://504099760.qicp.vip:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="河南电信",东南卫视
+http://504099760.qicp.vip:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="河南电信",陕西卫视
+http://504099760.qicp.vip:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="河南电信",广西卫视
+http://504099760.qicp.vip:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="河南电信",云南卫视
+http://504099760.qicp.vip:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="河南电信",四川卫视
+http://504099760.qicp.vip:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="河南电信",湖北卫视
+http://504099760.qicp.vip:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="河南电信",河北卫视
+http://504099760.qicp.vip:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="河南电信",江西卫视
+http://504099760.qicp.vip:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="河南电信",山西卫视
+http://504099760.qicp.vip:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="河南电信",内蒙古卫视
+http://504099760.qicp.vip:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="河南电信",宁夏卫视
+http://504099760.qicp.vip:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="河南电信",新疆卫视
+http://504099760.qicp.vip:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="河南电信",吉林卫视
+http://504099760.qicp.vip:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="河南电信",辽宁卫视
+http://504099760.qicp.vip:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="河南电信",天津卫视
+http://504099760.qicp.vip:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="河南电信",旅游卫视
+http://504099760.qicp.vip:9901/tsfile/live/0114_1.m3u8
+#EXTINF:-1 group-title="河南电信",广东卫视
+http://504099760.qicp.vip:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="河南电信",黑龙江卫视
+http://504099760.qicp.vip:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="河南电信",西藏卫视
+http://504099760.qicp.vip:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="河南电信",青海卫视
+http://504099760.qicp.vip:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="河南电信",甘肃卫视
+http://504099760.qicp.vip:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="河南电信",优漫卡通
+http://504099760.qicp.vip:9901/tsfile/live/1045_1.m3u8
+#EXTINF:-1 group-title="河南电信",金鹰卡通
+http://504099760.qicp.vip:9901/tsfile/live/1046_1.m3u8
+#EXTINF:-1 group-title="河南电信",北京卡通
+http://504099760.qicp.vip:9901/tsfile/live/1047_1.m3u8
+#EXTINF:-1 group-title="河南电信",炫动卡通
+http://504099760.qicp.vip:9901/tsfile/live/1048_1.m3u8
+#EXTINF:-1 group-title="河南电信",嘉佳卡通
+http://504099760.qicp.vip:9901/tsfile/live/1049_1.m3u8
+
+
+#EXTM3U
 #EXTINF:-1 group-title="安徽电信",CCTV1-综合HD
 http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="安徽电信",CCTV2-财经HD
@@ -1132,6 +1273,272 @@ http://z.b.bkpcp.top/m.php?id=hxjc
 #EXTINF:-1 group-title="咪咕全网",魅力足球
 http://z.b.bkpcp.top/m.php?id=mlzq
 
+
+#EXTM3U
+#EXTINF:-1 group-title="咪咕视频",咪咕视频1
+http://115.171.26.6:23456/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频2
+http://115.171.26.6:23456/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频3
+http://115.171.26.6:23456/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频4
+http://115.171.26.6:23456/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频5
+http://115.171.26.6:23456/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频6
+http://115.171.26.6:23456/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频7
+http://115.171.26.6:23456/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频8
+http://115.171.26.6:23456/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频9
+http://115.171.26.6:23456/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频10
+http://115.171.26.6:23456/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频11
+http://115.171.26.6:23456/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频12
+http://115.171.26.6:23456/itv/3000000020000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频13
+http://115.171.26.6:23456/itv/3000000020000011519.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频14
+http://115.171.26.6:23456/itv/3000000020000011520.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频15
+http://115.171.26.6:23456/itv/3000000020000011521.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频16
+http://115.171.26.6:23456/itv/3000000020000011522.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频17
+http://115.171.26.6:23456/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频18
+http://115.171.26.6:23456/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频19
+http://115.171.26.6:23456/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频20
+http://115.171.26.6:23456/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频21
+http://115.171.26.6:23456/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频22
+http://115.171.26.6:23456/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频23
+http://115.171.26.6:23456/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频24
+http://115.171.26.6:23456/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频25
+http://115.171.26.6:23456/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频26
+http://115.171.26.6:23456/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频27
+http://115.171.26.6:23456/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频28
+http://115.171.26.6:23456/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频29
+http://115.171.26.6:23456/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频30
+http://115.171.26.6:23456/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频31
+http://115.171.26.6:23456/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频32
+http://115.171.26.6:23456/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频33
+http://115.171.26.6:23456/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频34
+http://115.171.26.6:23456/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频35
+http://115.171.26.6:23456/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频36
+http://115.171.26.6:23456/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频37
+http://115.171.26.6:23456/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频38
+http://115.171.26.6:23456/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频40
+http://115.171.26.6:23456/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频41
+http://115.171.26.6:23456/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频42
+http://115.171.26.6:23456/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频43
+http://115.171.26.6:23456/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频44
+http://115.171.26.6:23456/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频45
+http://115.171.26.6:23456/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频1
+http://60.186.142.79:7777/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频2
+http://60.186.142.79:7777/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频3
+http://60.186.142.79:7777/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频4
+http://60.186.142.79:7777/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频5
+http://60.186.142.79:7777/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频6
+http://60.186.142.79:7777/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频7
+http://60.186.142.79:7777/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频8
+http://60.186.142.79:7777/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频9
+http://60.186.142.79:7777/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频10
+http://60.186.142.79:7777/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频11
+http://60.186.142.79:7777/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频12
+http://60.186.142.79:7777/itv/3000000020000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频13
+http://60.186.142.79:7777/itv/3000000020000011519.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频14
+http://60.186.142.79:7777/itv/3000000020000011520.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频15
+http://60.186.142.79:7777/itv/3000000020000011521.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频16
+http://60.186.142.79:7777/itv/3000000020000011522.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频17
+http://60.186.142.79:7777/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频18
+http://60.186.142.79:7777/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频19
+http://60.186.142.79:7777/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频20
+http://60.186.142.79:7777/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频21
+http://60.186.142.79:7777/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频22
+http://60.186.142.79:7777/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频23
+http://60.186.142.79:7777/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频24
+http://60.186.142.79:7777/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频25
+http://60.186.142.79:7777/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频26
+http://60.186.142.79:7777/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频27
+http://60.186.142.79:7777/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频28
+http://60.186.142.79:7777/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频29
+http://60.186.142.79:7777/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频30
+http://60.186.142.79:7777/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频31
+http://60.186.142.79:7777/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频32
+http://60.186.142.79:7777/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频33
+http://60.186.142.79:7777/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频34
+http://60.186.142.79:7777/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频35
+http://60.186.142.79:7777/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频36
+http://60.186.142.79:7777/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频37
+http://60.186.142.79:7777/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频38
+http://60.186.142.79:7777/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频40
+http://60.186.142.79:7777/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频41
+http://60.186.142.79:7777/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频42
+http://60.186.142.79:7777/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频43
+http://60.186.142.79:7777/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频44
+http://60.186.142.79:7777/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频45
+http://60.186.142.79:7777/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频1
+http://27.222.153.210:8030/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频2
+http://27.222.153.210:8030/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频3
+http://27.222.153.210:8030/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频4
+http://27.222.153.210:8030/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频5
+http://27.222.153.210:8030/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频6
+http://27.222.153.210:8030/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频7
+http://27.222.153.210:8030/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频8
+http://27.222.153.210:8030/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频9
+http://27.222.153.210:8030/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频10
+http://27.222.153.210:8030/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频11
+http://27.222.153.210:8030/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频12
+http://27.222.153.210:8030/itv/3000000020000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频13
+http://27.222.153.210:8030/itv/3000000020000011519.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频14
+http://27.222.153.210:8030/itv/3000000020000011520.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频15
+http://27.222.153.210:8030/itv/3000000020000011521.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频16
+http://27.222.153.210:8030/itv/3000000020000011522.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频17
+http://27.222.153.210:8030/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频18
+http://27.222.153.210:8030/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频19
+http://27.222.153.210:8030/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频20
+http://27.222.153.210:8030/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频21
+http://27.222.153.210:8030/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频22
+http://27.222.153.210:8030/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频23
+http://27.222.153.210:8030/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频24
+http://27.222.153.210:8030/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频25
+http://27.222.153.210:8030/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频26
+http://27.222.153.210:8030/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频27
+http://27.222.153.210:8030/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频28
+http://27.222.153.210:8030/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频29
+http://27.222.153.210:8030/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频30
+http://27.222.153.210:8030/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频31
+http://27.222.153.210:8030/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频32
+http://27.222.153.210:8030/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频33
+http://27.222.153.210:8030/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频34
+http://27.222.153.210:8030/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频35
+http://27.222.153.210:8030/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频36
+http://27.222.153.210:8030/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频37
+http://27.222.153.210:8030/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频38
+http://27.222.153.210:8030/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频40
+http://27.222.153.210:8030/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频41
+http://27.222.153.210:8030/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频42
+http://27.222.153.210:8030/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频43
+http://27.222.153.210:8030/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频44
+http://27.222.153.210:8030/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="咪咕视频",咪咕视频45
+http://27.222.153.210:8030/itv/3000000010000031669.m3u8?cdn=FifastbLive
 
 
 #EXTM3U
