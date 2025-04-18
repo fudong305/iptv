@@ -1093,6 +1093,10 @@ http://14.212.185.146:9901/tsfile/live/1000_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E
 http://59.32.97.140:9901/tsfile/live/1003_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="广东梅州",广东科教
 http://116.11.156.202:8811/tsfile/live/1135_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
+#EXTINF:-1 group-title="广东梅州",广东体育
+http://59.32.97.140:9901/tsfile/live/1007_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
+#EXTINF:-1 group-title="广东梅州",广东体育
+http://116.11.156.202:8811/tsfile/live/1074_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="广东梅州",CCTV-1
 http://218.15.183.23:9901/tsfile/live/23018_1.m3u8
 #EXTINF:-1 group-title="广东梅州",CCTV-2
