@@ -1,68 +1,90 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1 group-title="央卫综合",CCTV-1
-http://ms.fxim.net:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-2
-http://ms.fxim.net:808/hls/2/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-3
-http://ms.fxim.net:808/hls/3/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-4
-http://ms.fxim.net:808/hls/4/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-5
-http://ms.fxim.net:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-6
-http://ms.fxim.net:808/hls/6/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-7
-http://ms.fxim.net:808/hls/7/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-8
-http://ms.fxim.net:808/hls/8/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-9
-http://ms.fxim.net:808/hls/9/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-10
-http://ms.fxim.net:808/hls/10/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-11
-http://ms.fxim.net:808/hls/11/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV-12
-http://ms.fxim.net:808/hls/12/index.m3u8
-#EXTINF:-1 group-title="央卫综合",CCTV5+
-http://ms.fxim.net:808/hls/13/index.m3u8
-#EXTINF:-1 group-title="央卫综合",浙江卫视
-http://ms.fxim.net:808/hls/14/index.m3u8
-#EXTINF:-1 group-title="央卫综合",浙江少儿
-http://ms.fxim.net:808/hls/15/index.m3u8
-#EXTINF:-1 group-title="央卫综合",江苏卫视
-http://ms.fxim.net:808/hls/16/index.m3u8
-#EXTINF:-1 group-title="央卫综合",东方卫视
-http://ms.fxim.net:808/hls/17/index.m3u8
-#EXTINF:-1 group-title="央卫综合",安徽卫视
-http://ms.fxim.net:808/hls/18/index.m3u8
-#EXTINF:-1 group-title="央卫综合",重庆卫视
-http://ms.fxim.net:808/hls/19/index.m3u8
-#EXTINF:-1 group-title="央卫综合",四川卫视
-http://ms.fxim.net:808/hls/20/index.m3u8
-#EXTINF:-1 group-title="央卫综合",天津卫视
-http://ms.fxim.net:808/hls/21/index.m3u8
-#EXTINF:-1 group-title="央卫综合",北京卫视
-http://ms.fxim.net:808/hls/22/index.m3u8
-#EXTINF:-1 group-title="央卫综合",青海卫视
-http://ms.fxim.net:808/hls/23/index.m3u8
-#EXTINF:-1 group-title="央卫综合",辽宁卫视
-http://ms.fxim.net:808/hls/24/index.m3u8
-#EXTINF:-1 group-title="央卫综合",江西卫视
-http://ms.fxim.net:808/hls/25/index.m3u8
-#EXTINF:-1 group-title="央卫综合",甘肃卫视
-http://ms.fxim.net:808/hls/26/index.m3u8
-#EXTINF:-1 group-title="央卫综合",广东卫视
-http://ms.fxim.net:808/hls/27/index.m3u8
-#EXTINF:-1 group-title="央卫综合",吉林卫视
-http://ms.fxim.net:808/hls/28/index.m3u8
-#EXTINF:-1 group-title="央卫综合",湖南卫视
-http://ms.fxim.net:808/hls/29/index.m3u8
-#EXTINF:-1 group-title="央卫综合",湖北卫视
-http://ms.fxim.net:808/hls/30/index.m3u8
-#EXTINF:-1 group-title="央卫综合",河北卫视
-http://ms.fxim.net:808/hls/31/index.m3u8
-#EXTINF:-1 group-title="央卫综合",河南卫视
-http://ms.fxim.net:808/hls/32/index.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央卫综合",CCTV1
+http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央卫综合",CCTV2
+http://223.241.247.214:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央卫综合",CCTV3
+http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央卫综合",CCTV4
+http://223.241.247.214:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央卫综合",CCTV5
+http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央卫综合",CCTV6
+http://223.241.247.214:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央卫综合",CCTV7
+http://223.241.247.214:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央卫综合",CCTV8
+http://223.241.247.214:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央卫综合",CCTV9
+http://223.241.247.214:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央卫综合",CCTV10
+http://223.241.247.214:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央卫综合",CCTV11
+http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央卫综合",CCTV12
+http://223.241.247.214:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央卫综合",CCTV13
+http://223.241.247.214:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央卫综合",CCTV14
+http://223.241.247.214:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央卫综合",CCTV15
+http://223.241.247.214:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.v1.mk/logo/义马综合.png" group-title="央卫综合",马鞍山公共
+http://223.241.247.214:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.v1.mk/logo/义马综合.png" group-title="央卫综合",马鞍山新闻
+http://223.241.247.214:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="央卫综合",安徽卫视
+http://223.241.247.214:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://epg.v1.mk/logo/安徽公共.png" group-title="央卫综合",安徽公共
+http://223.241.247.214:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="央卫综合",北京卫视
+http://223.241.247.214:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="央卫综合",东方卫视
+http://223.241.247.214:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="央卫综合",天津卫视
+http://223.241.247.214:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="央卫综合",重庆卫视
+http://223.241.247.214:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="央卫综合",江苏卫视
+http://223.241.247.214:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="央卫综合",湖南卫视
+http://223.241.247.214:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="央卫综合",浙江卫视
+http://223.241.247.214:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="央卫综合",黑龙江卫视
+http://223.241.247.214:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="央卫综合",吉林卫视
+http://223.241.247.214:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="央卫综合",辽宁卫视
+http://223.241.247.214:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="央卫综合",河南卫视
+http://223.241.247.214:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="央卫综合",山东卫视
+http://223.241.247.214:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="央卫综合",山西卫视
+http://223.241.247.214:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="央卫综合",陕西卫视
+http://223.241.247.214:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="央卫综合",宁夏卫视
+http://223.241.247.214:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="央卫综合",甘肃卫视
+http://223.241.247.214:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="央卫综合",湖北卫视
+http://223.241.247.214:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="央卫综合",贵州卫视
+http://223.241.247.214:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="央卫综合",四川卫视
+http://223.241.247.214:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="央卫综合",江西卫视
+http://223.241.247.214:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="央卫综合",东南卫视
+http://223.241.247.214:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="央卫综合",广东卫视
+http://223.241.247.214:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="央卫综合",深圳卫视
+http://223.241.247.214:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="央卫综合",广西卫视
+http://223.241.247.214:9901/tsfile/live/0113_1.m3u8
 
 
 #EXTM3U
