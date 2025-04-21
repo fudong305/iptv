@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新04月20日
+#EXTINF:-1 group-title="公告",更新04月21日
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -8,25 +8,13 @@ https://vd2.bdstatic.com/mda-nadm5jqnuteatw2u/sc/cae_h264_delogo/164217262367468
 
 #EXTM3U
 #EXTINF:-1 group-title="央卫综合",CCTV1
-http://119.129.173.41:9901/tsfile/live/0001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV1
-http://119.129.173.65:9901/tsfile/live/0001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV1
-http://119.129.173.28:9901/tsfile/live/0001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV1
 http://222.169.41.80:9901/tsfile/live/0001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV1
 http://111.227.196.164:9901/tsfile/live/0001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV1
 http://218.92.37.174:9901/tsfile/live/0001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV2
-http://119.129.173.65:9901/tsfile/live/0002_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV2
 http://180.140.134.27:9901/tsfile/live/0002_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV2
-http://119.129.173.28:9901/tsfile/live/0002_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV2
-http://119.129.173.41:9901/tsfile/live/0002_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV2
 http://14.212.185.146:9901/tsfile/live/0002_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV2
@@ -44,12 +32,6 @@ http://218.92.37.174:9901/tsfile/live/0002_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 #EXTINF:-1 group-title="央卫综合",CCTV2
 http://123.52.109.89:9901/tsfile/live/0002_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV3
-http://119.129.173.28:9901/tsfile/live/0003_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV3
-http://119.129.173.41:9901/tsfile/live/0003_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV3
-http://119.129.173.65:9901/tsfile/live/0003_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV3
 http://113.15.109.216:59901/tsfile/live/0003_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV3
 http://59.32.97.140:9901/tsfile/live/0003_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
@@ -62,17 +44,9 @@ http://123.52.109.89:9901/tsfile/live/0003_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 #EXTINF:-1 group-title="央卫综合",CCTV4
 http://113.15.109.216:59901/tsfile/live/1000_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV4
-http://119.129.173.41:9901/tsfile/live/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV4
-http://119.129.173.28:9901/tsfile/live/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV4
 http://14.212.185.146:9901/tsfile/live/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV4
 http://202.168.187.208:9089/tsfile/live/1000_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV4
-http://36.44.152.240:9901/tsfile/live/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV4
-http://119.129.173.65:9901/tsfile/live/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV4
 http://111.227.196.164:9901/tsfile/live/faacts/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV4
@@ -80,17 +54,9 @@ http://111.227.196.164:9901/tsfile/live/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%
 #EXTINF:-1 group-title="央卫综合",CCTV4
 http://218.92.37.174:9901/tsfile/live/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV5
-http://119.129.173.65:9901/tsfile/live/0005_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV5
-http://119.129.173.41:9901/tsfile/live/0005_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV5
-http://119.129.173.28:9901/tsfile/live/0005_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV5
 http://59.32.97.140:9901/tsfile/live/0005_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV5
 http://111.227.196.164:9901/tsfile/live/0005_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV5
-http://36.44.152.240:9901/tsfile/live/0005_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV5+
 http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV5
@@ -102,17 +68,9 @@ http://218.92.37.174:9901/tsfile/live/0005_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 #EXTINF:-1 group-title="央卫综合",CCTV5+
 http://123.52.109.89:9901/tsfile/live/0005_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV6
-http://119.129.173.65:9901/tsfile/live/0006_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV6
-http://119.129.173.28:9901/tsfile/live/0006_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV6
-http://119.129.173.41:9901/tsfile/live/0006_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV6
 http://113.15.109.216:59901/tsfile/live/0006_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV6
 http://14.212.185.146:9901/tsfile/live/0006_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV6
-http://36.44.152.240:9901/tsfile/live/0006_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV6
 http://59.32.97.140:9901/tsfile/live/0006_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV6
@@ -142,12 +100,6 @@ http://218.92.37.174:9901/tsfile/live/0007_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 #EXTINF:-1 group-title="央卫综合",CCTV7
 http://123.52.109.89:9901/tsfile/live/0007_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV8
-http://119.129.173.41:9901/tsfile/live/0008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV8
-http://119.129.173.65:9901/tsfile/live/0008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV8
-http://119.129.173.28:9901/tsfile/live/0008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV8
 http://113.15.109.216:59901/tsfile/live/0008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV8
 http://14.212.185.146:9901/tsfile/live/0008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
@@ -162,10 +114,6 @@ http://218.92.37.174:9901/tsfile/live/0008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 #EXTINF:-1 group-title="央卫综合",CCTV8
 http://123.52.109.89:9901/tsfile/live/0008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV9
-http://119.129.173.41:9901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV9
-http://119.129.173.28:9901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV9
 http://116.11.156.95:8811/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV9
 http://180.140.134.27:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
@@ -173,8 +121,6 @@ http://180.140.134.27:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E
 http://113.15.109.216:59901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV9
 http://59.32.97.140:9901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV9
-http://119.129.173.65:9901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV9
 http://14.212.185.146:9901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV9
@@ -188,29 +134,13 @@ http://183.131.246.250:9901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%
 #EXTINF:-1 group-title="央卫综合",CCTV9
 http://123.52.109.89:9901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV10
-http://119.129.173.28:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV10
-http://119.129.173.41:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV10
 http://113.15.109.216:59901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV10
-http://119.129.173.65:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV10
 http://180.140.134.27:9901/tsfile/live/0011_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV10
 http://111.227.196.164:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV10
-http://504099760.qicp.vip:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV10
 http://218.92.37.174:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV10
-http://113.140.12.230:8888/newlive/live/hls/11/live.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV11
-http://119.129.173.28:9901/tsfile/live/0011_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV11
-http://119.129.173.65:9901/tsfile/live/0011_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV11
-http://119.129.173.41:9901/tsfile/live/0011_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV11
 http://113.15.109.216:59901/tsfile/live/0011_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV11
@@ -222,12 +152,6 @@ http://504099760.qicp.vip:9901/tsfile/live/0011_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%
 #EXTINF:-1 group-title="央卫综合",CCTV11
 http://111.227.196.164:9901/tsfile/live/0011_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV12
-http://119.129.173.28:9901/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV12
-http://119.129.173.41:9901/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV12
-http://119.129.173.65:9901/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV12
 http://180.140.134.27:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV12
 http://116.11.156.95:8811/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
@@ -235,8 +159,6 @@ http://116.11.156.95:8811/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 http://14.212.185.146:9901/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV12
 http://111.227.196.164:9901/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV12
-http://504099760.qicp.vip:9901/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV12
 http://111.227.196.164:9901/tsfile/live/faacts/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV12
@@ -246,17 +168,9 @@ http://218.92.37.174:9901/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 #EXTINF:-1 group-title="央卫综合",CCTV12
 http://123.52.109.89:9901/tsfile/live/0012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV13
-http://119.129.173.41:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV13
 http://113.15.109.216:59901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV13
-http://119.129.173.65:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV13
 http://180.140.134.27:9901/tsfile/live/0014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV13
-http://36.44.152.240:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV13
-http://119.129.173.28:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV13
 http://14.212.185.146:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV13
@@ -270,17 +184,11 @@ http://218.92.37.174:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 #EXTINF:-1 group-title="央卫综合",CCTV13
 http://123.52.109.89:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV14
-http://119.129.173.41:9901/tsfile/live/0014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV14
 http://180.140.134.27:9901/tsfile/live/0015_2.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV14
-http://119.129.173.28:9901/tsfile/live/0014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV14
 http://59.32.97.140:9901/tsfile/live/0014_2.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV14
 http://113.15.109.216:59901/tsfile/live/0014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV14
-http://36.44.152.240:9901/tsfile/live/0014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV14
 http://111.227.196.164:9901/tsfile/live/0014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV14
@@ -288,21 +196,13 @@ http://222.173.108.238:352/tsfile/live/0014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E
 #EXTINF:-1 group-title="央卫综合",CCTV14
 http://218.92.37.174:9901/tsfile/live/0014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV15
-http://119.129.173.41:9901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV15
 http://113.15.109.216:59901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV15
-http://119.129.173.65:9901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV15
-http://119.129.173.28:9901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV15
 http://116.11.156.95:8811/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV15
 http://59.32.97.140:9901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV15
 http://14.212.185.146:9901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV15
-http://504099760.qicp.vip:9901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV15
 http://111.227.196.164:9901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV15
@@ -349,12 +249,6 @@ http://59.32.97.140:9901/tsfile/live/1036_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%
 http://59.32.97.140:9901/tsfile/live/1012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CGTN西班牙语
 http://59.32.97.140:9901/tsfile/live/1015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",IPTV热播剧场
-http://119.129.173.65:9901/tsfile/live/1008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",IPTV热播剧场
-http://119.129.173.41:9901/tsfile/live/1008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",IPTV热播剧场
-http://119.129.173.28:9901/tsfile/live/1008_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",三沙卫视
 http://59.32.97.140:9901/tsfile/live/1001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",东方卫视
@@ -372,8 +266,6 @@ http://59.32.97.140:9901/tsfile/live/0137_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%
 #EXTINF:-1 group-title="央卫综合",东南卫视
 http://116.11.156.95:8811/tsfile/live/1029_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",东南卫视
-http://504099760.qicp.vip:9901/tsfile/live/0137_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",东南卫视
 http://111.227.196.164:9901/tsfile/live/0137_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",东南卫视
 http://14.212.185.146:9901/tsfile/live/0137_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
@@ -381,8 +273,6 @@ http://14.212.185.146:9901/tsfile/live/0137_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E
 http://218.92.37.174:9901/tsfile/live/0137_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",东南卫视
 http://123.52.109.89:9901/tsfile/live/0137_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",东方卫视
-http://36.44.152.240:9901/tsfile/live/1021_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",东方卫视
 http://59.32.97.140:9901/tsfile/live/0107_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",东方卫视
@@ -414,8 +304,6 @@ http://123.52.109.89:9901/tsfile/live/0119_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 #EXTINF:-1 group-title="央卫综合",兵器科技
 http://222.169.41.80:9901/tsfile/live/1016_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",兵团卫视
-http://36.44.152.240:9901/tsfile/live/0115_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",兵团卫视
 http://59.32.97.140:9901/tsfile/live/0115_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",兵团卫视
 http://116.11.156.95:8811/tsfile/live/0115_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
@@ -425,8 +313,6 @@ http://218.92.37.174:9901/tsfile/live/0114_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 http://59.32.97.140:9901/tsfile/live/1020_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",内蒙古卫视
 http://36.44.152.240:9901/tsfile/live/0109_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",内蒙古卫视
-http://38827sf80aj6.vicp.fun:9901/tsfile/live/0109_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",内蒙古卫视
 http://111.227.196.164:9901/tsfile/live/0109_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",内蒙古卫视
@@ -440,8 +326,6 @@ http://59.32.97.140:9901/tsfile/live/1037_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%
 #EXTINF:-1 group-title="央卫综合",凤凰卫视
 http://116.11.156.95:8811/tsfile/live/1009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",凤凰资讯
-http://36.44.152.240:9901/tsfile/live/1013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",凤凰资讯
 http://116.11.156.95:8811/tsfile/live/1001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",动作电影
 http://116.11.156.95:8811/tsfile/live/1016_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
@@ -453,8 +337,6 @@ https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3
 http://113.15.109.216:59901/tsfile/live/0122_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",北京卫视
 http://180.140.134.27:9901/tsfile/live/0122_2.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",北京卫视
-http://36.44.152.240:9901/tsfile/live/1020_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",北京卫视
 http://59.32.97.140:9901/tsfile/live/0122_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",北京卫视
@@ -719,8 +601,6 @@ http://36.136.38.87:9901/tsfile/live/1001_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%
 http://116.11.156.202:8811/tsfile/live/1028_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",延边卫视
 http://116.11.156.202:8811/tsfile/live/1087_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",影迷电影
-http://59.32.97.140:9901/tsfile/live/1024_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",新动漫
 http://59.32.97.140:9901/tsfile/live/1052_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",新疆卫视
@@ -835,8 +715,6 @@ http://116.11.156.202:8811/tsfile/live/0140_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E
 http://14.212.185.146:9901/tsfile/live/0140_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",音乐荟萃
 http://116.11.156.202:8811/tsfile/live/1065_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",香港33台
-https://rthktv33-live.akamaized.net:443/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",黑龙江卫视
 http://36.136.38.87:9901/tsfile/live/0143_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",黑龙江卫视
@@ -851,10 +729,6 @@ http://219.145.59.166:8888/tsfile/live/1013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E
 http://219.145.59.166:8888/tsfile/live/1014_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV4
 http://14.212.185.146:9901/tsfile/live/0004_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV9
-http://504099760.qicp.vip:9901/tsfile/live/0009_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV10
-http://504099760.qicp.vip:9901/tsfile/live/0010_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV11
 http://219.145.59.166:8888/tsfile/live/1021_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV11
@@ -871,8 +745,6 @@ http://14.212.185.146:9901/tsfile/live/0013_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E
 http://219.145.59.166:8888/tsfile/live/1024_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV15
 http://219.145.59.166:8888/tsfile/live/1025_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
-#EXTINF:-1 group-title="央卫综合",CCTV15
-http://504099760.qicp.vip:9901/tsfile/live/0015_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV台球
 http://222.169.41.80:9901/tsfile/live/1012_1.m3u8?%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%BD%87%E9%9B%A8%E8%90%8C%E8%90%8C%E3%80%91txiptv&playlive
 #EXTINF:-1 group-title="央卫综合",CCTV文化精品
