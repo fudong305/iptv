@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新05月03日
+#EXTINF:-1 group-title="公告",更新05月06日
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -1381,261 +1381,344 @@ http://101.65.34.130:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 http://101.65.34.130:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
-
-
 #EXTM3U
-#EXTINF:-1 group-title="湖南电信",CCTV1
-http://175.9.44.63:8081/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV2
-http://175.9.44.63:8081/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV3
-http://175.9.44.63:8081/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV4
-http://175.9.44.63:8081/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV5
-http://175.9.44.63:8081/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV6
-http://175.9.44.63:8081/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV7
-http://175.9.44.63:8081/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV8
-http://175.9.44.63:8081/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV9
-http://175.9.44.63:8081/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV10
-http://175.9.44.63:8081/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV11
-http://175.9.44.63:8081/tsfile/live/0011_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV12
-http://175.9.44.63:8081/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV13
-http://175.9.44.63:8081/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV14
-http://175.9.44.63:8081/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CCTV15
-http://175.9.44.63:8081/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="湖南电信",CGTN纪录
-http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="湖南电信",湖南卫视
-http://175.9.44.63:8081/tsfile/live/0017_1.m3u8
-#EXTINF:-1 group-title="湖南电信",湖南都市
-http://175.9.44.63:8081/tsfile/live/0018_1.m3u8
-#EXTINF:-1 group-title="湖南电信",湖南电影
-http://175.9.44.63:8081/tsfile/live/0019_1.m3u8
-#EXTINF:-1 group-title="湖南电信",湖南娱乐
-http://175.9.44.63:8081/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="湖南电信",湖南国际
-http://175.9.44.63:8081/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="湖南电信",金鹰卡通
-http://175.9.44.63:8081/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="湖南电信",江苏卫视
-http://175.9.44.63:8081/tsfile/live/0127_1.m3u8
-#EXTINF:-1 group-title="湖南电信",浙江卫视
-http://175.9.44.63:8081/tsfile/live/0124_1.m3u8
-#EXTINF:-1 group-title="湖南电信",安徽卫视
-http://175.9.44.63:8081/tsfile/live/0130_1.m3u8
-#EXTINF:-1 group-title="湖南电信",北京卫视
-http://175.9.44.63:8081/tsfile/live/0122_1.m3u8
-#EXTINF:-1 group-title="湖南电信",天津卫视
-http://175.9.44.63:8081/tsfile/live/0135_1.m3u8
-#EXTINF:-1 group-title="湖南电信",东方卫视
-http://175.9.44.63:8081/tsfile/live/0107_1.m3u8
-#EXTINF:-1 group-title="湖南电信",江西卫视
-http://175.9.44.63:8081/tsfile/live/0138_1.m3u8
-#EXTINF:-1 group-title="湖南电信",深圳卫视
-http://175.9.44.63:8081/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="湖南电信",辽宁卫视
-http://175.9.44.63:8081/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="湖南电信",东南卫视
-http://175.9.44.63:8081/tsfile/live/0137_1.m3u8
-#EXTINF:-1 group-title="湖南电信",海南卫视
-http://175.9.44.63:8081/tsfile/live/1003_1.m3u8
-#EXTINF:-1 group-title="湖南电信",广东卫视
-http://175.9.44.63:8081/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="湖南电信",湖北卫视
-http://175.9.44.63:8081/tsfile/live/0132_1.m3u8
-#EXTINF:-1 group-title="湖南电信",广西卫视
-http://175.9.44.63:8081/tsfile/live/0113_1.m3u8
-#EXTINF:-1 group-title="湖南电信",山东卫视
-http://175.9.44.63:8081/tsfile/live/0131_1.m3u8
-#EXTINF:-1 group-title="湖南电信",四川卫视
-http://175.9.44.63:8081/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="湖南电信",重庆卫视
-http://175.9.44.63:8081/tsfile/live/0142_1.m3u8
-#EXTINF:-1 group-title="湖南电信",云南卫视
-http://175.9.44.63:8081/tsfile/live/0119_1.m3u8
-#EXTINF:-1 group-title="湖南电信",宁夏卫视
-http://175.9.44.63:8081/tsfile/live/0112_1.m3u8
-#EXTINF:-1 group-title="湖南电信",西藏卫视
-http://175.9.44.63:8081/tsfile/live/0111_1.m3u8
-#EXTINF:-1 group-title="湖南电信",新疆卫视
-http://175.9.44.63:8081/tsfile/live/0110_1.m3u8
-#EXTINF:-1 group-title="湖南电信",卡酷动画
-http://175.9.44.63:8081/tsfile/live/1005_1.m3u8
-#EXTINF:-1 group-title="湖南电信",优漫卡通
-http://175.9.44.63:8081/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="湖南电信",哈哈炫动
-http://175.9.44.63:8081/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="浙江电信",CCTV1-综合
+http://115.208.64.88:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV2-财经
+http://115.208.64.88:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV3-综艺
+http://115.208.64.88:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV4-国际
+http://115.208.64.88:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV5-体育
+http://115.208.64.88:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV5+体育赛事
+http://115.208.64.88:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV6-电影
+http://115.208.64.88:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV7-军农
+http://115.208.64.88:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV8-电视剧
+http://115.208.64.88:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV9-纪录
+http://115.208.64.88:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV10-科教
+http://115.208.64.88:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV11-戏曲
+http://115.208.64.88:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV12-社会与法
+http://115.208.64.88:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV13-新闻
+http://115.208.64.88:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV14-少儿
+http://115.208.64.88:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",CCTV15-音乐
+http://115.208.64.88:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",浙江卫视
+http://115.208.64.88:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",北京卫视
+http://115.208.64.88:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",湖南卫视
+http://115.208.64.88:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",江苏卫视
+http://115.208.64.88:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",广东卫视
+http://115.208.64.88:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",深圳卫视
+http://115.208.64.88:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",上海卫视
+http://115.208.64.88:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",安徽卫视
+http://115.208.64.88:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",重庆卫视
+http://115.208.64.88:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",山东卫视
+http://115.208.64.88:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",辽宁卫视
+http://115.208.64.88:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",旅游卫视
+http://115.208.64.88:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",云南卫视
+http://115.208.64.88:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",东南卫视
+http://115.208.64.88:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",四川卫视
+http://115.208.64.88:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",湖北卫视
+http://115.208.64.88:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",江西卫视
+http://115.208.64.88:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",河北卫视
+http://115.208.64.88:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",天津卫视
+http://115.208.64.88:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",黑龙江卫视
+http://115.208.64.88:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="浙江电信",河南卫视
+http://115.208.64.88:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
 #EXTM3U
 #EXTINF:-1 group-title="上海电信",新闻综合
-http://58.32.25.58:7088/rtp/239.45.3.209:5140
+http://180.165.24.227:4022/rtp/239.45.3.209:5140
 #EXTINF:-1 group-title="上海电信",东方卫视
-http://58.32.25.58:7088/rtp/239.45.3.146:5140
-#EXTINF:-1 group-title="上海电信",都市频道
-http://58.32.25.58:7088/rtp/239.45.3.236:5140
+http://180.165.24.227:4022/rtp/239.45.3.146:5140
 #EXTINF:-1 group-title="上海电信",东方影视
-http://58.32.25.58:7088/rtp/239.45.3.237:5140
+http://180.165.24.227:4022/rtp/239.45.3.237:5140
+#EXTINF:-1 group-title="上海电信",都市频道
+http://180.165.24.227:4022/rtp/239.45.3.236:5140
 #EXTINF:-1 group-title="上海电信",第一财经
-http://58.32.25.58:7088/rtp/239.45.3.211:5140
+http://180.165.24.227:4022/rtp/239.45.3.211:5140
 #EXTINF:-1 group-title="上海电信",五星体育
-http://58.32.25.58:7088/rtp/239.45.3.210:5140
-#EXTINF:-1 group-title="上海电信",哈哈炫动
-http://58.32.25.58:7088/rtp/239.45.1.55:5140
+http://180.165.24.227:4022/rtp/239.45.3.210:5140
 #EXTINF:-1 group-title="上海电信",都市剧场
-http://58.32.25.58:7088/rtp/239.45.3.136:5140
+http://180.165.24.227:4022/rtp/239.45.3.136:5140
+#EXTINF:-1 group-title="上海电信",哈哈炫动
+http://180.165.24.227:4022/rtp/239.45.1.55:5140
 #EXTINF:-1 group-title="上海电信",欢笑剧场
-http://58.32.25.58:7088/rtp/239.45.3.196:5140
+http://180.165.24.227:4022/rtp/239.45.3.196:5140
 #EXTINF:-1 group-title="上海电信",欢笑剧场
-http://58.32.25.58:7088/rtp/239.45.1.4:5140
+http://180.165.24.227:4022/rtp/239.45.1.4:5140
 #EXTINF:-1 group-title="上海电信",乐游
-http://58.32.25.58:7088/rtp/239.45.3.135:5140
-#EXTINF:-1 group-title="上海电信",CCTV1
-http://58.32.25.58:7088/rtp/239.45.3.145:5140
-#EXTINF:-1 group-title="上海电信",CCTV3
-http://58.32.25.58:7088/rtp/239.45.1.68:5140
-#EXTINF:-1 group-title="上海电信",CCTV4
-http://58.32.25.58:7088/rtp/239.45.0.2:5140
-#EXTINF:-1 group-title="上海电信",CCTV5
-http://58.32.25.58:7088/rtp/239.45.1.69:5140
-#EXTINF:-1 group-title="上海电信",CCTV6
-http://58.32.25.58:7088/rtp/239.45.1.70:5140
-#EXTINF:-1 group-title="上海电信",CCTV7
-http://58.32.25.58:7088/rtp/239.45.3.56:5140
-#EXTINF:-1 group-title="上海电信",CCTV8
-http://58.32.25.58:7088/rtp/239.45.1.71:5140
-#EXTINF:-1 group-title="上海电信",CCTV9
-http://58.32.25.58:7088/rtp/239.45.3.4:5140
-#EXTINF:-1 group-title="上海电信",CCTV10
-http://58.32.25.58:7088/rtp/239.45.3.8:5140
-#EXTINF:-1 group-title="上海电信",CCTV11
-http://58.32.25.58:7088/rtp/239.45.1.196:5140
-#EXTINF:-1 group-title="上海电信",CCTV12
-http://58.32.25.58:7088/rtp/239.45.3.10:5140
-#EXTINF:-1 group-title="上海电信",CCTV13
-http://58.32.25.58:7088/rtp/239.45.1.198:5140
-#EXTINF:-1 group-title="上海电信",CCTV14
-http://58.32.25.58:7088/rtp/239.45.3.23:5140
-#EXTINF:-1 group-title="上海电信",CCTV15
-http://58.32.25.58:7088/rtp/239.45.1.200:5140
-#EXTINF:-1 group-title="上海电信",CCTV17
-http://58.32.25.58:7088/rtp/239.45.3.52:5140
-#EXTINF:-1 group-title="上海电信",CGTN
-http://58.32.25.58:7088/rtp/239.45.1.194:5140
-#EXTINF:-1 group-title="上海电信",动漫秀场
-http://58.32.25.58:7088/rtp/239.45.3.134:5140
-#EXTINF:-1 group-title="上海电信",生活时尚
-http://58.32.25.58:7088/rtp/239.45.3.132:5140
-#EXTINF:-1 group-title="上海电信",游戏风云
-http://58.32.25.58:7088/rtp/239.45.3.131:5140
+http://180.165.24.227:4022/rtp/239.45.3.135:5140
+#EXTINF:-1 group-title="上海电信",CCTV1-综合
+http://180.165.131.120:85/tsfile/live/1/2001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV2-财经
+http://180.165.131.120:85/tsfile/live/2/2002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV3-综艺
+http://180.165.131.120:85/tsfile/live/3/2003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV4-国际
+http://180.165.131.120:85/tsfile/live/4/2004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV5-体育
+http://180.165.131.120:85/tsfile/live/5/2005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV6-电影
+http://180.165.131.120:85/tsfile/live/6/2006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV7-军农
+http://180.165.131.120:85/tsfile/live/7/2007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV8-电视剧
+http://180.165.131.120:85/tsfile/live/8/2008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV9-记录
+http://180.165.131.120:85/tsfile/live/9/2009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV10-科教
+http://180.165.131.120:85/tsfile/live/10/2010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV11-喜剧
+http://180.165.131.120:85/tsfile/live/11/2011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV12-社会与法
+http://180.165.131.120:85/tsfile/live/12/2012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV13-新闻
+http://180.165.131.120:85/tsfile/live/13/2013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV14-少儿
+http://180.165.131.120:85/tsfile/live/14/2014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV15-音乐
+http://180.165.131.120:85/tsfile/live/15/2015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CCTV5+体育赛事
+http://180.165.131.120:85/tsfile/live/16/2016_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",东方卫视
-http://58.32.25.58:7088/rtp/239.45.3.61:5140
-#EXTINF:-1 group-title="上海电信",法治天地
-http://58.32.25.58:7088/rtp/239.45.1.46:5140
-#EXTINF:-1 group-title="上海电信",吉林卫视
-http://58.32.25.58:7088/rtp/239.45.3.248:5140
-#EXTINF:-1 group-title="上海电信",嘉定频道
-http://58.32.25.58:7088/rtp/239.45.3.185:5140
-#EXTINF:-1 group-title="上海电信",金色频道
-http://58.32.25.58:7088/rtp/239.45.1.118:5140
-#EXTINF:-1 group-title="上海电信",中国教育-1
-http://58.32.25.58:7088/rtp/239.45.1.125:5140
-#EXTINF:-1 group-title="上海电信",中国教育-2
-http://58.32.25.58:7088/rtp/239.45.1.52:5140
-#EXTINF:-1 group-title="上海电信",中国教育-4
-http://58.32.25.58:7088/rtp/239.45.1.50:5140
+http://180.165.131.120:85/tsfile/live/17/2017_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",浙江卫视
-http://58.32.25.58:7088/rtp/239.45.3.178:5140
+http://180.165.131.120:85/tsfile/live/18/2018_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",江苏卫视
-http://58.32.25.58:7088/rtp/239.45.3.177:5140
+http://180.165.131.120:85/tsfile/live/19/2019_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",湖南卫视
-http://58.32.25.58:7088/rtp/239.45.3.228:5140
+http://180.165.131.120:85/tsfile/live/20/2020_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",北京卫视
-http://58.32.25.58:7088/rtp/239.45.3.229:5140
+http://180.165.131.120:85/tsfile/live/21/2021_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",广东卫视
-http://58.32.25.58:7088/rtp/239.45.3.230:5140
+http://180.165.131.120:85/tsfile/live/22/2022_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",深圳卫视
-http://58.32.25.58:7088/rtp/239.45.3.231:5140
-#EXTINF:-1 group-title="上海电信",黑龙江卫视
-http://58.32.25.58:7088/rtp/239.45.3.232:5140
+http://180.165.131.120:85/tsfile/live/23/2023_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",山东卫视
-http://58.32.25.58:7088/rtp/239.45.3.238:5140
+http://180.165.131.120:85/tsfile/live/24/2024_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",湖北卫视
-http://58.32.25.58:7088/rtp/239.45.3.239:5140
+http://180.165.131.120:85/tsfile/live/25/2025_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",安徽卫视
-http://58.32.25.58:7088/rtp/239.45.1.120:5140
+http://180.165.131.120:85/tsfile/live/26/2026_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",东南卫视
-http://58.32.25.58:7088/rtp/239.45.1.121:5140
+http://180.165.131.120:85/tsfile/live/27/2027_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",江西卫视
-http://58.32.25.58:7088/rtp/239.45.1.122:5140
+http://180.165.131.120:85/tsfile/live/28/2028_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",辽宁卫视
-http://58.32.25.58:7088/rtp/239.45.1.123:5140
+http://180.165.131.120:85/tsfile/live/29/2029_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",天津卫视
-http://58.32.25.58:7088/rtp/239.45.1.124:5140
+http://180.165.131.120:85/tsfile/live/30/2030_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",四川卫视
-http://58.32.25.58:7088/rtp/239.45.1.83:5140
+http://180.165.131.120:85/tsfile/live/31/2031_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",重庆卫视
-http://58.32.25.58:7088/rtp/239.45.1.84:5140
+http://180.165.131.120:85/tsfile/live/32/2032_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",贵州卫视
-http://58.32.25.58:7088/rtp/239.45.1.80:5140
+http://180.165.131.120:85/tsfile/live/33/2033_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",海南卫视
-http://58.32.25.58:7088/rtp/239.45.1.81:5140
+http://180.165.131.120:85/tsfile/live/34/2034_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",河北卫视
-http://58.32.25.58:7088/rtp/239.45.1.44:5140
-#EXTINF:-1 group-title="上海电信",金鹰纪实
-http://58.32.25.58:7088/rtp/239.45.1.45:5140
-#EXTINF:-1 group-title="上海电信",宁夏卫视
-http://58.32.25.58:7088/rtp/239.45.1.213:5140
-#EXTINF:-1 group-title="上海电信",广西卫视
-http://58.32.25.58:7088/rtp/239.45.0.5:5140
-#EXTINF:-1 group-title="上海电信",吉林卫视
-http://58.32.25.58:7088/rtp/239.45.0.6:5140
-#EXTINF:-1 group-title="上海电信",山西卫视
-http://58.32.25.58:7088/rtp/239.45.1.229:5140
-#EXTINF:-1 group-title="上海电信",青海卫视
-http://58.32.25.58:7088/rtp/239.45.1.230:5140
-#EXTINF:-1 group-title="上海电信",西藏卫视
-http://58.32.25.58:7088/rtp/239.45.1.231:5140
-#EXTINF:-1 group-title="上海电信",陕西卫视
-http://58.32.25.58:7088/rtp/239.45.1.232:5140
-#EXTINF:-1 group-title="上海电信",云南卫视
-http://58.32.25.58:7088/rtp/239.45.0.4:5140
-#EXTINF:-1 group-title="上海电信",甘肃卫视
-http://58.32.25.58:7088/rtp/239.45.1.234:5140
-#EXTINF:-1 group-title="上海电信",内蒙古卫视
-http://58.32.25.58:7088/rtp/239.45.1.238:5140
+http://180.165.131.120:85/tsfile/live/35/2035_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",河南卫视
-http://58.32.25.58:7088/rtp/239.45.0.3:5140
+http://180.165.131.120:85/tsfile/live/36/2036_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",云南卫视
+http://180.165.131.120:85/tsfile/live/37/2037_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",广西卫视
+http://180.165.131.120:85/tsfile/live/38/2038_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",吉林卫视
+http://180.165.131.120:85/tsfile/live/39/2039_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",甘肃卫视
+http://180.165.131.120:85/tsfile/live/40/2040_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",青海卫视
+http://180.165.131.120:85/tsfile/live/41/2041_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",宁夏卫视
+http://180.165.131.120:85/tsfile/live/42/2042_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",西藏卫视
+http://180.165.131.120:85/tsfile/live/43/2043_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",新疆卫视
-http://58.32.25.58:7088/rtp/239.45.1.116:5140
+http://180.165.131.120:85/tsfile/live/44/2044_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",兵团卫视
-http://58.32.25.58:7088/rtp/239.45.1.117:5140
-#EXTINF:-1 group-title="上海电信",三沙卫视
-http://58.32.25.58:7088/rtp/239.45.1.82:5140
-#EXTINF:-1 group-title="上海电信",康巴卫视
-http://58.32.25.58:7088/rtp/239.45.1.251:5140
+http://180.165.131.120:85/tsfile/live/45/2045_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",黑龙江卫视
+http://180.165.131.120:85/tsfile/live/46/2046_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",东南卫视
+http://180.165.131.120:85/tsfile/live/47/2047_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",陕西卫视
+http://180.165.131.120:85/tsfile/live/48/2048_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",延边卫视
+http://180.165.131.120:85/tsfile/live/49/2049_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",动漫秀场
+http://180.165.131.120:85/tsfile/live/50/2050_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",哈哈炫动
+http://180.165.131.120:85/tsfile/live/51/2051_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="上海电信",金鹰卡通
-http://58.32.25.58:7088/rtp/239.45.3.118:5140
-#EXTINF:-1 group-title="上海电信",嘉佳卡通
-http://58.32.25.58:7088/rtp/239.45.1.48:5140
-#EXTINF:-1 group-title="上海电信",卡酷少儿
-http://58.32.25.58:7088/rtp/239.45.0.8:5140
-#EXTINF:-1 group-title="上海电信",纪实科教
-http://58.32.25.58:7088/rtp/239.45.1.14:5140
+http://180.165.131.120:85/tsfile/live/52/2052_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",上海教育
+http://180.165.131.120:85/tsfile/live/53/2053_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CHC家庭影院
+http://180.165.131.120:85/tsfile/live/54/2054_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CHC动作电影
+http://180.165.131.120:85/tsfile/live/55/2055_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="上海电信",CHC影迷电影
+http://180.165.131.120:85/tsfile/live/56/2056_1.m3u8?key=txiptv
 
 
+
+#EXTM3U
+#EXTINF:-1 group-title="四川电信",CCTV1
+http://182.137.194.158:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV2
+http://182.137.194.158:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV3
+http://182.137.194.158:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV4
+http://182.137.194.158:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV5
+http://182.137.194.158:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV6
+http://182.137.194.158:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV7
+http://182.137.194.158:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV8
+http://182.137.194.158:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV9
+http://182.137.194.158:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV10
+http://182.137.194.158:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV11
+http://182.137.194.158:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV12
+http://182.137.194.158:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV13
+http://182.137.194.158:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV14
+http://182.137.194.158:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV15
+http://182.137.194.158:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV17
+http://182.137.194.158:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CCTV5+
+http://182.137.194.158:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",CGTN
+http://182.137.194.158:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",四川卫视
+http://182.137.194.158:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",四川经济
+http://182.137.194.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",四川文化
+http://182.137.194.158:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",四川新闻
+http://182.137.194.158:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",四川影视
+http://182.137.194.158:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",四川科教
+http://182.137.194.158:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",四川乡村
+http://182.137.194.158:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",湖南卫视
+http://182.137.194.158:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",江苏卫视
+http://182.137.194.158:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",浙江卫视
+http://182.137.194.158:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",东方卫视
+http://182.137.194.158:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",北京卫视
+http://182.137.194.158:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",深圳卫视
+http://182.137.194.158:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",广东卫视
+http://182.137.194.158:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",天津卫视
+http://182.137.194.158:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",山东卫视
+http://182.137.194.158:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",江西卫视
+http://182.137.194.158:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",东南卫视
+http://182.137.194.158:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",黑龙江卫视
+http://182.137.194.158:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",重庆卫视
+http://182.137.194.158:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",贵州卫视
+http://182.137.194.158:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",湖北卫视
+http://182.137.194.158:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",安徽卫视
+http://182.137.194.158:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",河北卫视
+http://182.137.194.158:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",辽宁卫视
+http://182.137.194.158:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",河南卫视
+http://182.137.194.158:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",广西卫视
+http://182.137.194.158:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",云南卫视
+http://182.137.194.158:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",吉林卫视
+http://182.137.194.158:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",青海卫视
+http://182.137.194.158:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",山西卫视
+http://182.137.194.158:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",内蒙卫视
+http://182.137.194.158:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="四川电信",四川|黑水新闻综合
+http://live.schstv.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="四川电信",四川|德阳新闻综合
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+#EXTINF:-1 group-title="四川电信",四川|广安公共
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 group-title="四川电信",剑阁综合频道
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1 group-title="四川电信",四川|金川乡村
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8
+#EXTINF:-1 group-title="四川电信",四川|金川新闻综合
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="四川电信",四川|乐至综合
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1 group-title="四川电信",四川|松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 group-title="四川电信",四川|汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="四川电信",四川|营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="重庆电信",CCTV1
@@ -1749,16 +1832,6 @@ http://183.66.15.146:60901/tsfile/live/0110_2.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="广东地区",广东广州综合
-http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
-#EXTINF:-1 group-title="广东地区",广东广州新闻
-http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-#EXTINF:-1 group-title="广东地区",广东广州影视
-http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
-#EXTINF:-1 group-title="广东地区",广东广州法治
-http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
-#EXTINF:-1 group-title="广东地区",广东广州南国
-http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 #EXTINF:-1 group-title="广东地区",广东番禺电视台
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 group-title="广东地区",广东河源综合
@@ -1787,6 +1860,35 @@ http://113.101.119.27:8090/hls/108/index.m3u8
 http://113.101.119.27:8090/hls/110/index.m3u8
 #EXTINF:-1 group-title="广东地区",广东少儿
 http://113.101.119.27:8090/hls/111/index.m3u8
+#EXTINF:-1 group-title="广东地区",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+#EXTINF:-1 group-title="广东地区",广州影视
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
+#EXTINF:-1 group-title="广东地区",广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+#EXTINF:-1 group-title="广东地区",广州竞赛
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
+#EXTINF:-1 group-title="广东地区",广州法治
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
+#EXTINF:-1 group-title="广东地区",东莞综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+#EXTINF:-1 group-title="广东地区",广州南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 group-title="广东地区",东莞生活资讯
+https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+#EXTINF:-1 group-title="广东地区",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="广东地区",梅州综合
+http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv1.m3u8
+#EXTINF:-1 group-title="广东地区",客家生活
+http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv2.m3u8
+#EXTINF:-1 group-title="广东地区",韶关综合
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="广东地区",番禺新闻
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 group-title="广东地区",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+
 #EXTINF:-1 group-title="广东地区",CCTV2
 http://113.101.119.27:8090/hls/114/index.m3u8
 #EXTINF:-1 group-title="广东地区",CCTV3
@@ -4330,34 +4432,16 @@ http://live4play.uk/livehttpplay?channel_id=20083
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 group-title="台湾专区",GOOD2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-#EXTINF:-1 group-title="台湾专区",探索频道
-http://61.221.215.25:8800/hls/1/index.m3u8
-#EXTINF:-1 group-title="台湾专区",探索亚洲
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="台湾专区",八大综合台
-http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 group-title="台湾专区",八大戏剧台
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 group-title="台湾专区",八大第一台
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 group-title="台湾专区",中华小当家
-http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 group-title="台湾专区",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="台湾专区",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 group-title="台湾专区",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="台湾专区",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="台湾专区",NHK WORLD
-http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 group-title="台湾专区",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="台湾专区",音乐欣赏1
+#EXTINF:-1 group-title="台湾专区",音乐欣赏
 http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 group-title="台湾专区",音乐欣赏2
-http://61.221.215.25:8800/hls/58/index.m3u8
 #EXTINF:-1 group-title="台湾专区",民視第壹
 http://37.27.111.214:8080/live/4/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",民視台灣
@@ -4366,8 +4450,6 @@ http://37.27.111.214:8080/live/5/hls.m3u8
 http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",CMUSIC音樂
 http://37.27.111.214:8080/live/72/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",博斯運動1
-http://37.27.111.214:8080/live/14/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",TVBS歡樂
 http://37.27.111.214:8080/live/24/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",博斯高球1
@@ -4376,8 +4458,6 @@ http://37.27.111.214:8080/live/13/hls.m3u8
 http://37.27.111.214:8080/live/16/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",東森新聞
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",亞洲旅遊
-http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",東森新聞
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",三立
@@ -4398,138 +4478,6 @@ http://37.27.111.214:8080/live/48/hls.m3u8
 http://37.27.111.214:8080/live/63/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",公視戲劇
 http://37.27.111.214:8080/live/87/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",CINEMA WORLD
-http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",全球財經
-http://37.27.111.214:8080/live/64/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",華視新聞
-http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",互動英語
-http://37.27.111.214:8080/live/54/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",Nickelodeon
-http://37.27.111.214:8080/live/12/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",CinemaWorld
-http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",LOVE NATURE
-http://37.27.111.214:8080/live/84/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",ROCK ACTION
-http://37.27.111.214:8080/live/94/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",TECH STORM
-http://37.27.111.214:8080/live/80/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",劇3
-http://37.27.111.214:8080/live/111/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",哆啦A夢
-http://37.27.111.214:8080/live/107/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",劇2
-http://37.27.111.214:8080/live/109/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",鏡新聞
-http://37.27.111.214:8080/live/62/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",BLOOMBERG
-http://37.27.111.214:8080/live/34/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",豬哥亮
-http://37.27.111.214:8080/live/35/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",劇
-http://37.27.111.214:8080/live/108/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",探案
-http://37.27.111.214:8080/live/11/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",DW NEWS
-http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",HISTORY
-http://37.27.111.214:8080/live/27/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",hokkotv
-http://37.27.111.214:8080/live/1/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",電影
-http://37.27.111.214:8080/live/11/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",民視
-http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",中視
-http://37.27.111.214:8080/live/7/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",華視
-http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",影迷
-http://37.27.111.214:8080/live/92/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",中視
-http://37.27.111.214:8080/live/7/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",超人
-http://37.27.111.214:8080/live/110/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",綜藝
-http://37.27.111.214:8080/live/67/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",影劇
-http://37.27.111.214:8080/live/88/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",旅遊
-http://37.27.111.214:8080/live/82/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",民視
-http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",KOREA
-http://37.27.111.214:8080/live/52/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",TVBS
-http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",ROCK
-http://37.27.111.214:8080/live/70/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",HITS
-http://37.27.111.214:8080/live/28/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",CNBC
-http://37.27.111.214:8080/live/102/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",momo
-http://37.27.111.214:8080/live/3/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",LUXE
-http://37.27.111.214:8080/live/86/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",MTV
-http://37.27.111.214:8080/live/25/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",MCE
-http://37.27.111.214:8080/live/98/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",VOA
-http://37.27.111.214:8080/live/45/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",elta生活旅遊
-http://37.27.111.214:8080/live/85/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",亞洲旅遊
-http://37.27.111.214:8080/live/10/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",靖洋戲居
-http://37.27.111.214:8080/live/17/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",靖天電影
-http://37.27.111.214:8080/live/18/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",環宇財經
-http://37.27.111.214:8080/live/65/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",智林體育
-http://37.27.111.214:8080/live/77/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",東森購物
-http://37.27.111.214:8080/live/66/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",人間衛視
-http://37.27.111.214:8080/live/101/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",八大綜合
-http://37.27.111.214:8080/live/21/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",幸福空間
-http://37.27.111.214:8080/live/26/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",東森購物
-http://37.27.111.214:8080/live/61/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",博斯無限
-http://37.27.111.214:8080/live/15/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",LIFE TIME
-http://37.27.111.214:8080/live/71/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",動畫
-http://37.27.111.214:8080/live/57/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",TV5 MONDE
-http://37.27.111.214:8080/live/9/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",PET CLUB
-http://37.27.111.214:8080/live/81/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",FESTIVAL
-http://37.27.111.214:8080/live/83/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",動漫2
-http://37.27.111.214:8080/live/106/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",HakkaTV
-http://37.27.111.214:8080/live/1/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",動漫
-http://37.27.111.214:8080/live/105/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",nickjr
-http://37.27.111.214:8080/live/22/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",CNBC
-http://37.27.111.214:8080/live/102/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",居家
-http://37.27.111.214:8080/live/26/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",GOOD2
-http://37.27.111.214:8080/live/99/hls.m3u8
-#EXTINF:-1 group-title="台湾专区",TiTV
-http://37.27.111.214:8080/live/2/hls.m3u8
 #EXTINF:-1 group-title="台湾专区",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="台湾专区",台视
@@ -4939,17 +4887,81 @@ http://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=2027429324-c77b
 
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+%E4%BD%93%E8%82%B2.png" group-title="体育频道",CCTV5 体育
-https://feiyang.wangdu.site/decrypt.php?url=WFlGZUc4Q0dhc0ZqWDJDYzkydG9NRVIwdXRZTGVLMlB2RS9HSWNBK3ZZS01QYlRtOHBMMzE5S1p5QmlScmJFMQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+%E4%BD%93%E8%82%B2.png" group-title="体育频道",CCTV5 体育
 https://feiyang.wangdu.site/decrypt.php?url=UUZnZkUvM1JXejhoVVUzbFZUYXJ6a0ZDWXVRYUR3aTVnUjZVbm5lVGd3b2dra1orZ3d5L3RZTFEzeHFTRWhFbCs4eVMrRkUrTTdKN25lN3lhVlFKUmc9PQ%3D%3D
 #EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+%E4%BD%93%E8%82%B2.png" group-title="体育频道",CCTV5 体育
 https://feiyang.wangdu.site/decrypt.php?url=WEtFeXBOcUNMY1dNWTM0SWEwV3BDNkY3STdNZjIwbHEwY1pGYkxpaVB6Y3YzZGt2a1g1QkpuVkVhZ3ZKb3RjZA%3D%3D
 #EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+%E4%BD%93%E8%82%B2.png" group-title="体育频道",CCTV5 体育
-https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQTF2c3I1TElMM1ZoK3Y1TmRjK0I3QVZBMndsZlZLaGxJVkplM3RCZVRzMEE9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+%E4%BD%93%E8%82%B2.png" group-title="体育频道",CCTV5 体育
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzV3UwMHVKd3VUWVNqUWY1SDNVWkVTcA%3D%3D
 #EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+%E4%BD%93%E8%82%B2.png" group-title="体育频道",CCTV5 体育
+https://feiyang.wangdu.site/decrypt.php?url=WFlGZUc4Q0dhc0ZqWDJDYzkydG9NRVIwdXRZTGVLMlB2RS9HSWNBK3ZZS01QYlRtOHBMMzE5S1p5QmlScmJFMQ%3D%3D
+#EXTINF:-1 tvg-name="CCTV5 体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+%E4%BD%93%E8%82%B2.png" group-title="体育频道",CCTV5 体育
 https://feiyang.wangdu.site/decrypt.php?url=cVRLYVlpbmhxaFhua01QUmVDVVhuWkFGMmxKa01VZ2ZMRlUzTjFIb3E4ZjRVVThuRkltYythODFTWnR3QmdaRA%3D%3D
+#EXTINF:-1 tvg-name="CCTV5+ 体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B+%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="体育频道",CCTV5+ 体育赛事
+https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVjEvMjB0VytBTWhDSDFiWWhEZno3Rw%3D%3D
+#EXTINF:-1 tvg-name="CCTV5+ 体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B+%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="体育频道",CCTV5+ 体育赛事
+https://feiyang.wangdu.site/decrypt.php?url=WFVmRzRCdVZ2RW1YdTJPQmpRaDV5bk9DLzBwSGVCbkgxT2p2N0RaVE4vaG1TNXBxcmRidG15M3RBWktOanE5SnZXQ01aRlo1RGhSZlJmNDNFTHkrVGc9PQ%3D%3D
+#EXTINF:-1 tvg-name="CCTV5+ 体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B+%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="体育频道",CCTV5+ 体育赛事
+https://feiyang.wangdu.site/decrypt.php?url=cVRLYVlpbmhxaFhua01QUmVDVVhuWjlOTldmaHQwdlVKM3RwQkZuWEFKWjVFdDlvZmx0andIVm83RlZ1RnlpMg%3D%3D
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="体育频道",CCTV央视台球
+http://222.169.41.80:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="体育频道",CCTV央视台球
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="体育频道",CCTV风云足球
+https://feiyang.wangdu.site/decrypt.php?url=Tm9DSElnaGtHSTVFblcwV3ZUcDAwdTZ0K1RiMnFkWHlTcjN2ZVM3TEVud25nQVppV1VKMHFhU0UybUs0WStjZG10aDFTSDIvSUo2ZVpuaytFOWlhejB1VmlLQ0hHbkladGlJWXFiY1h4ZmsyVkZkdVdDSk52YWFHTjNFSGFyQWloTDFya2pFWGZlSWpYWU44MSt6Q2VnPT0%3D
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="体育频道",CCTV风云足球
+http://222.169.41.80:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="DD-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DD-%E8%A7%A3%E8%AF%B4.png" group-title="体育频道",DD-解说
+http://www.douzhicloud.site:35455/huya/25650806
+#EXTINF:-1 tvg-name="HOOPPARK篮球公园" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOOPPARK%E7%AF%AE%E7%90%83%E5%85%AC%E5%9B%AD.png" group-title="体育频道",HOOPPARK篮球公园
+http://www.douzhicloud.site:35455/douyu/10228726
+#EXTINF:-1 tvg-name="JG影视解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JG%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.png" group-title="体育频道",JG影视解说
+http://www.douzhicloud.site:35455/douyu/9391277
+#EXTINF:-1 tvg-name="一哥爱解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%80%E5%93%A5%E7%88%B1%E8%A7%A3%E8%AF%B4.png" group-title="体育频道",一哥爱解说
+http://www.douzhicloud.site:35455/huya/28806915
+#EXTINF:-1 tvg-name="一朵老香菇解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%80%E6%9C%B5%E8%80%81%E9%A6%99%E8%8F%87%E8%A7%A3%E8%AF%B4.png" group-title="体育频道",一朵老香菇解说
+http://www.douzhicloud.site:35455/douyu/10050914
+#EXTINF:-1 tvg-name="五星体育-10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2-10.png" group-title="体育频道",五星体育-10
+http://116.231.159.5:7088/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="五星体育-3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2-3.png" group-title="体育频道",五星体育-3
+http://180.165.27.97:7088/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="五星体育-11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2-11.png" group-title="体育频道",五星体育-11
+http://180.165.25.50:4022/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="博斯高球2 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832+HD.png" group-title="体育频道",博斯高球2 HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosigolf2_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="咪咕精彩体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%92%AA%E5%92%95%E7%B2%BE%E5%BD%A9%E4%BD%93%E8%82%B2.png" group-title="体育频道",咪咕精彩体育
+https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVnNQM1Q5UmJwaXJmazVHWFkwVFVyUg%3D%3D
+#EXTINF:-1 tvg-name="咪咕精彩足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%92%AA%E5%92%95%E7%B2%BE%E5%BD%A9%E8%B6%B3%E7%90%83.png" group-title="体育频道",咪咕精彩足球
+https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVnJCcnJvd25JaGRrTW1xK3VTZ3Znaw%3D%3D
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png" group-title="体育频道",哒啵赛事
+https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVkpUc3lENFR5elpLenR2UVdMbHNFRw%3D%3D
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",山东体育
+http://live.xmcdn.com/live/805/64.m3u8
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",山东体育
+http://222.173.108.238:352/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",山东体育
+https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-36.ctv
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+http://192.3.130.92:20007/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+https://feiyang.wangdu.site/decrypt.php?url=ZXovYWVFSWRDS3R6SFI2dW5KS2RDeFJ6Y0tPaWM4TWZZSnpNQkpTWHVxU0VKMFFhbW0rVGFZMG1aUHRobTQ4TnJVc3dKR1o1Y2dtL3ZlZ2lERGM4R1E9PQ%3D%3D
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4ZURyczN4MUVDeVB4V2NTUGk0TEx2ZVJxYU95Q0ZQUWRtWHpXVm43U3JsMw%3D%3D
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+https://feiyang.wangdu.site/decrypt.php?url=ajl5SW4vQVpVbjFLbVVUQitJUkV5SDQ4SytiSHV0ZUdZR3dDWG9rSFY3UVhqTXM3YlJCS0JPM1kzYzdIVG94RmV3cTNkVmFqd2c2YlpOdVBRWUtTTjZ3dmJUVEpvcjJTZjZPcklDSW5UaDZSZXVrMG1RRng0NEE5K1owWG5tVVc%3D
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+http://113.101.119.50:808/hls/108/index.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育频道",广东体育
+http://113.101.119.27:8090/hls/108/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+ 体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B+%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="体育频道",CCTV5+ 体育赛事
 https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQThoakVtSkVIQ0VBNGRqRjdKN1ZZQ0IyZzBLUWtoWk51Z2ErdnQwZlBBNVE9PQ%3D%3D
 #EXTINF:-1 tvg-name="CCTV5+ 体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B+%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="体育频道",CCTV5+ 体育赛事
@@ -4976,8 +4988,6 @@ https://feiyang.wangdu.site/decrypt.php?url=bkF4dW5wMzRSVERYTmtJV3VkSmxwVmNlOXg0
 https://feiyang.wangdu.site/decrypt.php?url=Tm9DSElnaGtHSTVFblcwV3ZUcDAwdTZ0K1RiMnFkWHlTcjN2ZVM3TEVud25nQVppV1VKMHFhU0UybUs0WStjZG10aDFTSDIvSUo2ZVpuaytFOWlhejB1VmlLQ0hHbkladGlJWXFiY1h4ZmsyVkZkdVdDSk52YWFHTjNFSGFyQWloTDFya2pFWGZlSWpYWU44MSt6Q2VnPT0%3D
 #EXTINF:-1 tvg-name="DD-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DD-%E8%A7%A3%E8%AF%B4.png" group-title="体育频道",DD-解说
 http://www.douzhicloud.site:35455/huya/25650806
-#EXTINF:-1 tvg-name="ELEVEN体育1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELEVEN%E4%BD%93%E8%82%B21.png" group-title="体育频道",ELEVEN体育1
-rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="ELEVEN体育2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELEVEN%E4%BD%93%E8%82%B22.png" group-title="体育频道",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELTA%E4%BD%93%E8%82%B21.png" group-title="体育频道",ELTA体育1
